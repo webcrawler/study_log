@@ -1,0 +1,13 @@
+iPhone/iPod Touch:
+3£º2 ÆÕÍ¨ÆÁ 3.5´ç 320ÏñËØ x 480ÏñËØ iPhone 1¡¢3G¡¢3GS£¬iPod Touch 1¡¢2¡¢3
+3£º2 RetinaÆÁ 3.5´ç 640ÏñËØ x 960ÏñËØ iPhone 4¡¢4S£¬iPod Touch 4
+16£º9 RetinaÆÁ 4.0´ç 640ÏñËØ x 1136ÏñËØ iPhone 5£¬5s, 5c, iPod Touch 5
+16: 9(ÀàËÆ) iphone6 4.7Ó¢´ç 1334x750ÏñËØ
+16: 9 iphone6 plus 5.5Ó¢´ç 1920x1080ÏñËØ
+iPad: 
+4£º3 ÆÕÍ¨ÆÁ 9.7´ç 768ÏñËØ x 1024ÏñËØ iPad 1£¬ iPad2£¬iPad mini(7.9´ç)
+4£º3 RetinaÆÁ 9.7´ç 1536ÏñËØ x 2048ÏñËØ New iPad£¬iPad 4
+
+static const float c_iphone5_ratio = 16.0f/9.0f; // 1.777
+static const float c_iphone4_ratio = 3.0f/2.0f; // 1.5
+static const float c_ipad_ratio = 4.0f/3.0f; // 1.33
