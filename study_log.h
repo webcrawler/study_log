@@ -175,7 +175,71 @@ ln -s /Applications/Beyond Compare\ Compare.app/Contents/MacOS/bcomp /usr/local/
 
 11.
 
+环境变量设置：
 
+CLASSPATH  .;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
+JAVA_HOME  D:\Program Files\Java\jdk1.7.0_51
+path  %JAVA_HOME%\bin;C:\Program Files\Java\jre7\bin;C:\Python27;
+
+
+COCOS_CONSOLE_ROOT  D:\cocos2d-x-3.2\tools\cocos2d-console\bin
+ANDROID_SDK_ROOT  D:\android\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk
+ANT_ROOT  D:\android\apache-ant-1.9.3-bin\apache-ant-1.9.3\bin
+NDK_ROOT  D:\android\android-ndk-r9-windows-x86\android-ndk-r9
+Path   %NDK_ROOT%;%ANT_ROOT%;%ANDROID_SDK_ROOT%;%ANDROID_SDK_ROOT%\tools;%ANDROID_SDK_ROOT%\platform-tools;%COCOS_CONSOLE_ROOT%;
+编译打包(1):
+1. 按住shift键+鼠标右键 选择在此处(F:\cocos2d-x-3.2alpha0\cocos2d-x-3.2alpha0\tests\cpp-empty-test)打开命令窗口
+2. cocos compile -p android –-ap 20
+3. 生成包 F:\cocos2d-x-3.2alpha0\cocos2d-x-3.2alpha0\tests\cpp-empty-test\publish\android\CppEmptyTest-debug.apk
+4. cd到apk目录 adb install CppEmptyTest-debug.apk
+编译打包(2)(旧方法):
+1. 进入 F:\cocos2d-x-3.2alpha0\cocos2d-x-3.2alpha0\build
+2. 查看当前sdk中所包含的target以及相应id: android list targets
+3. python android-build.py -p 19 cpp-empty-test     (19为target)
+4. 生成包 F:\cocos2d-x-3.2alpha0\cocos2d-x-3.2alpha0\tests\cpp-empty-test\proj.android\bin\CppEmptyTest-debug.apk
+
+
+使用Cocos2d-Console这个工具来创建和构建工程，这个工具提供了下面几个功能：
+new 创建一个新的工程
+compile 编译当前工程，生成二进制文件
+deploy 发布程序到一个平台
+run 编译和发布，和运行程序
+
+cocos new Hello -p com.fjut.org -l cpp -d E:\
+
+/////////////////// 
+http://[jenkins-server]/[command] 
+在这里[command]可以是：exit 退出，restart 重启， reload 重载。
+
+1、BUILD FAILED: Android Unable to resolve target 'android-8'
+在打包.apk的时候报下错误：
+BUILD FAILED: Android Unable to resolve target 'android-8' .
+这是因为原有project.properties 的 Project target 的版本号与你当前的android环境所支持的AVD版本号不一致，
+解决： 打开项目文件project.properties ,修改其 target值，如 target=android-10//(对应的版本) 如果没有project.properties, 自己建立一个。
+
+1、Android NDK: WARNING: APP_PLATFORM android-9 is larger than android:minSdkVersion 8 in ./AndroidManifest.xml
+解决： NDK指定的版本与minSdkVersion不一致,找到proj.android目录下的AndroidManifest.xml，修改其minSdkVersion值  如<uses-sdk android:minSdkVersion="9"/>
+
+3. Installation error: INSTALL_FAILED_INSUFFICIENT_STORAGE
+解决方法1：直接在手机上面卸载该APK
+解决方法2：试试修改一下manifest文件 :添加一句: 
+android:installLocation="preferExternal" 
+
+4.
+android mac上环境变量配置 open ~/.bash_profile
+
+export NDK_ROOT=/Users/admin/Documents/game/android-ndk-r9d
+export PATH=$NDK_ROOT:$PATH
+
+export COCOS_CONSOLE_ROOT=/Users/admin/Documents/game/cocos2d-x-3.2/tools/cocos2d-console/bin
+export PATH=$COCOS_CONSOLE_ROOT:$PATH
+
+export ANDROID_SDK_ROOT=/Users/admin/Documents/game/adt-bundle-mac-x86_64-20140624/sdk
+export PATH=$ANDROID_SDK_ROOT:$PATH
+export PATH=$ANDROID_SDK_ROOT/tools:$ANDROID_SDK_ROOT/platform-tools:$PATH
+
+export ANT_ROOT=/Users/admin/Documents/game/apache-ant-1.9.5/bin
+export PATH=$ANT_ROOT:$PATH
 
 
 
