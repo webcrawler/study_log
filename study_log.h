@@ -253,8 +253,10 @@ export PATH=$ANDROID_SDK_ROOT/tools:$ANDROID_SDK_ROOT/platform-tools:$PATH
 export ANT_ROOT=/Users/admin/Documents/game/apache-ant-1.9.5/bin
 export PATH=$ANT_ROOT:$PATH
 
+5. iOS开发-Xcode Debug、Release、Archive、Profile、Analyze概念解释
+   http://blog.csdn.net/mad1989/article/details/40658033
 
-
+6. 
 
 
 
