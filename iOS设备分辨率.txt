@@ -2,11 +2,12 @@ iPhone/iPod Touch:
 3：2 普通屏 3.5寸 320像素 x 480像素 iPhone 1、3G、3GS，iPod Touch 1、2、3
 3：2 Retina屏 3.5寸 640像素 x 960像素 iPhone 4、4S，iPod Touch 4
 16：9 Retina屏 4.0寸 640像素 x 1136像素 iPhone 5，5s, 5c, iPod Touch 5
-16: 9(类似) iphone6 4.7英寸 1334x750像素
-16: 9 iphone6 plus 5.5英寸 1920x1080像素
+16: 9(类似) iphone6/iphone6s 4.7英寸 1334x750像素
+16: 9 iphone6 plus/iphone6s plus 5.5英寸 1920x1080像素
 iPad: 
 4：3 普通屏 9.7寸 768像素 x 1024像素 iPad 1， iPad2，iPad mini(7.9寸)
 4：3 Retina屏 9.7寸 1536像素 x 2048像素 New iPad，iPad 4
+4: 3 12.9英寸，2732x2048分辨率 iPad Pro
 
 static const float c_iphone5_ratio = 16.0f/9.0f; // 1.777
 static const float c_iphone4_ratio = 3.0f/2.0f; // 1.5
