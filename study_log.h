@@ -256,8 +256,7 @@ export PATH=$ANT_ROOT:$PATH
 5. iOS开发-Xcode Debug、Release、Archive、Profile、Analyze概念解释
    http://blog.csdn.net/mad1989/article/details/40658033
 
-6. 
-
+6. 报错: "relocation overflow in R_ARM_THM_CALL"  解决: 删除proj.android下obj文件夹，重新build
 
 
 
