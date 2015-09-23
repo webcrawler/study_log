@@ -180,7 +180,7 @@ cocos2dx3.2 ndkr9d，在android5.0下 curl无效
 curl引起
 解决方法
 更新cocos官方最新curl, https://github.com/cocos2d/cocos2d-x-3rd-party-libs-bin
-使用ndkr10c
+使用ndkr10c  (maybe ndkr10e)
 编译提示 BundleReader::tell() 函数定义和声明的类型不一致，修改声明 long int tell() 为 ssize_t tell();  （ndk bug）
 参考
 https://github.com/cocos2d/cocos2d-x/issues/9138
