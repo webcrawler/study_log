@@ -264,7 +264,7 @@ export PATH=$ANT_ROOT:$PATH
 输入一个特有的文件名，否则使用默认的 id_rsa。
 passphrase。不输入也可以。输入之后，提交的时候要输入这个passphrase
 完成后在 ~/.ssh/ 会生成2个文件。id_rsa 和 id_rsa.pub。前者是私钥，注意保管，后者是公钥。
-登录之后: Profile Settings => SSH-Keys => Add SSH key。
+目录：/Users/admin/.ssh/id_rsa.pub，打开拷贝里面公钥，登录gitlab: Profile Settings => SSH-/Keys => Add SSH key。
 2. git clone git@192.168.1.22:xx/xx.git
 3. SourceTree 添加文件夹
 
