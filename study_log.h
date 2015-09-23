@@ -258,7 +258,6 @@ export PATH=$ANT_ROOT:$PATH
 
 6. 报错: "relocation overflow in R_ARM_THM_CALL"  解决: 删除proj.android下obj文件夹，重新build
 
-
 12. Gitlab配置ssh连接:
 1. ssh-keygen -t rsa -C "xx@feiyu.com" -C 选项后是备注，可随意。
 命令执行后会要求输入key存储的文件名和passphrase：
