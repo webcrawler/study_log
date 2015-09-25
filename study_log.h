@@ -363,7 +363,7 @@ android 判断网络状态:
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 public int getNetworkStatus(Context context)
 {
-    ConnectivityManager connActivityManager = (ConnectivityManager) pContext.getSystemService(context.CONNECTIVITY_SERVICE);
+    ConnectivityManager connActivityManager = (ConnectivityManager) context.getSystemService(context.CONNECTIVITY_SERVICE);
     NetworkInfo mNetworkInfo = connActivityManager.getActiveNetworkInfo();
     if (mNetworkInfo != null && mNetworkInfo.isAvailable())
     {
@@ -387,7 +387,8 @@ public int getNetworkStatus(Context context)
     return 1;
 }
 
-
+10. xcodebuild, xcrun 命令行编译打包ipa
+xcodebuild -scheme 'maze2.0.0 iOS' -destination 'platform=iphonesimulator,name=iPhone 6 Plus' -derivedDataPath build
 
 
 
