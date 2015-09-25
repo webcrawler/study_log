@@ -268,6 +268,18 @@ passphrase。不输入也可以。输入之后，提交的时候要输入这个p
 2. git clone git@192.168.1.22:xx/xx.git
 3. SourceTree 添加文件夹
 
+7.	I faced a problem during "weibo sdk"(like facebook sdk) integration for android, cocos2dx3.2.
+when the sdk is login success it will trigger my app from jni, that my app will show a UI.
+the issue is that some CCLabels is replaced with black (ios will be fine, the issue is just on android)。
+so i use "runAction" to let the UI show at next frame, then it will be ok.
+the app enter foreground will trigger cocos2d::VolatileTextureMgr::reloadAllTextures() to reload texture.
+so we should handle UI at next frame(maybe need more time).
+the following code:
+auto act = cocos2d::CallFunc::create([=](){
+    showUI();
+});
+Scene* pScene = Director::getInstance()->getRunningScene();
+pScene->runAction(act);
 
 
 
