@@ -358,7 +358,34 @@ int getNetworkStatus(std::string remoteHostName)
 int status = getNetworkStatus();
 NSLog(@"网络状态: %d", status);
 
-
+android 判断网络状态:
+    需要访问网络，首先需要添加权限
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+public int getNetworkStatus(Context context)
+{
+    ConnectivityManager connActivityManager = (ConnectivityManager) pContext.getSystemService(context.CONNECTIVITY_SERVICE);
+    NetworkInfo mNetworkInfo = connActivityManager.getActiveNetworkInfo();
+    if (mNetworkInfo != null && mNetworkInfo.isAvailable())
+    {
+        // wifi
+        if (mNetworkInfo.getType()==ConnectivityManager.TYPE_WIFI)
+        {
+            return 2;
+        }
+        // gprs
+        else if (mNetworkInfo.getType()==ConnectivityManager.TYPE_MOBILE)
+        {
+            return 3;
+        }
+        // unknow
+        else
+        {
+            return 0;
+        }
+    }
+    // not available
+    return 1;
+}
 
 
 
