@@ -312,7 +312,59 @@ MY_ALL_DIRS := $(call uniq,$(MY_ALL_DIRS))
 LOCAL_SRC_FILES  := $(MY_SRC_LIST)
 LOCAL_C_INCLUDES := $(MY_ALL_DIRS)
 
-9.
+9. ios 判断网络状态
+使用apple教程Reachability.h, Reachability.m
+int getNetworkStatus(std::string remoteHostName)
+{
+    NSString* nsRemoteHostName = [NSString stringWithUTF8String:remoteHostName.c_str()];
+    Reachability* pReachability = nil;
+    
+    if (remoteHostName.length() > 0)
+    {
+        // a Reachability object for a remote host
+        pReachability = [Reachability reachabilityWithHostName:nsRemoteHostName];
+    }
+    else
+    {
+        // a Reachability object for the internet
+        pReachability = [Reachability reachabilityForInternetConnection];
+    }
+    
+    NetworkStatus netStatus = [pReachability currentReachabilityStatus];
+    switch (netStatus)
+    {
+            // NOT NET
+        case NotReachable:
+        {
+            return 0;
+            break;
+        }
+            // 3G/GPRS
+        case ReachableViaWWAN:
+        {
+            return 1;
+            break;
+        }
+            // WIFI
+        case ReachableViaWiFi:
+        {
+            return 2;
+            break;
+        }
+    }
+    // unknow
+    return 3;
+}
+int status = getNetworkStatus();
+NSLog(@"网络状态: %d", status);
+
+
+
+
+
+
+
+
 
 
 
