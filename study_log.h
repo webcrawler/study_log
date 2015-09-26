@@ -69,7 +69,7 @@ static void extendMyClassLua(lua_State* tolua_S)
 
 TOLUA_API int register_all_MyClass(lua_State* tolua_S)
 {
-    tolua_open(tolua_S);
+    tolua_open(tolua_S); 
     
     tolua_module(tolua_S,nullptr,0);
     tolua_beginmodule(tolua_S,nullptr);
