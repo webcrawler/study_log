@@ -229,8 +229,61 @@ NSLOG(@"%d", [a isKindOfClass:[B class]]);
     
 }
 
+14. @property
+使用@property和@synthesize很方便，但又给我们带来了很多疑问比如在上面的代码中又出现了nonatomic和copy，是什么意思？
+在@property中还有其他几个关键字，它们都是有特殊作用的，我把它们分为三类分别是：原子性，访问器控制，内存管理。
 
+原子性
+atomic(默认)：atomic意为操作是原子的，意味着只有一个线程访问实例变量。atomic是线程安全的至少在当前的访器上我是安全的。
+它是一个默认的，但是很少使用。它的比较慢，这跟ARM平台和内部锁机制有关。
+nonatomic： nonatomic跟atomic刚好相反。表示非原子的，可以被多个线程访问。它的速度比atomic快。但不能保证在多线程环境
+下的安全性，在单线程和明确只有一个线程访问的情况下广泛使用。
 
+访问器控制
+readwrite(默认):readwrite是默认的，表示同时拥有setter和getter。
+readonly： readonly 表示只有getter没有setter。
+有时候为了语意更明确可能需要自定义访问器的名字:
+@property (nonatomic, setter = mySetter:,getter = myGetter ) NSString *name;
+最常见的是BOOL类型，比如标识View是否隐藏的属性hidden。可以这样声明
+@property (nonatomic,getter = isHidden ) BOOL hidden;
+要注意修改setter或者getter的名字是存在副作用的，可能会使KVC和KVO无法正常工作。
+
+内存管理
+retain：使用了retain意味着实例变量要获取传入参数的所有权。具体表现在setter中对实例变量先release然后将参数 retain之后传给它。
+下面这段代码展示了retain类似的行为:
+-(void)setStuName:(NSString *)stuName
+{
+    if (_stuName != stuName)
+    {
+        [_stuName release];
+        _stuName = [stuName retain];
+    }
+}
+assign（默认）：用于值类型，如int、float、double和NSInteger，CGFloat等表示单纯的复制。还包括不存在所有权关系的对象，比如常见的delegate。
+strong：是在ARC伴随IOS引入的时候引入的关键字是retain的一个可选的替代。表示实例变量对传入的参数要有所有权关系即强引用。strong跟retain的意思
+相同并产生相同的代码，但是语意上更好更能体现对象的关系。
+weak： weak跟assign的效果相似，不同的是weak在对象被回收之后自动设置为nil。而且weak智能用在iOS 5或以后的版本，对于之前的版本，使用unsafe_unretained。
+unsafe_unretained:weak的低版本替代。
+copy:copy是为是实例变量保留一个自己的副本。
+
+现在明白了@property是怎么回事了，但是@synthesize是怎么回事，看看之前的第一段代码：
+@synthesize stuName = _stuName;
+这里的stuName = _stuName是什么意思？stuName是propertyName跟@property声明的名字一样。而后面的_stuName 是实例变量名。生成的访问器就是
+来访问的 _stuName的。代码的样子就和最开始那setter和getter代码所描述的一样。
+注意一个问题，我们并没有声明_stuName这个变量，这是编译器自动帮我们创建的。 如果这段指令我换个写法：@synthesize stuName = a;   并且我们
+没有在interface里面声明这个变量，那么会自动创建一个变量a。
+
+如果这里写成这样：
+@synthesize stuName;
+//等同于
+@synthesize stuName = stuName;
+
+在Xcode4.4中，Xcode添加的一些新的编译特性。其中一个就是默认合成（Default Synthesis）。默认合成就不再需要显示的使用@synthesize指令了，这很方便但是要注意的是，默认合成遵守的约定，这里的也就是命名规则是propertyName = _propertyName。
+下面一段代码帮助理解：
+//对于下面的@propety
+@property (nonatomic, copy) NSString *stuName;
+//默认合成的规则是这样：
+@synthesize stuName = _stuName;
 
 
 
