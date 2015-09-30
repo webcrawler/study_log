@@ -1,0 +1,458 @@
+TUIActivityIndicatorViewSample
+v7
+r0
+t350470024.207079
+cCheck dependencies
+cProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/Info.plist UIActivityIndicatorViewSample-Info.plist
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-frfgvtskeskrlrcqmsgaswesfscl/UIActivityIndicatorViewSample_Prefix.pch.gch UIActivityIndicatorViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIKitPrjActivityIndicator.o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIKitPrjActivityIndicator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample normal i386
+cGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample
+cTouch /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-frfgvtskeskrlrcqmsgaswesfscl/UIActivityIndicatorViewSample_Prefix.pch.gch
+t1328777223
+s15814064
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-hgronpghmuguhrbobaaehmdiiapg/UIActivityIndicatorViewSample_Prefix.pch.gch
+t1326523937
+s15814064
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/RootViewController.h
+c000000004F09107200000000000000BC
+t1325994098
+s188
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/RootViewController.m
+c000000004F3387EF0000000000000931
+t1328777199
+s2353
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/SampleForActivityIndicator.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.h
+c000000004F091084000000000000010C
+t1325994116
+s268
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m
+c000000004F09108800000000000002EC
+t1325994120
+s748
+i"UIActivityIndicatorViewSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIKitPrjActivityIndicator.h
+c000000004F3387E500000000000000D8
+t1328777189
+s216
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIKitPrjActivityIndicator.m
+c000000004F3387E90000000000000840
+t1328777193
+s2112
+i"UIKitPrjActivityIndicator.h"
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/UIActivityIndicatorViewSample_Prefix.pch
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app
+t1328777224
+s170
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM
+t1328777224
+s102
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/Info.plist
+t1328777221
+s652
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/PkgInfo
+t1328777221
+s8
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample
+t1328777223
+s23540
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/RootViewController.o
+t1328777223
+s48360
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/SampleForActivityIndicator.o
+t1326524073
+s45368
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSample.LinkFileList
+c000000004F3388050000000000000347
+t1328777221
+s839
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSampleAppDelegate.o
+t1328777223
+s50920
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIKitPrjActivityIndicator.o
+t1328777223
+s45308
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/main.o
+t1328777223
+s6568
+
+N/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/main.m
+c000000004B2383BE00000000000001A1
+t1260618686
+s417
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/RootViewController.h
+c000000004F09107200000000000000BC
+t1325994098
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/RootViewController.m
+c000000004F0910780000000000000933
+t1325994104
+s2355
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/SampleForActivityIndicator.h
+c000000004F09107C00000000000000DA
+t1325994108
+s218
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/SampleForActivityIndicator.m
+c000000004F1126A50000000000000843
+t1326524069
+s2115
+i"SampleForActivityIndicator.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.h
+c000000004F091084000000000000010C
+t1325994116
+s268
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m
+c000000004F09108800000000000002EC
+t1325994120
+s748
+i"UIActivityIndicatorViewSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/UIActivityIndicatorViewSample_Prefix.pch
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app
+t1326524074
+s170
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM
+t1326524074
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/Info.plist
+t1326523935
+s652
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/PkgInfo
+t1326523935
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample
+t1326524074
+s23688
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/RootViewController.o
+t1326523938
+s48392
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/SampleForActivityIndicator.o
+t1326524073
+s45368
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSample.LinkFileList
+c000000004F11261F0000000000000388
+t1326523935
+s904
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSampleAppDelegate.o
+t1326523938
+s50952
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/main.o
+t1326523937
+s6600
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/main.m
+c000000004B2383BE00000000000001A1
+t1260618686
+s417
+i<UIKit/UIKit.h>
+
+NUIActivityIndicatorViewSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350470021#350470021#0(0"0(0#1#0"8629576864#0"0#
+
+CCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470023.441141
+e350470023.539846
+r1
+xCompileC
+xbuild/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/RootViewController.o
+x/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/RootViewController.m350470023#350470023#0(0"0(0#0#93"/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/RootViewController.m8604256704#2676"    cd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-frfgvtskeskrlrcqmsgaswesfscl/UIActivityIndicatorViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/RootViewController.m -o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348216738.001499
+e348216738.164343
+r1
+xCompileC
+xbuild/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/RootViewController.m348216738#348216738#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/RootViewController.m8610074720#2852"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-hgronpghmuguhrbobaaehmdiiapg/UIActivityIndicatorViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/SampleForActivityIndicator.o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/SampleForActivityIndicator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/SampleForActivityIndicator.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/SampleForActivityIndicator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348216873.627443
+e348216873.945881
+r1
+xCompileC
+xbuild/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/SampleForActivityIndicator.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/SampleForActivityIndicator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/SampleForActivityIndicator.m348216873#348216873#0(0"0(0#0#117"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/SampleForActivityIndicator.m8609212320#2868"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-hgronpghmuguhrbobaaehmdiiapg/UIActivityIndicatorViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/SampleForActivityIndicator.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/SampleForActivityIndicator.o0#
+
+CCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470023.293880
+e350470023.464751
+r1
+xCompileC
+xbuild/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSampleAppDelegate.o
+x/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m350470023#350470023#0(0"0(0#0#115"/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m8608952384#2720"    cd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-frfgvtskeskrlrcqmsgaswesfscl/UIActivityIndicatorViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m -o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSampleAppDelegate.o0#
+
+CCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348216737.866813
+e348216738.005779
+r1
+xCompileC
+xbuild/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m348216737#348216738#0(0"0(0#0#131"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m8599848480#2896"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-hgronpghmuguhrbobaaehmdiiapg/UIActivityIndicatorViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/Classes/UIActivityIndicatorViewSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSampleAppDelegate.o0#
+
+CCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIKitPrjActivityIndicator.o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIKitPrjActivityIndicator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470023.464855
+e350470023.593677
+r1
+xCompileC
+xbuild/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIKitPrjActivityIndicator.o
+x/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIKitPrjActivityIndicator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIKitPrjActivityIndicator.m350470023#350470023#0(0"0(0#0#100"/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIKitPrjActivityIndicator.m8631721568#2690"    cd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-frfgvtskeskrlrcqmsgaswesfscl/UIActivityIndicatorViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/Classes/UIKitPrjActivityIndicator.m -o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIKitPrjActivityIndicator.o0#
+
+CCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470023.257927
+e350470023.441018
+r1
+xCompileC
+xbuild/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/main.o
+x/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/main.m350470023#350470023#0(0"0(0#0#71"/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/main.m8634856320#2640"    cd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-frfgvtskeskrlrcqmsgaswesfscl/UIActivityIndicatorViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/main.m -o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348216737.796686
+e348216738.001376
+r1
+xCompileC
+xbuild/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/main.m348216737#348216738#0(0"0(0#0#87"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/main.m8600392224#2816"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-hgronpghmuguhrbobaaehmdiiapg/UIActivityIndicatorViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample
+s350470023.985931
+e350470024.183200
+r1
+xGenerateDSYMFile
+x/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM
+x/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample
+lSLF07#2@175"GenerateDSYMFile build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample350470023#350470024#0(0"0(0#0#156"/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample8630984288#527"    cd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample -o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample
+s348216874.420175
+e348216874.685309
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample
+lSLF07#2@175"GenerateDSYMFile build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample348216874#348216874#0(0"0(0#0#172"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample8610132352#575"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app.dSYM0#
+
+CLd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample normal i386
+s350470023.593784
+e350470023.985803
+r1
+xLd
+x/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample
+xnormal
+xi386
+lSLF07#2@161"Link /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample350470023#350470023#0(0"0(0#0#0"8610280928#1140"    cd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -F/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -filelist /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample normal i386
+s348216873.945976
+e348216874.420021
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample
+xnormal
+xi386
+lSLF07#2@177"Link /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample348216873#348216874#0(0"0(0#0#0"8606568288#1220"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/Objects-normal/i386/UIActivityIndicatorViewSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/UIActivityIndicatorViewSample0#
+
+CProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/Info.plist UIActivityIndicatorViewSample-Info.plist
+s350470021.190582
+e350470021.231184
+r1
+xProcessInfoPlistFile
+x/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/Info.plist
+xUIActivityIndicatorViewSample-Info.plist
+lSLF07#2@48"Process UIActivityIndicatorViewSample-Info.plist350470021#350470021#0(0"0(0#0#105"/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/UIActivityIndicatorViewSample-Info.plist8639050208#623"    cd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIActivityIndicatorViewSample-Info.plist -genpkginfo /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/Info.plist0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/Info.plist UIActivityIndicatorViewSample-Info.plist
+s348216735.838123
+e348216735.926853
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/Info.plist
+xUIActivityIndicatorViewSample-Info.plist
+lSLF07#2@48"Process UIActivityIndicatorViewSample-Info.plist348216735#348216735#0(0"0(0#0#121"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/UIActivityIndicatorViewSample-Info.plist8609339840#671"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIActivityIndicatorViewSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-frfgvtskeskrlrcqmsgaswesfscl/UIActivityIndicatorViewSample_Prefix.pch.gch UIActivityIndicatorViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470021.231314
+e350470023.257743
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-frfgvtskeskrlrcqmsgaswesfscl/UIActivityIndicatorViewSample_Prefix.pch.gch
+xUIActivityIndicatorViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile UIActivityIndicatorViewSample_Prefix.pch350470021#350470023#0(0"0(0#0#105"/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/UIActivityIndicatorViewSample_Prefix.pch7599377369836636160#2484"    cd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -c /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/UIActivityIndicatorViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-frfgvtskeskrlrcqmsgaswesfscl/UIActivityIndicatorViewSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-hgronpghmuguhrbobaaehmdiiapg/UIActivityIndicatorViewSample_Prefix.pch.gch UIActivityIndicatorViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s348216735.927011
+e348216737.796503
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-hgronpghmuguhrbobaaehmdiiapg/UIActivityIndicatorViewSample_Prefix.pch.gch
+xUIActivityIndicatorViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile UIActivityIndicatorViewSample_Prefix.pch348216735#348216737#0(0"0(0#0#121"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/UIActivityIndicatorViewSample_Prefix.pch7599377369836636160#2644"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/UIActivityIndicatorViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/UIActivityIndicatorViewSample.build/Debug-iphonesimulator/UIActivityIndicatorViewSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/UIActivityIndicatorViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIActivityIndicatorViewSample_Prefix-hgronpghmuguhrbobaaehmdiiapg/UIActivityIndicatorViewSample_Prefix.pch.gch0#
+
+CTouch /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app
+s350470024.183301
+e350470024.206931
+r1
+xTouch
+x/wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app
+lSLF07#2@132"Touch /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app350470024#350470024#0(0"0(0#0#0"8608769536#352"    cd /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/book/iphone3/source/Chapter4/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app
+s348216874.685397
+e348216874.692664
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app
+lSLF07#2@148"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app348216874#348216874#0(0"0(0#0#0"8610160096#384"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIActivityIndicatorViewSample/build/Debug-iphonesimulator/UIActivityIndicatorViewSample.app0#
+

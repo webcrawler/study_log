@@ -1,0 +1,250 @@
+TUIPageControlSample
+v7
+r0
+t321368025.410892
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/Info.plist UIPageControlSample-Info.plist
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPageControlSample_Prefix-fnyhfwmpmdmhtvgkkjhktmipplvf/UIPageControlSample_Prefix.pch.gch UIPageControlSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/UIPageControlSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/UIPageControlSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/SampleForPageControl.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/SampleForPageControl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample normal i386
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample
+cTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C65F6640000000000000132
+t1281750628
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPageControlSample_Prefix-fnyhfwmpmdmhtvgkkjhktmipplvf/UIPageControlSample_Prefix.pch.gch
+t1299675225
+s15232016
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/RootViewController.m
+c000000004B2383BE000000000000092F
+t1260618686
+s2351
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/SampleForPageControl.h
+c000000004B2383BE00000000000000C9
+t1260618686
+s201
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/SampleForPageControl.m
+c000000004B2383BE0000000000000838
+t1260618686
+s2104
+i"SampleForPageControl.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/UIPageControlSampleAppDelegate.h
+c000000004B2383BE00000000000000FA
+t1260618686
+s250
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/UIPageControlSampleAppDelegate.m
+c000000004B2383BE00000000000002D0
+t1260618686
+s720
+i"UIPageControlSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/UIPageControlSample_Prefix.pch
+c000000004B2383BE00000000000000CF
+t1260618686
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app
+t1299675225
+s170
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app.dSYM
+t1299675225
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/Info.plist
+t1299675224
+s612
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/PkgInfo
+t1299675224
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample
+t1299675225
+s23360
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/RootViewController.o
+t1299675225
+s45032
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/SampleForPageControl.o
+t1299675225
+s41720
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/UIPageControlSample.LinkFileList
+c000000004D777858000000000000032C
+t1299675224
+s812
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/UIPageControlSampleAppDelegate.o
+t1299675225
+s47116
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/main.o
+t1299675225
+s6584
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/main.m
+c000000004B2383BE000000000000018E
+t1260618686
+s398
+i<UIKit/UIKit.h>
+
+NUIPageControlSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321368024#321368024#0(0"0(0#1#0"8607955264#0"0#
+
+CCompileC build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321368025.183148
+e321368025.276851
+r1
+xCompileC
+xbuild/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/RootViewController.m321368025#321368025#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/RootViewController.m8604157152#2650"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPageControlSample_Prefix-fnyhfwmpmdmhtvgkkjhktmipplvf/UIPageControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/SampleForPageControl.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/SampleForPageControl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321368025.208243
+e321368025.291151
+r1
+xCompileC
+xbuild/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/SampleForPageControl.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/SampleForPageControl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/SampleForPageControl.m321368025#321368025#0(0"0(0#0#112"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/SampleForPageControl.m8603386688#2654"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPageControlSample_Prefix-fnyhfwmpmdmhtvgkkjhktmipplvf/UIPageControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/SampleForPageControl.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/SampleForPageControl.o0#
+
+CCompileC build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/UIPageControlSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/UIPageControlSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321368025.128345
+e321368025.208138
+r1
+xCompileC
+xbuild/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/UIPageControlSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/UIPageControlSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/UIPageControlSampleAppDelegate.m321368025#321368025#0(0"0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/UIPageControlSampleAppDelegate.m8606427584#2674"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPageControlSample_Prefix-fnyhfwmpmdmhtvgkkjhktmipplvf/UIPageControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/Classes/UIPageControlSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/UIPageControlSampleAppDelegate.o0#
+
+CCompileC build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321368025.126663
+e321368025.183036
+r1
+xCompileC
+xbuild/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/main.m321368025#321368025#0(0"0(0#0#88"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/main.m8606694080#2614"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPageControlSample_Prefix-fnyhfwmpmdmhtvgkkjhktmipplvf/UIPageControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample
+s321368025.388791
+e321368025.408160
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/UIPageControlSample.app.dSYM build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample321368025#321368025#0(0"0(0#0#153"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample8599940192#548"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample normal i386
+s321368025.291248
+e321368025.388692
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample
+xnormal
+xi386
+lSLF07#2@158"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample321368025#321368025#0(0"0(0#0#0"8600481888#1175"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/Objects-normal/i386/UIPageControlSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/UIPageControlSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/Info.plist UIPageControlSample-Info.plist
+s321368024.312035
+e321368024.317028
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/Info.plist
+xUIPageControlSample-Info.plist
+lSLF07#2@38"Process UIPageControlSample-Info.plist321368024#321368024#0(0"0(0#0#112"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/UIPageControlSample-Info.plist8606230496#644"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIPageControlSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPageControlSample_Prefix-fnyhfwmpmdmhtvgkkjhktmipplvf/UIPageControlSample_Prefix.pch.gch UIPageControlSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321368024.317148
+e321368025.126396
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPageControlSample_Prefix-fnyhfwmpmdmhtvgkkjhktmipplvf/UIPageControlSample_Prefix.pch.gch
+xUIPageControlSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile UIPageControlSample_Prefix.pch321368024#321368025#0(0"0(0#0#112"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/UIPageControlSample_Prefix.pch8599793472#2451"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/UIPageControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/UIPageControlSample.build/Debug-iphonesimulator/UIPageControlSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/UIPageControlSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPageControlSample_Prefix-fnyhfwmpmdmhtvgkkjhktmipplvf/UIPageControlSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app
+s321368025.408249
+e321368025.410855
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app
+lSLF07#2@139"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app321368025#321368025#0(0"0(0#0#0"8590319616#376"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPageControlSample/build/Debug-iphonesimulator/UIPageControlSample.app0#
+

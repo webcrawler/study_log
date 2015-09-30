@@ -1,0 +1,75 @@
+TTouchSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/chara1.png
+c000000004B2383BE0000000000001E76
+t1260618686
+s7798
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/chara2.png
+c000000004B2383BE0000000000001E08
+t1260618686
+s7688
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/dog.jpg
+c000000004B2383BE00000000000031DE
+t1260618686
+s12766
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/metal.png
+c000000004B2383BE0000000000001623
+t1260618686
+s5667
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug/TouchSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug/TouchSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug/TouchSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug/TouchSample.app/Contents/Resources/chara1.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug/TouchSample.app/Contents/Resources/chara2.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug/TouchSample.app/Contents/Resources/dog.jpg
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug/TouchSample.app/Contents/Resources/metal.png
+t2
+s0
+
+NTouchSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCpResource build/Debug/TouchSample.app/Contents/Resources/chara1.png Images/chara1.png
+r0
+
+CCpResource build/Debug/TouchSample.app/Contents/Resources/chara2.png Images/chara2.png
+r0
+
+CCpResource build/Debug/TouchSample.app/Contents/Resources/dog.jpg Images/dog.jpg
+r0
+
+CCpResource build/Debug/TouchSample.app/Contents/Resources/metal.png Images/metal.png
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug/TouchSample.app/Contents/Info.plist TouchSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug/TouchSample.app
+r0
+

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>PHP5应用实例详解</title>
+<meta name="viewport" content="width=device-width" />
+<meta name="format-detection" content="telephone=no" />
+<link rel="apple-touch-icon" href="ico_home.png" />
+<link rel="stylesheet" href="iphone.css" media="screen" />
+<link rel="stylesheet"  href="jquery.mobile-1.0.min.css" />
+<script src="jquery.js"></script>
+<script src="jquery.mobile-1.0.min.js"></script>
+<script type="text/javascript" src="iphone.js"></script>
+<script>
+$(document).ready(function() {
+
+    $('.ui-slider-handle').live('touchstart', function(){
+        // When user touches the slider handle, temporarily unbind the page turn handlers
+        doUnbind();
+    });
+
+    $('.ui-slider-handle').live('mousedown', function(){
+        // When user touches the slider handle, temporarily unbind the page turn handlers
+        doUnbind();
+    });
+
+    $('.ui-slider-handle').live('touchend', function(){
+        //When the user let's go of the handle, rebind the controls for page turn
+        // Put in a slight delay so that the rebind does not happen until after the swipe has been triggered
+        setTimeout( function() {doBind();}, 100 );
+    });
+
+    $('.ui-slider-handle').live('mouseup', function(){
+        //When the user let's go of the handle, rebind the controls for page turn
+        // Put in a slight delay so that the rebind does not happen until after the swipe has been triggered
+        setTimeout( function() {doBind();}, 100 );
+    });
+
+    // Set the initial window (assuming it will always be #1
+    window.now = 1;
+
+    //get an Array of all of the pages and count
+    windowMax = $('div[data-role="page"]').length; 
+
+   doBind();
+});
+    // Functions for binding swipe events to named handlers
+    function doBind() {
+        $('div[data-role="page"]').live("swipeleft", turnPage); 
+        $('div[data-role="page"]').live("swiperight", turnPageBack);
+    }
+
+    function doUnbind() {
+        $('div[data-role="page"]').die("swipeleft", turnPage);
+        $('div[data-role="page"]').die("swiperight", turnPageBack);
+    }
+
+    // Named handlers for binding page turn controls
+    function turnPage(){
+        // Check to see if we are already at the highest numbers page            
+        if (window.now < windowMax) {
+            window.now++
+            $.mobile.changePage("#device"+window.now, "slide", false, true);
+        }
+    }
+
+    function turnPageBack(){
+        // Check to see if we are already at the lowest numbered page
+        if (window.now != 1) {
+            window.now--;
+            $.mobile.changePage("#device"+window.now, "slide", true, true);
+        }
+    }
+</script>
+</head>
+<body>
+
+
+<div data-role="page" class="block" id="device1">
+	<header class="global-header">
+	 <img src="logo.png" alt="PHP5应用实例详解" class="logo" />
+	  <h1 class="page-heading">第一章 导言</h1>
+	</header>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp; 什么是PHP？听说用PHP进行编程好像挺简单的，它和其他语言有什么区别呢？什么是服务器端技术？什么又是客户端技术呢？在学习应用PHP进行编程前，不可避免有许多诸如此类的疑问，本章在介绍具体的例子之前，先试着帮助大家解决这些疑惑。<br>
+    粗看本章，肯定有不少怀着诸如“实际的编程时，哪用得着这些啰里啰嗦的介绍呀”抱怨的朋友。请先稍安勿躁，对于一名程序员（Programmer）或系统工程师（System Engineer）来说，适当了解关于技术发展的由来，以及技术未来的发展方向，肯定对自身的职业发展是有帮助的。<br>
+    本章中，首先介绍了各种Web技术的兴衰轨迹，以及PHP在其中的位置，或许能帮你在未来给用户提案时，能够很好地回答“为什么要选择PHP”的问题。同时还介绍了PHP+MySQL的环境配置，后面几节的例子将用到这个环境。如果自己配置出来的环境不能正确运行，请务必参照本章的配置。</p>
+</div><!-- /page -->
+<div data-role="page" class="block" id="device2">
+ <header class="global-header">
+ <img src="logo.png" alt="PHP5应用实例详解" class="logo" />
+</header>
+  <h1 class="block-heading">1.1  PHP技术的由来<br/>
+1.1.1  服务器端脚本的发展轨迹——服务器端技术以前的技术</h1>
+
+
+  <p>Web技术的发展总是曲线的，有时因为某种原因而得到修正提高，各种各样的技术兴盛而又衰退。复杂的技术进步轨迹也是Web发展的一个很有趣的地方。从这个意义上说，服务器技术不仅是Web系统的最佳解决方案，而是Web技术发展的一个重要方面。<br>
+本节将介绍PHP（PHP，Hypertext Preprocessor）所代替的服务器端技术在整个Web技术发展中所处的位置，以及PHP在服务器端技术中所处的分量。</p>
+</div><!-- /page -->
+
+
+
+
+</body>
+</html>

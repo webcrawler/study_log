@@ -1,0 +1,389 @@
+TUIColorSample
+v7
+r0
+t349516539.065570
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/Info.plist UIColorSample-Info.plist
+cCpResource build/Debug-iphonesimulator/UIColorSample.app/dog.png Images/dog.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch.gch UIColorSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/UIColorSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/UIColorSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPresetColor.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPresetColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForSystemColor.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForSystemColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForCreatingColor.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForCreatingColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPatternImage.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPatternImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForDrawing.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForDrawing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample normal i386
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample
+cTouch /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch.gch
+t1327823737
+s15814064
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/RootViewController.h
+c000000004F0802E600000000000000BC
+t1325925094
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/RootViewController.m
+c000000004F08038B00000000000009FE
+t1325925259
+s2558
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForCreatingColor.h
+c000000004F0802D6000000000000009D
+t1325925078
+s157
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForCreatingColor.m
+c000000004F0802DB00000000000005FB
+t1325925083
+s1531
+i"SampleForCreatingColor.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForDrawing.h
+c000000004F0802C700000000000000B2
+t1325925063
+s178
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForDrawing.m
+c000000004F0803750000000000000480
+t1325925237
+s1152
+i"SampleForDrawing.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPatternImage.h
+c000000004F0802CE00000000000000AA
+t1325925070
+s170
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPatternImage.m
+c000000004F0802D30000000000000218
+t1325925075
+s536
+i"SampleForPatternImage.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPresetColor.h
+c000000004F0802EF0000000000000099
+t1325925103
+s153
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPresetColor.m
+c000000004F0802F300000000000011C6
+t1325925107
+s4550
+i"SampleForPresetColor.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForSystemColor.h
+c000000004F0802DE0000000000000099
+t1325925086
+s153
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForSystemColor.m
+c000000004F0802E20000000000000629
+t1325925090
+s1577
+i"SampleForSystemColor.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/UIColorSampleAppDelegate.h
+c000000004F0802F700000000000000EC
+t1325925111
+s236
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/UIColorSampleAppDelegate.m
+c000000004F0802FB00000000000002BC
+t1325925115
+s700
+i"UIColorSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Images/dog.png
+c000000004B2383BE00000000000002EF
+t1260618686
+s751
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/UIColorSample_Prefix.pch
+c000000004B2383BE00000000000000C3
+t1260618686
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app
+t1327823739
+s204
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app.dSYM
+t1327823739
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/Info.plist
+t1327823735
+s582
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/PkgInfo
+t1327823735
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample
+t1327823738
+s38296
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/dog.png
+t1327823736
+s751
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/RootViewController.o
+t1327823738
+s48688
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForCreatingColor.o
+t1327823738
+s42092
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForDrawing.o
+t1327823738
+s41836
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPatternImage.o
+t1327823738
+s39244
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPresetColor.o
+t1327823738
+s51960
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForSystemColor.o
+t1327823738
+s42120
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/UIColorSample.LinkFileList
+c000000004F24FB770000000000000569
+t1327823735
+s1385
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/UIColorSampleAppDelegate.o
+t1327823737
+s50568
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/main.o
+t1327823737
+s6548
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/main.m
+c000000004B2383BE0000000000000182
+t1260618686
+s386
+i<UIKit/UIKit.h>
+
+NUIColorSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349516535#349516535#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349516537.874500
+e349516538.037328
+r1
+xCompileC
+xbuild/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/RootViewController.m349516537#349516538#0(0"0(0#0#92"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/RootViewController.m8609969024#2345"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForCreatingColor.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForCreatingColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349516538.081751
+e349516538.188437
+r1
+xCompileC
+xbuild/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForCreatingColor.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForCreatingColor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForCreatingColor.m349516538#349516538#0(0"0(0#0#96"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForCreatingColor.m8608416768#2353"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForCreatingColor.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForCreatingColor.o0#
+
+CCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForDrawing.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForDrawing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349516538.188536
+e349516538.259262
+r1
+xCompileC
+xbuild/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForDrawing.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForDrawing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForDrawing.m349516538#349516538#0(0"0(0#0#90"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForDrawing.m8607262176#2341"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForDrawing.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForDrawing.o0#
+
+CCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPatternImage.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPatternImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349516538.133346
+e349516538.227622
+r1
+xCompileC
+xbuild/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPatternImage.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPatternImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPatternImage.m349516538#349516538#0(0"0(0#0#95"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPatternImage.m8607925824#2351"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPatternImage.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPatternImage.o0#
+
+CCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPresetColor.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPresetColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349516537.898430
+e349516538.081650
+r1
+xCompileC
+xbuild/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPresetColor.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPresetColor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPresetColor.m349516537#349516538#0(0"0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPresetColor.m8608043456#2349"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForPresetColor.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForPresetColor.o0#
+
+CCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForSystemColor.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForSystemColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349516538.037430
+e349516538.133239
+r1
+xCompileC
+xbuild/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForSystemColor.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForSystemColor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForSystemColor.m349516538#349516538#0(0"0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForSystemColor.m8609960800#2349"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/SampleForSystemColor.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/SampleForSystemColor.o0#
+
+CCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/UIColorSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/UIColorSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349516537.745139
+e349516537.898330
+r1
+xCompileC
+xbuild/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/UIColorSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/UIColorSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/UIColorSampleAppDelegate.m349516537#349516537#0(0"0(0#0#98"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/UIColorSampleAppDelegate.m8603051392#2357"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Classes/UIColorSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/UIColorSampleAppDelegate.o0#
+
+CCompileC build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349516537.732489
+e349516537.874403
+r1
+xCompileC
+xbuild/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/main.m349516537#349516537#0(0"0(0#0#70"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/main.m8607165152#2309"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/UIColorSample.app/dog.png Images/dog.png
+s349516535.983574
+e349516536.092481
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIColorSample.app/dog.png
+xImages/dog.png
+lSLF07#2@19"Copy Images/dog.png349516535#349516536#0(0"0(0#0#78"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Images/dog.png8611369472#553"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Images/dog.png /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample
+s349516538.894793
+e349516539.028151
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/UIColorSample.app.dSYM build/Debug-iphonesimulator/UIColorSample.app/UIColorSample349516538#349516539#0(0"0(0#0#123"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample8608238944#476"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample normal i386
+s349516538.259351
+e349516538.894678
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample
+xnormal
+xi386
+lSLF07#2@128"Link /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample349516538#349516538#0(0"0(0#0#0"8606988640#1055"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/Objects-normal/i386/UIColorSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/UIColorSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/Info.plist UIColorSample-Info.plist
+s349516535.826232
+e349516535.983477
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/Info.plist
+xUIColorSample-Info.plist
+lSLF07#2@32"Process UIColorSample-Info.plist349516535#349516535#0(0"0(0#0#88"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/UIColorSample-Info.plist30399800003068008#572"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIColorSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch.gch UIColorSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s349516536.092594
+e349516537.731952
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch.gch
+xUIColorSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile UIColorSample_Prefix.pch349516536#349516537#0(0"0(0#0#88"/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/UIColorSample_Prefix.pch8607748960#2170"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/UIColorSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/UIColorSample.build/Debug-iphonesimulator/UIColorSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/UIColorSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIColorSample_Prefix-amclairlaplmdtghjrpzinntvcil/UIColorSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app
+s349516539.028239
+e349516539.065509
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app
+lSLF07#2@115"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app349516539#349516539#0(0"0(0#0#0"8607736384#334"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug-iphonesimulator/UIColorSample.app0#
+

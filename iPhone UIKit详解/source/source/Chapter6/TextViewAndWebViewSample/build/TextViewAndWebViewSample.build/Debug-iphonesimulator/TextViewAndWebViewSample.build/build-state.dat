@@ -1,0 +1,1198 @@
+TTextViewAndWebViewSample
+v7
+r0
+t347207318.500230
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Info.plist TextViewAndWebViewSample-Info.plist
+cCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+cCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.doc Resources/sample.doc
+cCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/dog.jpg Resources/dog.jpg
+cCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.pdf Resources/sample.pdf
+cCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page1.htm Resources/page1.htm
+cCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/top.htm Resources/top.htm
+cCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page2.htm Resources/page2.htm
+cCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page3.htm Resources/page3.htm
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-dimxpsjbwagbrsbhwieraojcavpx/TextViewAndWebViewSample_Prefix.pch.gch TextViewAndWebViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-dimxpsjbwagbrsbhwieraojcavpx/TextViewAndWebViewSample_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch.gch
+t1299604184
+s15232016
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m
+c000000004B2383BE0000000000000B74
+t1260618686
+s2932
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.h
+c000000004B2383BE00000000000000A7
+t1260618686
+s167
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m
+c000000004B2383BE0000000000000307
+t1260618686
+s775
+i"SampleForDataDetectorTypes.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.h
+c000000004B2383BE00000000000000E1
+t1260618686
+s225
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m
+c000000004B2383BE0000000000000C60
+t1260618686
+s3168
+i"SampleForEditableTextView.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.h
+c000000004B2383BE0000000000000102
+t1260618686
+s258
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m
+c000000004B2383BE0000000000000D8D
+t1260618686
+s3469
+i"SampleForHTMLViewer.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.h
+c000000004B2383BE00000000000000BC
+t1260618686
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m
+c000000004B2383BE0000000000001C41
+t1260618686
+s7233
+i"SampleForKeyboard.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.h
+c000000004B2383BE00000000000000DA
+t1260618686
+s218
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m
+c000000004B2383BE0000000000000398
+t1260618686
+s920
+i"SampleForLoadHTMLString.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.h
+c000000004B2383BE00000000000000CC
+t1260618686
+s204
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m
+c000000004B2383BE0000000000000328
+t1260618686
+s808
+i"SampleForSecureTextEntry.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.h
+c000000004B2383BE0000000000000095
+t1260618686
+s149
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m
+c000000004B2383BE0000000000000440
+t1260618686
+s1088
+i"SampleForTextView.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.h
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m
+c000000004B2383BE0000000000000E91
+t1260618686
+s3729
+i"SampleForTextViewObserving.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.h
+c000000004B2383BE0000000000000151
+t1260618686
+s337
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m
+c000000004B2383BE0000000000000E0D
+t1260618686
+s3597
+i"SampleForWebView.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.h
+c000000004B2383BE000000000000010B
+t1260618686
+s267
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m
+c000000004B2383BE00000000000009F7
+t1260618686
+s2551
+i"SampleForWebViewLoadData.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.h
+c000000004B2383BE0000000000000107
+t1260618686
+s263
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m
+c000000004B2383BE00000000000007F6
+t1260618686
+s2038
+i"SampleForWebViewSimple.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.h
+c000000004B2383BE00000000000000DA
+t1260618686
+s218
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m
+c000000004B2383BE0000000000001074
+t1260618686
+s4212
+i"SampleForWorkingWithTheSelection.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.h
+c000000004B2383BE0000000000000104
+t1260618686
+s260
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m
+c000000004B2383BE0000000000000311
+t1260618686
+s785
+i"TextViewAndWebViewSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000190
+t1260618686
+s400
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000192
+t1260618686
+s402
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/dog.jpg
+c000000004B2383BE00000000000031DE
+t1260618686
+s12766
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page1.htm
+c000000004B2383BE00000000000000EB
+t1260618686
+s235
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page2.htm
+c000000004B2383BE0000000000000162
+t1260618686
+s354
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page3.htm
+c000000004B2383BE0000000000000158
+t1260618686
+s344
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/sample.doc
+c000000004B2383BE0000000000078400
+t1260618686
+s492544
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/sample.pdf
+c000000004B2383BE000000000002EE93
+t1260618686
+s192147
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/top.htm
+c000000004B2383BE0000000000000152
+t1260618686
+s338
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch
+c000000004B2383BE00000000000000D9
+t1260618686
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app
+t1299604186
+s476
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app.dSYM
+t1299604185
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings
+t1299604184
+s95
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Info.plist
+t1299604183
+s632
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings
+t1299604184
+s121
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/PkgInfo
+t1299604183
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+t1299604185
+s85708
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/dog.jpg
+t1299604184
+s12766
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page1.htm
+t1299604184
+s235
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page2.htm
+t1299604184
+s354
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page3.htm
+t1299604184
+s344
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.doc
+t1299604184
+s492544
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.pdf
+t1299604184
+s192147
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/top.htm
+t1299604184
+s338
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o
+t1299604185
+s45884
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o
+t1299604185
+s40404
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o
+t1299604185
+s52724
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o
+t1299604185
+s54864
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o
+t1299604185
+s58424
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o
+t1299604185
+s39832
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o
+t1299604185
+s37596
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o
+t1299604185
+s40444
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o
+t1299604185
+s55348
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o
+t1299604185
+s52972
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o
+t1299604185
+s46996
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o
+t1299604185
+s45812
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o
+t1299604185
+s54752
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSample.LinkFileList
+c000000004EFC18C00000000000000C4C
+t1325144256
+s3148
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o
+t1299604185
+s47380
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o
+t1299604185
+s6596
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/main.m
+c000000004B2383BE0000000000000197
+t1260618686
+s407
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m
+c000000004B2383BE0000000000000B74
+t1260618686
+s2932
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.h
+c000000004B2383BE00000000000000A7
+t1260618686
+s167
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m
+c000000004B2383BE0000000000000307
+t1260618686
+s775
+i"SampleForDataDetectorTypes.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.h
+c000000004B2383BE00000000000000E1
+t1260618686
+s225
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m
+c000000004B2383BE0000000000000C60
+t1260618686
+s3168
+i"SampleForEditableTextView.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.h
+c000000004B2383BE0000000000000102
+t1260618686
+s258
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m
+c000000004B2383BE0000000000000D8D
+t1260618686
+s3469
+i"SampleForHTMLViewer.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.h
+c000000004B2383BE00000000000000BC
+t1260618686
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m
+c000000004B2383BE0000000000001C41
+t1260618686
+s7233
+i"SampleForKeyboard.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.h
+c000000004B2383BE00000000000000DA
+t1260618686
+s218
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m
+c000000004B2383BE0000000000000398
+t1260618686
+s920
+i"SampleForLoadHTMLString.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.h
+c000000004B2383BE00000000000000CC
+t1260618686
+s204
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m
+c000000004B2383BE0000000000000328
+t1260618686
+s808
+i"SampleForSecureTextEntry.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.h
+c000000004B2383BE0000000000000095
+t1260618686
+s149
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m
+c000000004B2383BE0000000000000440
+t1260618686
+s1088
+i"SampleForTextView.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.h
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m
+c000000004B2383BE0000000000000E91
+t1260618686
+s3729
+i"SampleForTextViewObserving.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.h
+c000000004B2383BE0000000000000151
+t1260618686
+s337
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m
+c000000004B2383BE0000000000000E0D
+t1260618686
+s3597
+i"SampleForWebView.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.h
+c000000004B2383BE000000000000010B
+t1260618686
+s267
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m
+c000000004B2383BE00000000000009F7
+t1260618686
+s2551
+i"SampleForWebViewLoadData.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.h
+c000000004B2383BE0000000000000107
+t1260618686
+s263
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m
+c000000004B2383BE00000000000007F6
+t1260618686
+s2038
+i"SampleForWebViewSimple.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.h
+c000000004B2383BE00000000000000DA
+t1260618686
+s218
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m
+c000000004B2383BE0000000000001074
+t1260618686
+s4212
+i"SampleForWorkingWithTheSelection.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.h
+c000000004B2383BE0000000000000104
+t1260618686
+s260
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m
+c000000004B2383BE0000000000000311
+t1260618686
+s785
+i"TextViewAndWebViewSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000190
+t1260618686
+s400
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000192
+t1260618686
+s402
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/dog.jpg
+c000000004B2383BE00000000000031DE
+t1260618686
+s12766
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/page1.htm
+c000000004B2383BE00000000000000EB
+t1260618686
+s235
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/page2.htm
+c000000004B2383BE0000000000000162
+t1260618686
+s354
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/page3.htm
+c000000004B2383BE0000000000000158
+t1260618686
+s344
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/sample.doc
+c000000004B2383BE0000000000078400
+t1260618686
+s492544
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/sample.pdf
+c000000004B2383BE000000000002EE93
+t1260618686
+s192147
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/top.htm
+c000000004B2383BE0000000000000152
+t1260618686
+s338
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch
+c000000004B2383BE00000000000000D9
+t1260618686
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app
+t1299604186
+s476
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app.dSYM
+t1299604185
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings
+t1299604184
+s95
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Info.plist
+t1299604183
+s632
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings
+t1299604184
+s121
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/PkgInfo
+t1299604183
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+t1299604185
+s85708
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/dog.jpg
+t1299604184
+s12766
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page1.htm
+t1299604184
+s235
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page2.htm
+t1299604184
+s354
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page3.htm
+t1299604184
+s344
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.doc
+t1299604184
+s492544
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.pdf
+t1299604184
+s192147
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/top.htm
+t1299604184
+s338
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o
+t1299604185
+s45884
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o
+t1299604185
+s40404
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o
+t1299604185
+s52724
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o
+t1299604185
+s54864
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o
+t1299604185
+s58424
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o
+t1299604185
+s39832
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o
+t1299604185
+s37596
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o
+t1299604185
+s40444
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o
+t1299604185
+s55348
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o
+t1299604185
+s52972
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o
+t1299604185
+s46996
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o
+t1299604185
+s45812
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o
+t1299604185
+s54752
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSample.LinkFileList
+c000000004D7662D70000000000000CF1
+t1299604183
+s3313
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o
+t1299604185
+s47380
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o
+t1299604185
+s6596
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/main.m
+c000000004B2383BE0000000000000197
+t1260618686
+s407
+i<UIKit/UIKit.h>
+
+NTextViewAndWebViewSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347207315#347207316#0(0"0(0#1#0"7302415745512072192#0"0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.256269
+e321296985.352804
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m321296985#321296985#0(0"0(0#0#114"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m8599152704#2794"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.455097
+e321296985.541110
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m321296985#321296985#0(0"0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m8607171488#2810"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.354442
+e321296985.454992
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@129"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m321296985#321296985#0(0"0(0#0#121"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m8607683552#2808"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.798431
+e321296985.916312
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m321296985#321296985#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m8606855584#2796"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.489365
+e321296985.619918
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m321296985#321296985#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m8606625088#2792"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.711107
+e321296985.798319
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m321296985#321296985#0(0"0(0#0#119"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m8607656064#2804"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.620025
+e321296985.710994
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m321296985#321296985#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m8604696864#2806"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.287674
+e321296985.378361
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m321296985#321296985#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m8599698624#2792"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.541215
+e321296985.641566
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m321296985#321296985#0(0"0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m8605276256#2810"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.641673
+e321296985.750091
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m321296985#321296985#0(0"0(0#0#112"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m8603414336#2790"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.750193
+e321296985.837576
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m321296985#321296985#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m8607227136#2806"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.837687
+e321296985.924613
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m321296985#321296985#0(0"0(0#0#118"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m8606767744#2802"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.378551
+e321296985.489252
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@136"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m321296985#321296985#0(0"0(0#0#128"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m8607503808#2822"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.196167
+e321296985.287569
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m321296985#321296985#0(0"0(0#0#131"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m8599468032#2828"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296985.187545
+e321296985.256158
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/main.m321296985#321296985#0(0"0(0#0#92"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/main.m8600081728#2758"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321296983.864081
+e321296984.223482
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321296983#321296984#0(0"0(0#0#117"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/English.lproj/InfoPlist.strings8602877216#605"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/English.lproj0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+s321296983.864966
+e321296984.223656
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings
+xJapanese.lproj/InfoPlist.strings
+oJapanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@37"Copy Japanese.lproj/InfoPlist.strings321296983#321296984#0(134"Japanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#118"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Japanese.lproj/InfoPlist.strings8600831168#606"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Japanese.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj0#
+
+CCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/dog.jpg Resources/dog.jpg
+s321296984.224425
+e321296984.258029
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TextViewAndWebViewSample.app/dog.jpg
+xResources/dog.jpg
+lSLF07#2@22"Copy Resources/dog.jpg321296984#321296984#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/dog.jpg8607236672#619"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/dog.jpg /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page1.htm Resources/page1.htm
+s321296984.225596
+e321296984.258608
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TextViewAndWebViewSample.app/page1.htm
+xResources/page1.htm
+lSLF07#2@24"Copy Resources/page1.htm321296984#321296984#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/page1.htm8606822848#621"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/page1.htm /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page2.htm Resources/page2.htm
+s321296984.226765
+e321296984.258769
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TextViewAndWebViewSample.app/page2.htm
+xResources/page2.htm
+lSLF07#2@24"Copy Resources/page2.htm321296984#321296984#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/page2.htm8606489088#621"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/page2.htm /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/page3.htm Resources/page3.htm
+s321296984.227348
+e321296984.259000
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TextViewAndWebViewSample.app/page3.htm
+xResources/page3.htm
+lSLF07#2@24"Copy Resources/page3.htm321296984#321296984#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/page3.htm8606295840#621"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/page3.htm /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.doc Resources/sample.doc
+s321296984.223735
+e321296984.287998
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.doc
+xResources/sample.doc
+lSLF07#2@25"Copy Resources/sample.doc321296984#321296984#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/sample.doc8607354688#622"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/sample.doc /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.pdf Resources/sample.pdf
+s321296984.225020
+e321296984.264037
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TextViewAndWebViewSample.app/sample.pdf
+xResources/sample.pdf
+lSLF07#2@25"Copy Resources/sample.pdf321296984#321296984#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/sample.pdf8606974144#622"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/sample.pdf /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/TextViewAndWebViewSample.app/top.htm Resources/top.htm
+s321296984.226183
+e321296984.258248
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TextViewAndWebViewSample.app/top.htm
+xResources/top.htm
+lSLF07#2@22"Copy Resources/top.htm321296984#321296984#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/top.htm8606629664#619"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/Resources/top.htm /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+r0
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+s321296985.960264
+e321296986.005082
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+lSLF07#2@160"GenerateDSYMFile build/Debug-iphonesimulator/TextViewAndWebViewSample.app.dSYM build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample321296985#321296986#0(0"0(0#0#167"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample8607001536#575"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample normal i386
+r0
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample normal i386
+s321296985.924719
+e321296985.960157
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+xnormal
+xi386
+lSLF07#2@172"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample321296985#321296985#0(0"0(0#0#0"8607953024#1220"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Info.plist TextViewAndWebViewSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Info.plist TextViewAndWebViewSample-Info.plist
+s321296983.860952
+e321296983.863993
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Info.plist
+xTextViewAndWebViewSample-Info.plist
+lSLF07#2@43"Process TextViewAndWebViewSample-Info.plist321296983#321296983#0(0"0(0#0#121"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample-Info.plist8605153152#671"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TextViewAndWebViewSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-dimxpsjbwagbrsbhwieraojcavpx/TextViewAndWebViewSample_Prefix.pch.gch TextViewAndWebViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347207316.116922
+e347207318.499700
+r0
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-dimxpsjbwagbrsbhwieraojcavpx/TextViewAndWebViewSample_Prefix.pch.gch
+xTextViewAndWebViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h:129,
+o                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h:61,
+o                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:24,
+o                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,
+o                 from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch:6:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:56:42: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:63:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:73:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:79:42: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:89:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:95:42: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:99:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:111:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:117:42: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:122:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:127:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:141:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:147:42: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:153:43: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:159:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:165:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:181:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:187:42: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:194:43: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:201:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:208:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:215:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:233:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:239:42: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:247:43: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:255:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:263:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:271:44: error: operator '<' has no left operand
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:279:44: error: operator '<' has no left operand
+lSLF07#2@46"Precompile TextViewAndWebViewSample_Prefix.pch347207316#347207318#0(5747"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definitionIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h:129,                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h:61,                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:24,                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,                 from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch:6:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:56:42: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:63:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:73:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:79:42: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:89:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:95:42: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:99:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:111:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:117:42: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:122:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:127:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:141:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:147:42: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:153:43: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:159:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:165:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:181:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:187:42: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:194:43: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:201:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:208:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:215:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:233:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:239:42: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:247:43: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:255:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:263:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:271:44: error: operator '<' has no left operand/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h:279:44: error: operator '<' has no left operand29(4@32"Operator '<' has no left operand347207316#911#166#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#56#0#56#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#56#0#56#0#0"0(4@32"Operator '<' has no left operand347207316#1077#166#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#63#0#63#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#63#0#63#0#0"0(4@32"Operator '<' has no left operand347207316#1243#166#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#73#0#73#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#73#0#73#0#0"0(4@32"Operator '<' has no left operand347207316#1409#166#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#79#0#79#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#79#0#79#0#0"0(4@32"Operator '<' has no left operand347207316#1575#166#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#89#0#89#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#89#0#89#0#0"0(4@32"Operator '<' has no left operand347207316#1741#166#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#95#0#95#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#95#0#95#0#0"0(4@32"Operator '<' has no left operand347207316#1907#166#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#99#0#99#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#99#0#99#0#0"0(4@32"Operator '<' has no left operand347207316#2073#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#111#0#111#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#111#0#111#0#0"0(4@32"Operator '<' has no left operand347207316#2240#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#117#0#117#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#117#0#117#0#0"0(4@32"Operator '<' has no left operand347207316#2407#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#122#0#122#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#122#0#122#0#0"0(4@32"Operator '<' has no left operand347207316#2574#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#127#0#127#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#127#0#127#0#0"0(4@32"Operator '<' has no left operand347207316#2741#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#141#0#141#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#141#0#141#0#0"0(4@32"Operator '<' has no left operand347207316#2908#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#147#0#147#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#147#0#147#0#0"0(4@32"Operator '<' has no left operand347207316#3075#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#153#0#153#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#153#0#153#0#0"0(4@32"Operator '<' has no left operand347207316#3242#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#159#0#159#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#159#0#159#0#0"0(4@32"Operator '<' has no left operand347207316#3409#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#165#0#165#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#165#0#165#0#0"0(4@32"Operator '<' has no left operand347207316#3576#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#181#0#181#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#181#0#181#0#0"0(4@32"Operator '<' has no left operand347207316#3743#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#187#0#187#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#187#0#187#0#0"0(4@32"Operator '<' has no left operand347207316#3910#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#194#0#194#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#194#0#194#0#0"0(4@32"Operator '<' has no left operand347207316#4077#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#201#0#201#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#201#0#201#0#0"0(4@32"Operator '<' has no left operand347207316#4244#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#208#0#208#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#208#0#208#0#0"0(4@32"Operator '<' has no left operand347207316#4411#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#215#0#215#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#215#0#215#0#0"0(4@32"Operator '<' has no left operand347207316#4578#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#233#0#233#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#233#0#233#0#0"0(4@32"Operator '<' has no left operand347207316#4745#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#239#0#239#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#239#0#239#0#0"0(4@32"Operator '<' has no left operand347207316#4912#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#247#0#247#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#247#0#247#0#0"0(4@32"Operator '<' has no left operand347207316#5079#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#255#0#255#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#255#0#255#0#0"0(4@32"Operator '<' has no left operand347207316#5246#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#263#0#263#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#263#0#263#0#0"0(4@32"Operator '<' has no left operand347207316#5413#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#271#0#271#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#271#0#271#0#0"0(4@32"Operator '<' has no left operand347207316#5580#167#6(7@132"In file included from /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch347207316#18446744073709551615#0#0(6@110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch282311486#6#0#6#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h347207316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h296629742#6#0#6#0#0"0(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h347207316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h296629490#24#0#24#0#0"0(7@126"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h347207316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h269241383#61#0#61#0#0"0(7@132"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h347207316#18446744073709551615#0#0(6@110"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h296027001#129#0#129#0#0"0(13@154"Operator '<' has no left operand in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h347207316#18446744073709551615#0#0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#279#0#279#0#0"0(6@118"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h296027001#279#0#279#0#0"0(0#0#110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch7302415745512072192#2525"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED= -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-dimxpsjbwagbrsbhwieraojcavpx/TextViewAndWebViewSample_Prefix.pch.gch1#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch.gch TextViewAndWebViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321296984.288147
+e321296985.187421
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch.gch
+xTextViewAndWebViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile TextViewAndWebViewSample_Prefix.pch321296984#321296985#0(0"0(0#0#121"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch8603521600#2586"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Debug-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-fawayttdzpmtzucedvqvpdeawzyh/TextViewAndWebViewSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app
+s321296986.005167
+e321296986.008809
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app
+lSLF07#2@148"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app321296986#321296986#0(0"0(0#0#0"8603228352#389"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter8/TextViewAndWebViewSample/build/Debug-iphonesimulator/TextViewAndWebViewSample.app0#
+

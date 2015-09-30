@@ -1,0 +1,1131 @@
+TApplicationAndDeviceSample
+v7
+r0
+t350212688.097606
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Info.plist ApplicationAndDeviceSample-Info.plist
+cCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+cCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug1.png Images/bug1.png
+cCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/bug2.png Images/English.lproj/bug2.png
+cCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/zh-Hans.lproj/bug2.png Images/zh-Hans.lproj/bug2.png
+cCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug3.png Images/bug3.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch.gch ApplicationAndDeviceSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBadge.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForLinks.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForProximityMonitoring.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBatteryMonitor.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForDeviceInfo.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForUniqueIdentifier.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyAndPaste.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyBase.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample normal i386
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+cTouch /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-attssoazlejbaucyfjyrsyduyyqo/ApplicationAndDeviceSample_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch.gch
+t1299677560
+s15232016
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-fmkjcdrqdgkndpcwjhcrysoyaftc/ApplicationAndDeviceSample_Prefix.pch.gch
+t1328449647
+s15211536
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch.gch
+t1328519886
+s15814064
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch
+c000000004B2383BE00000000000000DD
+t1260618686
+s221
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.h
+c000000004F094D5F0000000000000107
+t1326009695
+s263
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m
+c000000004F094DB000000000000004AE
+t1326009776
+s1198
+i"ApplicationAndDeviceSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.h
+c000000004F094D3F00000000000000BC
+t1326009663
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m
+c000000004F2F8EE40000000000000A46
+t1328516836
+s2630
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.h
+c000000004F094D5300000000000000C8
+t1326009683
+s200
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m
+c000000004F094D5B000000000000064C
+t1326009691
+s1612
+i"SampleForBadge.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.h
+c000000004F094CD300000000000000C6
+t1326009555
+s198
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m
+c000000004F094CD70000000000000A33
+t1326009559
+s2611
+i"SampleForBatteryMonitor.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.h
+c000000004F094C3B00000000000000C0
+t1326009403
+s192
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m
+c000000004F2F965D0000000000000BCE
+t1328518749
+s3022
+i"SampleForCopyAndPaste.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyBase.h
+c000000004F2F8F180000000000000102
+t1328516888
+s258
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyBase.m
+c000000004F2F91DA00000000000007AB
+t1328517594
+s1963
+i"SampleForCopyBase.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.h
+c000000004F094CCB00000000000000D2
+t1326009547
+s210
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m
+c000000004F094CCF000000000000066E
+t1326009551
+s1646
+i"SampleForDeviceInfo.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.h
+c000000004F094D3100000000000000CB
+t1326009649
+s203
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m
+c000000004F2F432600000000000009A9
+t1328497446
+s2473
+i"SampleForLinks.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.h
+c000000004F094CDB00000000000000CA
+t1326009563
+s202
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m
+c000000004F2F82BB00000000000009A0
+t1328513723
+s2464
+i"SampleForProximityMonitoring.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.h
+c000000004F094CC200000000000000A3
+t1326009538
+s163
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m
+c000000004F094CC700000000000005B8
+t1326009543
+s1464
+i"SampleForUniqueIdentifier.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000132
+t1260618686
+s306
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/English.lproj/bug2.png
+c000000004B2383BE00000000000039D8
+t1260618686
+s14808
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug1.png
+c000000004B2383BE0000000000002028
+t1260618686
+s8232
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug2.png
+c000000004B2383BE00000000000039D8
+t1260618686
+s14808
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug3.png
+c000000004B2383BE0000000000002BBE
+t1260618686
+s11198
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/zh-Hans.lproj/bug2.png
+c000000004B2383BE00000000000039D8
+t1260618686
+s14808
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/zh-Has.lproj/bug2.png
+c000000004B2383BE00000000000039D8
+t1260618686
+s14808
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000132
+t1260618686
+s306
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSample.LinkFileList
+c000000004F2F9ACD000000000000093D
+t1328519885
+s2365
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSampleAppDelegate.o
+t1328519887
+s54792
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/RootViewController.o
+t1328519887
+s48844
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBadge.o
+t1328519887
+s47192
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBatteryMonitor.o
+t1328519887
+s47160
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyAndPaste.o
+t1328519887
+s51892
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyBase.o
+t1328519887
+s48140
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForDeviceInfo.o
+t1328519887
+s43436
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForLinks.o
+t1328519887
+s47256
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForProximityMonitoring.o
+t1328519887
+s45780
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForUniqueIdentifier.o
+t1328519887
+s47672
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/main.o
+t1328519887
+s6592
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app
+t1328519888
+s340
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM
+t1328519888
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+t1328519887
+s56692
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings
+t1328519885
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/bug2.png
+t1328519885
+s14808
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Info.plist
+t1328519885
+s748
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings
+t1328519885
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/PkgInfo
+t1328519885
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug1.png
+t1328519885
+s8232
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug2.png
+t1299677560
+s14808
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug3.png
+t1328519885
+s11198
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/zh-Hans.lproj/bug2.png
+t1328519885
+s14808
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/zh-Has.lproj/bug2.png
+t1328518751
+s14808
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m
+c000000004B2383BE000000000000019C
+t1260618686
+s412
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch
+c000000004B2383BE00000000000000DD
+t1260618686
+s221
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.h
+c000000004B2383BE0000000000000109
+t1260618686
+s265
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m
+c000000004B2383BE00000000000004C2
+t1260618686
+s1218
+i"ApplicationAndDeviceSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m
+c000000004B2383BE0000000000000A3C
+t1260618686
+s2620
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.h
+c000000004B2383BE00000000000000CA
+t1260618686
+s202
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m
+c000000004B2383BE000000000000064E
+t1260618686
+s1614
+i"SampleForBadge.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.h
+c000000004B2383BE00000000000000C8
+t1260618686
+s200
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m
+c000000004B2383BE0000000000000A35
+t1260618686
+s2613
+i"SampleForBatteryMonitor.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.h
+c000000004B2383BE00000000000000C2
+t1260618686
+s194
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m
+c000000004B2383BE0000000000000B9F
+t1260618686
+s2975
+i"SampleForCopyAndPaste.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.h
+c000000004B2383BE00000000000000D4
+t1260618686
+s212
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m
+c000000004B2383BE0000000000000670
+t1260618686
+s1648
+i"SampleForDeviceInfo.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.h
+c000000004B2383BE00000000000000CD
+t1260618686
+s205
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m
+c000000004B2383BE0000000000000963
+t1260618686
+s2403
+i"SampleForLinks.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.h
+c000000004B2383BE00000000000000CC
+t1260618686
+s204
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m
+c000000004B2383BE0000000000000911
+t1260618686
+s2321
+i"SampleForProximityMonitoring.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.h
+c000000004B2383BE00000000000000A5
+t1260618686
+s165
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m
+c000000004B2383BE00000000000005BA
+t1260618686
+s1466
+i"SampleForUniqueIdentifier.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000132
+t1260618686
+s306
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Images/bug1.png
+c000000004B2383BE0000000000002028
+t1260618686
+s8232
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Images/bug2.png
+c000000004B2383BE00000000000039D8
+t1260618686
+s14808
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Images/bug3.png
+c000000004B2383BE0000000000002BBE
+t1260618686
+s11198
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000132
+t1260618686
+s306
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSample.LinkFileList
+c000000004D77817700000000000008D7
+t1299677559
+s2263
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSampleAppDelegate.o
+t1299677561
+s51088
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/RootViewController.o
+t1299677561
+s45424
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBadge.o
+t1299677561
+s43740
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBatteryMonitor.o
+t1299677561
+s46892
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyAndPaste.o
+t1299677561
+s48484
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForDeviceInfo.o
+t1299677561
+s39908
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForLinks.o
+t1299677561
+s43996
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForProximityMonitoring.o
+t1299677561
+s42264
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForUniqueIdentifier.o
+t1299677561
+s44268
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/main.o
+t1299677561
+s6608
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app
+t1299677561
+s340
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM
+t1299677561
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+t1299677561
+s51064
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings
+t1299677560
+s42
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Info.plist
+t1299677560
+s765
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings
+t1299677560
+s42
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/PkgInfo
+t1299677560
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug1.png
+t1299677560
+s8232
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug2.png
+t1299677560
+s14808
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug3.png
+t1299677560
+s11198
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/main.m
+c000000004B2383BE000000000000019C
+t1260618686
+s412
+i<UIKit/UIKit.h>
+
+NApplicationAndDeviceSample-Info.plist
+c000000004F2F3B090000000000000424
+t1328495369
+s1060
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350212685#350212685#0(0"0(0#1#0"8606892096#0"0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212686.888173
+e350212687.150266
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m350212686#350212687#0(0"0(0#0#125"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m8605802464#2797"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSampleAppDelegate.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370360.989926
+e321370361.077220
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@144"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m321370360#321370361#0(0"0(0#0#136"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m8608525376#2905"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSampleAppDelegate.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212687.042633
+e350212687.194686
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m350212687#350212687#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m8606497760#2759"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370361.042813
+e321370361.133450
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m321370361#321370361#0(0"0(0#0#117"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m8608103360#2867"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBadge.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212687.150444
+e350212687.248975
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBadge.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m350212687#350212687#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m8601630144#2751"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBadge.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBadge.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370361.077329
+e321370361.164832
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBadge.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m321370361#321370361#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m8607557152#2859"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBadge.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBatteryMonitor.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212687.283907
+e350212687.423131
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBatteryMonitor.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m350212687#350212687#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m8608882752#2769"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBatteryMonitor.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBatteryMonitor.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370361.225925
+e321370361.331659
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBatteryMonitor.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m321370361#321370361#0(0"0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m8610329696#2877"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForBatteryMonitor.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyAndPaste.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212687.426956
+e350212687.526172
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyAndPaste.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m350212687#350212687#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m8601547808#2765"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyAndPaste.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyAndPaste.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370361.340399
+e321370361.426984
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyAndPaste.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m321370361#321370361#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m8606314336#2873"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyAndPaste.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyBase.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212687.519140
+e350212687.590091
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyBase.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyBase.m350212687#350212687#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyBase.m8606652160#2757"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyBase.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForCopyBase.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForDeviceInfo.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212687.343643
+e350212687.426852
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForDeviceInfo.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m350212687#350212687#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m8606992224#2761"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForDeviceInfo.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForDeviceInfo.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370361.250149
+e321370361.340288
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForDeviceInfo.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m321370361#321370361#0(0"0(0#0#118"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m8602802816#2869"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForDeviceInfo.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForLinks.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212687.194785
+e350212687.283807
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForLinks.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m350212687#350212687#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m8607308352#2751"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForLinks.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForLinks.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370361.137416
+e321370361.225819
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForLinks.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m321370361#321370361#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m8601041184#2859"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForLinks.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForProximityMonitoring.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212687.249085
+e350212687.343535
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForProximityMonitoring.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m350212687#350212687#0(0"0(0#0#116"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m8608993376#2779"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForProximityMonitoring.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForProximityMonitoring.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370361.164939
+e321370361.250045
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForProximityMonitoring.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m321370361#321370361#0(0"0(0#0#127"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m8599156800#2887"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForProximityMonitoring.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForUniqueIdentifier.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212687.423229
+e350212687.519038
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForUniqueIdentifier.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m350212687#350212687#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m8607048768#2773"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForUniqueIdentifier.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForUniqueIdentifier.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370361.331758
+e321370361.418791
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForUniqueIdentifier.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m321370361#321370361#0(0"0(0#0#124"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m8606800384#2881"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/SampleForUniqueIdentifier.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212686.886768
+e350212687.042541
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m350212686#350212687#0(0"0(0#0#84"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m8603394272#2723"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370360.988389
+e321370361.042705
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/main.m321370360#321370361#0(0"0(0#0#95"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/main.m8608739680#2831"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s350212685.577753
+e350212685.838656
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings350212685#350212685#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/English.lproj/InfoPlist.strings8606814464#591"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+s350212685.579159
+e350212685.842386
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings
+xJapanese.lproj/InfoPlist.strings
+oJapanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@37"Copy Japanese.lproj/InfoPlist.strings350212685#350212685#0(134"Japanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#110"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Japanese.lproj/InfoPlist.strings8606610080#592"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Japanese.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Japanese.lproj0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321370360.006299
+e321370360.235061
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321370360#321370360#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/English.lproj/InfoPlist.strings8606902496#613"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+s321370360.007275
+e321370360.235224
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings
+xJapanese.lproj/InfoPlist.strings
+oJapanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@37"Copy Japanese.lproj/InfoPlist.strings321370360#321370360#0(134"Japanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#121"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Japanese.lproj/InfoPlist.strings8603181472#614"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Japanese.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Japanese.lproj0#
+
+CCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/bug2.png Images/English.lproj/bug2.png
+s350212685.839606
+e350212685.907902
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj/bug2.png
+xImages/English.lproj/bug2.png
+lSLF07#2@34"Copy Images/English.lproj/bug2.png350212685#350212685#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/English.lproj/bug2.png8604353440#637"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/English.lproj/bug2.png /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/English.lproj0#
+
+CCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug1.png Images/bug1.png
+s350212685.838749
+e350212685.907702
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug1.png
+xImages/bug1.png
+lSLF07#2@20"Copy Images/bug1.png350212685#350212685#0(0"0(0#0#93"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug1.png8604452320#609"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug1.png /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app0#
+
+CCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug2.png Images/bug2.png
+s321370360.236048
+e321370360.243113
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug2.png
+xImages/bug2.png
+lSLF07#2@20"Copy Images/bug2.png321370360#321370360#0(0"0(0#0#104"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Images/bug2.png8607287424#628"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Images/bug2.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app0#
+
+CCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug3.png Images/bug3.png
+s350212685.841339
+e350212685.883943
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ApplicationAndDeviceSample.app/bug3.png
+xImages/bug3.png
+lSLF07#2@20"Copy Images/bug3.png350212685#350212685#0(0"0(0#0#93"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug3.png8604103392#609"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug3.png /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app0#
+
+CCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/zh-Hans.lproj/bug2.png Images/zh-Hans.lproj/bug2.png
+s350212685.840624
+e350212685.919951
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ApplicationAndDeviceSample.app/zh-Hans.lproj/bug2.png
+xImages/zh-Hans.lproj/bug2.png
+lSLF07#2@34"Copy Images/zh-Hans.lproj/bug2.png350212685#350212685#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/zh-Hans.lproj/bug2.png8604284192#637"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/zh-Hans.lproj/bug2.png /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/zh-Hans.lproj0#
+
+CCpResource build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/zh-Has.lproj/bug2.png Images/zh-Has.lproj/bug2.png
+s350211551.749306
+e350211551.805262
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ApplicationAndDeviceSample.app/zh-Has.lproj/bug2.png
+xImages/zh-Has.lproj/bug2.png
+lSLF07#2@33"Copy Images/zh-Has.lproj/bug2.png350211551#350211551#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/zh-Has.lproj/bug2.png8628690848#635"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/zh-Has.lproj/bug2.png /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/zh-Has.lproj0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+s350212687.957279
+e350212688.065703
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+lSLF07#2@166"GenerateDSYMFile build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample350212687#350212688#0(0"0(0#0#163"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample8606316192#557"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+s321370361.456601
+e321370361.493255
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+lSLF07#2@166"GenerateDSYMFile build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample321370361#321370361#0(0"0(0#0#174"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample8602886656#590"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample normal i386
+s350212687.590192
+e350212687.957172
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+xnormal
+xi386
+lSLF07#2@168"Link /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample350212687#350212687#0(0"0(0#0#0"8601885216#1190"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample normal i386
+s321370361.427086
+e321370361.456482
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+xnormal
+xi386
+lSLF07#2@179"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample321370361#321370361#0(0"0(0#0#0"8599473792#1245"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/Objects-normal/i386/ApplicationAndDeviceSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Info.plist ApplicationAndDeviceSample-Info.plist
+s350212685.558664
+e350212685.577655
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Info.plist
+xApplicationAndDeviceSample-Info.plist
+lSLF07#2@45"Process ApplicationAndDeviceSample-Info.plist350212685#350212685#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample-Info.plist30962526618255472#653"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ApplicationAndDeviceSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Info.plist0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Info.plist ApplicationAndDeviceSample-Info.plist
+s321370360.001546
+e321370360.006205
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Info.plist
+xApplicationAndDeviceSample-Info.plist
+lSLF07#2@45"Process ApplicationAndDeviceSample-Info.plist321370360#321370360#0(0"0(0#0#126"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample-Info.plist8610383392#686"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ApplicationAndDeviceSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-attssoazlejbaucyfjyrsyduyyqo/ApplicationAndDeviceSample_Prefix.pch.gch ApplicationAndDeviceSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch.gch ApplicationAndDeviceSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321370360.244873
+e321370360.988112
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch.gch
+xApplicationAndDeviceSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Precompile ApplicationAndDeviceSample_Prefix.pch321370360#321370360#0(0"0(0#0#126"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch8600157024#2654"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-elfuiztqqocyszaxsaqcvrcrzcsz/ApplicationAndDeviceSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-fmkjcdrqdgkndpcwjhcrysoyaftc/ApplicationAndDeviceSample_Prefix.pch.gch ApplicationAndDeviceSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350142445.352671
+e350142447.813968
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-fmkjcdrqdgkndpcwjhcrysoyaftc/ApplicationAndDeviceSample_Prefix.pch.gch
+xApplicationAndDeviceSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@48"Precompile ApplicationAndDeviceSample_Prefix.pch350142445#350142447#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch8602416192#2598"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-fmkjcdrqdgkndpcwjhcrysoyaftc/ApplicationAndDeviceSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch.gch ApplicationAndDeviceSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350212685.920095
+e350212686.886538
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch.gch
+xApplicationAndDeviceSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Precompile ApplicationAndDeviceSample_Prefix.pch350212685#350212686#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch8601548288#2557"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphonesimulator/ApplicationAndDeviceSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-hkryjuwnycuozvgcyiimjkmsmsvl/ApplicationAndDeviceSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app
+s350212688.065795
+e350212688.097556
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app
+lSLF07#2@142"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app350212688#350212688#0(0"0(0#0#0"8606137280#375"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app
+s321370361.493348
+e321370361.496253
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app
+lSLF07#2@153"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app321370361#321370361#0(0"0(0#0#0"8600968736#397"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug-iphonesimulator/ApplicationAndDeviceSample.app0#
+

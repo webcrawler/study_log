@@ -1,0 +1,198 @@
+THelloWorld
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-cehfnqsuudhvkmaqrwlvxzmtvbsn/HelloWorld_Prefix.pch.gch
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.h
+c000000004B2383BE000000000000011E
+t1260618686
+s286
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m
+c000000004B2383BE0000000000000497
+t1260618686
+s1175
+i"HelloWorldAppDelegate.h"
+i"ViewController1.h"
+i"ViewController2.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m
+c000000004B2383BE000000000000048C
+t1260618686
+s1164
+i"ViewController1.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m
+c000000004B2383BE00000000000003D4
+t1260618686
+s980
+i"ViewController2.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/HelloWorld_Prefix.pch
+c000000004B2383BE00000000000000BD
+t1260618686
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball1.png
+c000000004B2383BE0000000000000223
+t1260618686
+s547
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball2.png
+c000000004B2383BE00000000000010B2
+t1260618686
+s4274
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Release-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Release-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Release-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Release-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Release-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app.dSYM
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app/HelloWorld
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app/ball1.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app/ball2.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app/ball3.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/main.m
+c000000004B2383BE000000000000017A
+t1260618686
+s378
+i<UIKit/UIKit.h>
+
+NHelloWorld-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCpResource build/Release-iphonesimulator/HelloWorld.app/ball1.png Images/ball1.png
+r0
+
+CCpResource build/Release-iphonesimulator/HelloWorld.app/ball2.png Images/ball2.png
+r0
+
+CCpResource build/Release-iphonesimulator/HelloWorld.app/ball3.png Images/ball3.png
+r0
+
+CGenerateDSYMFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app.dSYM" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app/HelloWorld"
+r0
+
+CLd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+r0
+
+CProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+r0
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-cehfnqsuudhvkmaqrwlvxzmtvbsn/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Release-iphonesimulator/HelloWorld.app"
+r0
+

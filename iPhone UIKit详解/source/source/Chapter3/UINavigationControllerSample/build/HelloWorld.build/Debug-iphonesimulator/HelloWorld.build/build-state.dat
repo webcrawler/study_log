@@ -1,0 +1,620 @@
+THelloWorld
+v7
+r0
+t350460848.922289
+cCheck dependencies
+cProcessInfoPlistFile "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+cCpResource build/Debug-iphonesimulator/HelloWorld.app/ball1.png Images/ball1.png
+cCpResource build/Debug-iphonesimulator/HelloWorld.app/ball2.png Images/ball2.png
+cCpResource build/Debug-iphonesimulator/HelloWorld.app/English.lproj/ball3.png Images/English.lproj/ball3.png
+cCpResource build/Debug-iphonesimulator/HelloWorld.app/zh-Hans.lproj/ball3.png Images/zh-Hans.lproj/ball3.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/TopMenuController.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/TopMenuController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+cGenerateDSYMFile "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM" "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"
+cTouch "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bbvmrbtrryqpducszfilwfbsvfde/HelloWorld_Prefix.pch.gch
+t1320979580
+s15814064
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch.gch
+t1328768048
+s15814064
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/HelloWorldAppDelegate.h
+c000000004F07E33F000000000000011C
+t1325916991
+s284
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/HelloWorldAppDelegate.m
+c000000004F07E38E000000000000033D
+t1325917070
+s829
+i"HelloWorldAppDelegate.h"
+i"TopMenuController.h"
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/TopMenuController.h
+c000000004F07E1A600000000000000C1
+t1325916582
+s193
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/TopMenuController.m
+c000000004F07E1AC000000000000065E
+t1325916588
+s1630
+i"TopMenuController.h"
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController1.h
+c000000004F07E22B000000000000008F
+t1325916715
+s143
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController1.m
+c000000004F07E235000000000000040B
+t1325916725
+s1035
+i"ViewController1.h"
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController2.h
+c000000004F07E242000000000000008F
+t1325916738
+s143
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController2.m
+c000000004F07E2DF0000000000000413
+t1325916895
+s1043
+i"ViewController2.h"
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/HelloWorld_Prefix.pch
+c000000004B2383BE00000000000000BD
+t1260618686
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Images/English.lproj/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Images/ball1.png
+c000000004B2383BE0000000000000223
+t1260618686
+s547
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Images/ball2.png
+c000000004B2383BE00000000000010B2
+t1260618686
+s4274
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Images/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Images/zh-Hans.lproj/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+t1328768048
+s340
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+t1328768048
+s102
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/English.lproj/ball3.png
+t1328768047
+s4024
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+t1328768048
+s23000
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+t1320979579
+s570
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo
+t1320979579
+s8
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball1.png
+t1320979579
+s547
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball2.png
+t1320979579
+s4274
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball3.png
+t1320979579
+s4024
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/zh-Hans.lproj/ball3.png
+t1328768047
+s4024
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000004F33642F0000000000000336
+t1328768047
+s822
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+t1328768048
+s51600
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/TopMenuController.o
+t1328768048
+s43020
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+t1328768048
+s40776
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+t1328768048
+s40904
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1328768048
+s6548
+
+N/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/main.m
+c000000004B2383BE000000000000017A
+t1260618686
+s378
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.h
+c000000004F07E33F000000000000011C
+t1325916991
+s284
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.m
+c000000004F07E38E000000000000033D
+t1325917070
+s829
+i"HelloWorldAppDelegate.h"
+i"TopMenuController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.h
+c000000004F07E1A600000000000000C1
+t1325916582
+s193
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.m
+c000000004F07E1AC000000000000065E
+t1325916588
+s1630
+i"TopMenuController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.h
+c000000004F07E22B000000000000008F
+t1325916715
+s143
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.m
+c000000004F07E235000000000000040B
+t1325916725
+s1035
+i"ViewController1.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.h
+c000000004F07E242000000000000008F
+t1325916738
+s143
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.m
+c000000004F07E2DF0000000000000413
+t1325916895
+s1043
+i"ViewController2.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/HelloWorld_Prefix.pch
+c000000004B2383BE00000000000000BD
+t1260618686
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball1.png
+c000000004B2383BE0000000000000223
+t1260618686
+s547
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball2.png
+c000000004B2383BE00000000000010B2
+t1260618686
+s4274
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+t1320979581
+s272
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+t1320979581
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+t1320979581
+s23248
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+t1320979579
+s570
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo
+t1320979579
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball1.png
+t1320979579
+s547
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball2.png
+t1320979579
+s4274
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball3.png
+t1320979579
+s4024
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000004EBC8C7B00000000000003B3
+t1320979579
+s947
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+t1320979580
+s51648
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/TopMenuController.o
+t1320979580
+s43076
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+t1320979580
+s40828
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+t1320979580
+s40968
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1320979580
+s6600
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/main.m
+c000000004B2383BE000000000000017A
+t1260618686
+s378
+i<UIKit/UIKit.h>
+
+NHelloWorld-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350460847#350460847#0(0"0(0#1#0"8634129536#0"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460848.285648
+e350460848.476388
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+x/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/HelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/HelloWorldAppDelegate.m350460848#350460848#0(0"0(0#0#96"/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/HelloWorldAppDelegate.m8631826784#2324"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch -c "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/HelloWorldAppDelegate.m" -o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s342672380.443799
+e342672380.616362
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@129"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.m342672380#342672380#0(0"0(0#0#121"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.m8607999136#2599"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bbvmrbtrryqpducszfilwfbsvfde/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/TopMenuController.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/TopMenuController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460848.565250
+e350460848.642618
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/TopMenuController.o
+x/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/TopMenuController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/TopMenuController.m350460848#350460848#0(0"0(0#0#92"/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/TopMenuController.m8633674272#2316"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch -c "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/TopMenuController.m" -o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/TopMenuController.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/TopMenuController.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s342672380.679226
+e342672380.796177
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/TopMenuController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.m342672380#342672380#0(0"0(0#0#117"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.m8606206720#2591"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bbvmrbtrryqpducszfilwfbsvfde/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/TopMenuController.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460848.387831
+e350460848.564559
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+x/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController1.m350460848#350460848#0(0"0(0#0#90"/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController1.m8634353440#2312"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch -c "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController1.m" -o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s342672380.584083
+e342672380.679124
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.m342672380#342672380#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.m8606003136#2587"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bbvmrbtrryqpducszfilwfbsvfde/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460848.476490
+e350460848.631916
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+x/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController2.m350460848#350460848#0(0"0(0#0#90"/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController2.m8633711296#2312"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch -c "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Classes/ViewController2.m" -o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s342672380.616558
+e342672380.730925
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.m342672380#342672380#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.m8604118816#2587"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bbvmrbtrryqpducszfilwfbsvfde/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460848.283954
+e350460848.387696
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/main.m350460848#350460848#0(0"0(0#0#71"/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/main.m8633371712#2282"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch -c "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/main.m" -o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s342672380.442626
+e342672380.583978
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/main.m342672380#342672380#0(0"0(0#0#96"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/main.m8606473984#2557"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bbvmrbtrryqpducszfilwfbsvfde/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/main.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/English.lproj/ball3.png Images/English.lproj/ball3.png
+s350460847.227561
+e350460847.270199
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/English.lproj/ball3.png
+xImages/English.lproj/ball3.png
+lSLF07#2@35"Copy Images/English.lproj/ball3.png350460847#350460847#0(0"0(0#0#95"/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Images/English.lproj/ball3.png8629354272#589"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Images/English.lproj/ball3.png" "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/English.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/ball1.png Images/ball1.png
+s342672379.146493
+e342672379.190258
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/ball1.png
+xImages/ball1.png
+lSLF07#2@21"Copy Images/ball1.png342672379#342672379#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball1.png8602264704#636"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball1.png" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/ball2.png Images/ball2.png
+s342672379.148378
+e342672379.189773
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/ball2.png
+xImages/ball2.png
+lSLF07#2@21"Copy Images/ball2.png342672379#342672379#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball2.png8600918912#636"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball2.png" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/ball3.png Images/ball3.png
+s342672379.149172
+e342672379.189999
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/ball3.png
+xImages/ball3.png
+lSLF07#2@21"Copy Images/ball3.png342672379#342672379#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball3.png8604560000#636"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball3.png" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/zh-Hans.lproj/ball3.png Images/zh-Hans.lproj/ball3.png
+s350460847.228432
+e350460847.270387
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/zh-Hans.lproj/ball3.png
+xImages/zh-Hans.lproj/ball3.png
+lSLF07#2@35"Copy Images/zh-Hans.lproj/ball3.png350460847#350460847#0(0"0(0#0#95"/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Images/zh-Hans.lproj/ball3.png8632845408#589"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/Images/zh-Hans.lproj/ball3.png" "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/zh-Hans.lproj"0#
+
+CGenerateDSYMFile "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM" "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"
+s350460848.795071
+e350460848.906288
+r1
+xGenerateDSYMFile
+x/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+x/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld.app.dSYM build/Debug-iphonesimulator/HelloWorld.app/HelloWorld350460848#350460848#0(0"0(0#0#118"/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld8633710976#476"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" -o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM"0#
+
+CGenerateDSYMFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"
+s342672381.583378
+e342672381.634429
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld.app.dSYM build/Debug-iphonesimulator/HelloWorld.app/HelloWorld342672381#342672381#0(0"0(0#0#143"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld8604019008#551"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM"0#
+
+CLd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+s350460848.642710
+e350460848.788885
+r1
+xLd
+x/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+lSLF07#2@123"Link /wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld350460848#350460848#0(0"0(0#0#0"8613166336#1055"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator" "-F/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator" -filelist "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"0#
+
+CLd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+s342672380.796286
+e342672381.583275
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+lSLF07#2@148"Link /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld342672380#342672381#0(0"0(0#0#0"8605895232#1180"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator" -filelist "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"0#
+
+CProcessInfoPlistFile "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+r0
+
+CProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+s342672379.115529
+e342672379.146360
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+xHelloWorld-Info.plist
+lSLF07#2@29"Process HelloWorld-Info.plist342672379#342672379#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/HelloWorld-Info.plist7815273028046385152#647"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloWorld-Info.plist -genpkginfo "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist"0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bbvmrbtrryqpducszfilwfbsvfde/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s342672379.190430
+e342672380.442520
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bbvmrbtrryqpducszfilwfbsvfde/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch342672379#342672380#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/HelloWorld_Prefix.pch8604563936#2393"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/HelloWorld_Prefix.pch" -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bbvmrbtrryqpducszfilwfbsvfde/HelloWorld_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460847.270507
+e350460848.283683
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch350460847#350460848#0(0"0(0#0#86"/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/HelloWorld_Prefix.pch8632450880#2143"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -c "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/HelloWorld_Prefix.pch" -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-geohqhfxttpmscgygrcohfncdvaz/HelloWorld_Prefix.pch.gch0#
+
+CTouch "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app"
+s350460848.906380
+e350460848.922243
+r1
+xTouch
+x/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+lSLF07#2@113"Touch /wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app350460848#350460848#0(0"0(0#0#0"8634414880#337"    cd "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/wang/book/iphone3/source/Chapter3 /UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CTouch "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app"
+s342672381.634517
+e342672381.680850
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+lSLF07#2@138"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app342672381#342672381#0(0"0(0#0#0"8603819936#387"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+

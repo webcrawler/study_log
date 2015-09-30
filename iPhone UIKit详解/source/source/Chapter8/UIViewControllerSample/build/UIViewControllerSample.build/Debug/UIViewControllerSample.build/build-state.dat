@@ -1,0 +1,104 @@
+TUIViewControllerSample
+v7
+r1
+cCheck dependencies
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/English.lproj/InfoPlist.strings
+c000000004B2383BE000000000000012A
+t1260618686
+s298
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/Images/dog.jpg
+c000000004B2383BE00000000000031DE
+t1260618686
+s12766
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/Images/face.jpg
+c000000004B2383BE00000000000015B9
+t1260618686
+s5561
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/Images/smile.png
+c000000004B2383BE00000000000002E7
+t1260618686
+s743
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/Images/town.jpg
+c000000004B2383BE000000000006FBDA
+t1260618686
+s457690
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE000000000000012A
+t1260618686
+s298
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Resources/Japanese.lproj/InfoPlist.strings
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Resources/dog.jpg
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Resources/face.jpg
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Resources/smile.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Resources/town.jpg
+t2
+s0
+
+NUIViewControllerSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320303588#320303588#0(75"[BEROR]error: There is no SDK with the name or path 'iphonesimulator2.2.1'1(4@67"error: There is no SDK with the name or path 'iphonesimulator2.2.1'320303588#18446744073709551615#0#0(1@0"0(0#1#0"7308335521232875520#0"0#
+
+CCopyStringsFile "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Resources/Japanese.lproj/InfoPlist.strings" Japanese.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/UIViewControllerSample.app/Contents/Resources/dog.jpg Images/dog.jpg
+r0
+
+CCpResource build/Debug/UIViewControllerSample.app/Contents/Resources/face.jpg Images/face.jpg
+r0
+
+CCpResource build/Debug/UIViewControllerSample.app/Contents/Resources/smile.png Images/smile.png
+r0
+
+CCpResource build/Debug/UIViewControllerSample.app/Contents/Resources/town.jpg Images/town.jpg
+r0
+
+CProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app/Contents/Info.plist" UIViewControllerSample-Info.plist
+r0
+
+CTouch "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UIViewControllerSample/build/Debug/UIViewControllerSample.app"
+r0
+

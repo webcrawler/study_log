@@ -1,0 +1,87 @@
+TApplicationAndDeviceSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000132
+t1260618686
+s306
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Images/bug1.png
+c000000004B2383BE0000000000002028
+t1260618686
+s8232
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Images/bug2.png
+c000000004B2383BE00000000000039D8
+t1260618686
+s14808
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Images/bug3.png
+c000000004B2383BE0000000000002BBE
+t1260618686
+s11198
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000132
+t1260618686
+s306
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/Japanese.lproj/InfoPlist.strings
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/bug1.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/bug2.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/bug3.png
+t2
+s0
+
+NApplicationAndDeviceSample-Info.plist
+c000000004B2383BE000000000000043C
+t1260618686
+s1084
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/bug1.png Images/bug1.png
+r0
+
+CCpResource build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/bug2.png Images/bug2.png
+r0
+
+CCpResource build/Debug/ApplicationAndDeviceSample.app/Contents/Resources/bug3.png Images/bug3.png
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app/Contents/Info.plist ApplicationAndDeviceSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter11/ApplicationAndDeviceSample/build/Debug/ApplicationAndDeviceSample.app
+r0
+

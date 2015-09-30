@@ -1,0 +1,1666 @@
+TUIButtonSample
+v7
+r0
+t350470304.980133
+cCheck dependencies
+cProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist UIButtonSample-Info.plist
+cCpResource build/Debug-iphonesimulator/UIButtonSample.app/paper.png Images/paper.png
+cCpResource build/Debug-iphonesimulator/UIButtonSample.app/smile.png Images/smile.png
+cCpResource build/Debug-iphonesimulator/UIButtonSample.app/frame.png Images/frame.png
+cCpResource build/Debug-iphonesimulator/UIButtonSample.app/Dog.png Images/Dog.png
+cCpResource build/Debug-iphonesimulator/UIButtonSample.app/DogDisable.png Images/DogDisable.png
+cCpResource build/Debug-iphonesimulator/UIButtonSample.app/DogHighlight.png Images/DogHighlight.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch.gch UIButtonSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UIButtonSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIButtonSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonTap.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithImage.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithType.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithType.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjChangeTextByState.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjChangeTextByState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjEdgeInsets.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjEdgeInsets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjLineBreakMode.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjLineBreakMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjReversesTitleShadow.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjReversesTitleShadow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjShowsTouch.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjShowsTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample normal i386
+cGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+cTouch /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch.gch
+t1326336045
+s15211536
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch.gch
+t1328777503
+s15211536
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch.gch
+t1299540131
+s15232016
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/RootViewController.h
+c000000004F0910E400000000000000BC
+t1325994212
+s188
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/RootViewController.m
+c000000004F33890E0000000000000B4F
+t1328777486
+s2895
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForButtonTap.h
+c000000004F0910B30000000000000095
+t1325994163
+s149
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForButtonTap.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForButtonWithImage.h
+c000000004F0910C700000000000000A1
+t1325994183
+s161
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForButtonWithImage.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForButtonWithType.h
+c000000004F0910ED00000000000000D6
+t1325994221
+s214
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForButtonWithType.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForChangeTextByState.h
+c000000004F0910DD00000000000000C8
+t1325994205
+s200
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForChangeTextByState.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForEdgeInsets.h
+c000000004F0910BF0000000000000097
+t1325994175
+s151
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForEdgeInsets.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForLineBreakMode.h
+c000000004F0910A9000000000000009D
+t1325994153
+s157
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForLineBreakMode.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForReversesTitleShadow.h
+c000000004F0910D600000000000000A9
+t1325994198
+s169
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForReversesTitleShadow.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForShowsTouch.h
+c000000004F0910CF0000000000000097
+t1325994191
+s151
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForShowsTouch.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIButtonSampleAppDelegate.h
+c000000004F0910F400000000000000EE
+t1325994228
+s238
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIButtonSampleAppDelegate.m
+c000000004F0910FA00000000000002BF
+t1325994234
+s703
+i"UIButtonSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonTap.h
+c000000004F3388D60000000000000093
+t1328777430
+s147
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonTap.m
+c000000004F3388DB00000000000003E8
+t1328777435
+s1000
+i"UIKitPrjButtonTap.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithImage.h
+c000000004F3388DE000000000000009F
+t1328777438
+s159
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithImage.m
+c000000004F3388E20000000000000B87
+t1328777442
+s2951
+i"UIKitPrjButtonWithImage.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithType.h
+c000000004F3388E600000000000000D4
+t1328777446
+s212
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithType.m
+c000000004F3388E90000000000000CA6
+t1328777449
+s3238
+i"UIKitPrjButtonWithType.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjChangeTextByState.h
+c000000004F3388ED00000000000000C6
+t1328777453
+s198
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjChangeTextByState.m
+c000000004F3388F000000000000008D4
+t1328777456
+s2260
+i"UIKitPrjChangeTextByState.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjEdgeInsets.h
+c000000004F3388F30000000000000095
+t1328777459
+s149
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjEdgeInsets.m
+c000000004F3388F700000000000008AB
+t1328777463
+s2219
+i"UIKitPrjEdgeInsets.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjLineBreakMode.h
+c000000004F3388F9000000000000009B
+t1328777465
+s155
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjLineBreakMode.m
+c000000004F3388FD000000000000035A
+t1328777469
+s858
+i"UIKitPrjLineBreakMode.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjReversesTitleShadow.h
+c000000004F33890000000000000000A7
+t1328777472
+s167
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjReversesTitleShadow.m
+c000000004F3389030000000000000654
+t1328777475
+s1620
+i"UIKitPrjReversesTitleShadow.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjShowsTouch.h
+c000000004F3389060000000000000095
+t1328777478
+s149
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjShowsTouch.m
+c000000004F338909000000000000054C
+t1328777481
+s1356
+i"UIKitPrjShowsTouch.h"
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/Dog.png
+c000000004B2383BE0000000000001334
+t1260618686
+s4916
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/DogDisable.png
+c000000004B2383BE00000000000002EF
+t1260618686
+s751
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/DogHighlight.png
+c000000004B2383BE0000000000001046
+t1260618686
+s4166
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/frame.png
+c000000004B2383BE00000000000028D5
+t1260618686
+s10453
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/paper.png
+c000000004B2383BE0000000000001E2D
+t1260618686
+s7725
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/smile.png
+c000000004B2383BE00000000000002E7
+t1260618686
+s743
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/UIButtonSample_Prefix.pch
+c000000004B2383BE00000000000000C5
+t1260618686
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+t1328777504
+s374
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM
+t1328777504
+s102
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Dog.png
+t1328777502
+s4916
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/DogDisable.png
+t1328777502
+s751
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/DogHighlight.png
+t1328777502
+s4166
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist
+t1328777502
+s586
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/PkgInfo
+t1328777502
+s8
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+t1328777504
+s42208
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/frame.png
+t1328777502
+s10453
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/paper.png
+t1328777502
+s7725
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/smile.png
+t1328777502
+s743
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o
+t1328777504
+s46344
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o
+t1326336046
+s42584
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o
+t1327989848
+s41168
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o
+t1326351236
+s44088
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o
+t1326356718
+s41628
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o
+t1326357542
+s39740
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o
+t1326358832
+s36672
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o
+t1326336046
+s38916
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o
+t1326336046
+s37772
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSample.LinkFileList
+c000000004F33891E00000000000006FF
+t1328777502
+s1791
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o
+t1328777503
+s46952
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonTap.o
+t1328777504
+s42536
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithImage.o
+t1328777504
+s41120
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithType.o
+t1328777504
+s44024
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjChangeTextByState.o
+t1328777504
+s41572
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjEdgeInsets.o
+t1328777504
+s39688
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjLineBreakMode.o
+t1328777504
+s36620
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjReversesTitleShadow.o
+t1328777504
+s38864
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjShowsTouch.o
+t1328777504
+s37724
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o
+t1328777503
+s6524
+
+N/wang/book/iphone3/source/Chapter4/UIButtonSample/main.m
+c000000004B2383BE0000000000000183
+t1260618686
+s387
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/RootViewController.h
+c000000004F0910E400000000000000BC
+t1325994212
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/RootViewController.m
+c000000004F0925810000000000000B58
+t1325999489
+s2904
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonTap.h
+c000000004F0910B30000000000000095
+t1325994163
+s149
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m
+c000000004F09255D00000000000003EB
+t1325999453
+s1003
+i"SampleForButtonTap.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.h
+c000000004F0910C700000000000000A1
+t1325994183
+s161
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m
+c000000004F2777F50000000000000B8B
+t1327986677
+s2955
+i"SampleForButtonWithImage.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.h
+c000000004F0910ED00000000000000D6
+t1325994221
+s214
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m
+c000000004F0E83800000000000000CAA
+t1326351232
+s3242
+i"SampleForButtonWithType.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.h
+c000000004F0910DD00000000000000C8
+t1325994205
+s200
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m
+c000000004F0E86DD00000000000008D7
+t1326352093
+s2263
+i"SampleForChangeTextByState.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.h
+c000000004F0910BF0000000000000097
+t1325994175
+s151
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m
+c000000004F0E9C1C00000000000008AF
+t1326357532
+s2223
+i"SampleForEdgeInsets.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.h
+c000000004F0910A9000000000000009D
+t1325994153
+s157
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m
+c000000004F0EA12C000000000000035D
+t1326358828
+s861
+i"SampleForLineBreakMode.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.h
+c000000004F0910D600000000000000A9
+t1325994198
+s169
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m
+c000000004F0910DA0000000000000658
+t1325994202
+s1624
+i"SampleForReversesTitleShadow.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.h
+c000000004F0910CF0000000000000097
+t1325994191
+s151
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m
+c000000004F0910D20000000000000550
+t1325994194
+s1360
+i"SampleForShowsTouch.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.h
+c000000004F0910F400000000000000EE
+t1325994228
+s238
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m
+c000000004F0910FA00000000000002BF
+t1325994234
+s703
+i"UIButtonSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Images/Dog.png
+c000000004B2383BE0000000000001334
+t1260618686
+s4916
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Images/DogDisable.png
+c000000004B2383BE00000000000002EF
+t1260618686
+s751
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Images/DogHighlight.png
+c000000004B2383BE0000000000001046
+t1260618686
+s4166
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Images/frame.png
+c000000004B2383BE00000000000028D5
+t1260618686
+s10453
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Images/paper.png
+c000000004B2383BE0000000000001E2D
+t1260618686
+s7725
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Images/smile.png
+c000000004B2383BE00000000000002E7
+t1260618686
+s743
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/UIButtonSample_Prefix.pch
+c000000004B2383BE00000000000000C5
+t1260618686
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+t1327989849
+s374
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM
+t1327989849
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Dog.png
+t1299540130
+s4916
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/DogDisable.png
+t1299540130
+s751
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/DogHighlight.png
+t1299540130
+s4166
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist
+t1299540130
+s586
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/PkgInfo
+t1299540130
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+t1327989849
+s42640
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/frame.png
+t1299540130
+s10453
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/paper.png
+t1299540130
+s7725
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/smile.png
+t1299540130
+s743
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o
+t1326336045
+s46384
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o
+t1326336046
+s42584
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o
+t1327989848
+s41168
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o
+t1326351236
+s44088
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o
+t1326356718
+s41628
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o
+t1326357542
+s39740
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o
+t1326358832
+s36672
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o
+t1326336046
+s38916
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o
+t1326336046
+s37772
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSample.LinkFileList
+c000000004F0E482B00000000000007B7
+t1326336043
+s1975
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o
+t1326336045
+s46984
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o
+t1326336045
+s6556
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/main.m
+c000000004B2383BE0000000000000183
+t1260618686
+s387
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/RootViewController.m
+c000000004B2383BE0000000000000B6C
+t1260618686
+s2924
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonTap.h
+c000000004B2383BE0000000000000097
+t1260618686
+s151
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m
+c000000004B2383BE00000000000003EA
+t1260618686
+s1002
+i"SampleForButtonTap.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.h
+c000000004B2383BE00000000000000A3
+t1260618686
+s163
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m
+c000000004B2383BE0000000000000B8B
+t1260618686
+s2955
+i"SampleForButtonWithImage.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.h
+c000000004B2383BE00000000000000D8
+t1260618686
+s216
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m
+c000000004B2383BE0000000000000C6E
+t1260618686
+s3182
+i"SampleForButtonWithType.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.h
+c000000004B2383BE00000000000000CA
+t1260618686
+s202
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m
+c000000004B2383BE000000000000080C
+t1260618686
+s2060
+i"SampleForChangeTextByState.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.h
+c000000004B2383BE0000000000000099
+t1260618686
+s153
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m
+c000000004B2383BE00000000000008B1
+t1260618686
+s2225
+i"SampleForEdgeInsets.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.h
+c000000004B2383BE000000000000009F
+t1260618686
+s159
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m
+c000000004B2383BE0000000000000216
+t1260618686
+s534
+i"SampleForLineBreakMode.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.h
+c000000004B2383BE00000000000000AB
+t1260618686
+s171
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m
+c000000004B2383BE000000000000065A
+t1260618686
+s1626
+i"SampleForReversesTitleShadow.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.h
+c000000004B2383BE0000000000000099
+t1260618686
+s153
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m
+c000000004B2383BE0000000000000552
+t1260618686
+s1362
+i"SampleForShowsTouch.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.h
+c000000004B2383BE00000000000000F0
+t1260618686
+s240
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m
+c000000004B2383BE00000000000002C1
+t1260618686
+s705
+i"UIButtonSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Images/Dog.png
+c000000004B2383BE0000000000001334
+t1260618686
+s4916
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Images/DogDisable.png
+c000000004B2383BE00000000000002EF
+t1260618686
+s751
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Images/DogHighlight.png
+c000000004B2383BE0000000000001046
+t1260618686
+s4166
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Images/frame.png
+c000000004B2383BE00000000000028D5
+t1260618686
+s10453
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Images/paper.png
+c000000004B2383BE0000000000001E2D
+t1260618686
+s7725
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Images/smile.png
+c000000004B2383BE00000000000002E7
+t1260618686
+s743
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/UIButtonSample_Prefix.pch
+c000000004B2383BE00000000000000C5
+t1260618686
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+t1299540131
+s374
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM
+t1299540131
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Dog.png
+t1299540130
+s4916
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/DogDisable.png
+t1299540130
+s751
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/DogHighlight.png
+t1299540130
+s4166
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist
+t1299540130
+s586
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/PkgInfo
+t1299540130
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+t1299540131
+s42880
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/frame.png
+t1299540130
+s10453
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/paper.png
+t1299540130
+s7725
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/smile.png
+t1299540130
+s743
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o
+t1299540131
+s46400
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o
+t1299540131
+s42596
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o
+t1299540131
+s41248
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o
+t1299540131
+s44100
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o
+t1299540131
+s41644
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o
+t1299540131
+s39756
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o
+t1299540131
+s36168
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o
+t1299540131
+s38928
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o
+t1299540131
+s37788
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSample.LinkFileList
+c000000004D7568A20000000000000830
+t1299540130
+s2096
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o
+t1299540131
+s47000
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o
+t1299540131
+s6568
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/main.m
+c000000004B2383BE0000000000000183
+t1260618686
+s387
+i<UIKit/UIKit.h>
+
+NUIButtonSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350470302#350470302#0(0"0(0#1#0"8629947264#0"0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470303.852251
+e350470304.021109
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@86"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/RootViewController.m350470303#350470304#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#78"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/RootViewController.m8629234080#2252"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/RootViewController.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348028845.756653
+e348028845.882691
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@102"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/RootViewController.m348028845#348028845#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/RootViewController.m8601810848#2428"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.349064
+e321232931.451427
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/RootViewController.m321232931#321232931#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/RootViewController.m8609330336#2495"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForButtonTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348028846.207168
+e348028846.335314
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@102"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m348028846#348028846#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m8603935712#2428"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.646720
+e321232931.722710
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m321232931#321232931#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m8613654432#2495"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonTap.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonTap.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForButtonWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349682636.338162
+e349682648.222853
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@108"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m349682636#349682648#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#100"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m8615675072#2440"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.552463
+e321232931.646621
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m321232931#321232931#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m8613075744#2507"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithImage.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithImage.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForButtonWithType.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348044036.055299
+e348044036.706600
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@107"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m348044036#348044036#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m8605849792#2438"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.373758
+e321232931.466935
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m321232931#321232931#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m8609593088#2505"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForButtonWithType.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForButtonWithType.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForChangeTextByState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348049508.895049
+e348049519.070238
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m348049509#348049519#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m8614219392#2444"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.451537
+e321232931.536836
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m321232931#321232931#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m8608766144#2511"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForChangeTextByState.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForChangeTextByState.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForEdgeInsets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348050342.461901
+e348050342.765865
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@103"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m348050342#348050342#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#95"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m8614137248#2430"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.635644
+e321232931.729810
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m321232931#321232931#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m8608287456#2497"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForEdgeInsets.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForEdgeInsets.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForLineBreakMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348051631.946351
+e348051632.400882
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m348051631#348051632#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#98"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m8598838208#2436"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.722818
+e321232931.790378
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m321232931#321232931#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m8610436352#2503"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForLineBreakMode.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForLineBreakMode.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForReversesTitleShadow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348028845.928871
+e348028846.042162
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@112"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m348028845#348028846#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#104"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m8607226720#2448"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.467047
+e321232931.552354
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m321232931#321232931#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m8603044960#2515"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForReversesTitleShadow.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForReversesTitleShadow.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/SampleForShowsTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348028846.029606
+e348028846.151501
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@103"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m348028846#348028846#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#95"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m8604373184#2430"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.536939
+e321232931.635533
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m321232931#321232931#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m8609078592#2497"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/SampleForShowsTouch.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/SampleForShowsTouch.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIButtonSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470303.706362
+e350470303.895704
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIButtonSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@93"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIButtonSampleAppDelegate.m350470303#350470303#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#85"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIButtonSampleAppDelegate.m8629315712#2266"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIButtonSampleAppDelegate.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348028845.559706
+e348028845.772793
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m348028845#348028845#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#101"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m8601415712#2442"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.277645
+e321232931.373649
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m321232931#321232931#0(0"0(0#0#112"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m8610229440#2509"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/Classes/UIButtonSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSampleAppDelegate.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonTap.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470303.895810
+e350470304.048639
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonTap.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonTap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@85"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonTap.m350470303#350470304#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#77"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonTap.m8637877536#2250"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonTap.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonTap.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithImage.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470304.021207
+e350470304.140403
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithImage.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@91"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithImage.m350470304#350470304#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#83"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithImage.m8610391008#2262"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithImage.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithImage.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithType.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithType.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470304.048746
+e350470304.145090
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithType.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithType.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@90"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithType.m350470304#350470304#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#82"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithType.m8635595328#2260"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjButtonWithType.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjButtonWithType.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjChangeTextByState.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjChangeTextByState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470304.140539
+e350470304.241660
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjChangeTextByState.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjChangeTextByState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@93"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjChangeTextByState.m350470304#350470304#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#85"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjChangeTextByState.m8629894592#2266"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjChangeTextByState.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjChangeTextByState.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjEdgeInsets.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjEdgeInsets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470304.145192
+e350470304.234662
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjEdgeInsets.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjEdgeInsets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@86"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjEdgeInsets.m350470304#350470304#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#78"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjEdgeInsets.m8599879072#2252"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjEdgeInsets.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjEdgeInsets.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjLineBreakMode.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjLineBreakMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470304.234761
+e350470304.318011
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjLineBreakMode.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjLineBreakMode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@89"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjLineBreakMode.m350470304#350470304#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#81"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjLineBreakMode.m8630772192#2258"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjLineBreakMode.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjLineBreakMode.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjReversesTitleShadow.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjReversesTitleShadow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470304.241761
+e350470304.325572
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjReversesTitleShadow.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjReversesTitleShadow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@95"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjReversesTitleShadow.m350470304#350470304#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#87"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjReversesTitleShadow.m8629483968#2270"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjReversesTitleShadow.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjReversesTitleShadow.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjShowsTouch.o /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjShowsTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470304.318106
+e350470304.395849
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjShowsTouch.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjShowsTouch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@86"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjShowsTouch.m350470304#350470304#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#78"/wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjShowsTouch.m8609696672#2252"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/Classes/UIKitPrjShowsTouch.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIKitPrjShowsTouch.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UIButtonSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470303.688467
+e350470303.852057
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@64"Compile /wang/book/iphone3/source/Chapter4/UIButtonSample/main.m350470303#350470303#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#56"/wang/book/iphone3/source/Chapter4/UIButtonSample/main.m8630014560#2216"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/main.m -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348028845.558320
+e348028845.756556
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@80"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/main.m348028845#348028845#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#72"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/main.m7813865618266812416#2392"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232931.276329
+e321232931.348827
+r1
+xCompileC
+xbuild/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/main.m321232931#321232931#0(0"0(0#0#83"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/main.m8612287648#2459"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/UIButtonSample.app/Dog.png Images/Dog.png
+s350470302.228575
+e350470302.276890
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIButtonSample.app/Dog.png
+xImages/Dog.png
+lSLF07#2@19"Copy Images/Dog.png350470302#350470302#0(0"0(0#0#64"/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/Dog.png8635549056#512"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/book/iphone3/source/Chapter4/UIButtonSample/Images/Dog.png /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIButtonSample.app/DogDisable.png Images/DogDisable.png
+s350470302.229514
+e350470302.277047
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIButtonSample.app/DogDisable.png
+xImages/DogDisable.png
+lSLF07#2@26"Copy Images/DogDisable.png350470302#350470302#0(0"0(0#0#71"/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/DogDisable.png8635326816#519"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/book/iphone3/source/Chapter4/UIButtonSample/Images/DogDisable.png /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIButtonSample.app/DogHighlight.png Images/DogHighlight.png
+s350470302.230339
+e350470302.277421
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIButtonSample.app/DogHighlight.png
+xImages/DogHighlight.png
+lSLF07#2@28"Copy Images/DogHighlight.png350470302#350470302#0(0"0(0#0#73"/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/DogHighlight.png8634804672#521"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/book/iphone3/source/Chapter4/UIButtonSample/Images/DogHighlight.png /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIButtonSample.app/frame.png Images/frame.png
+s350470302.225659
+e350470302.276718
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIButtonSample.app/frame.png
+xImages/frame.png
+lSLF07#2@21"Copy Images/frame.png350470302#350470302#0(0"0(0#0#66"/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/frame.png8635949056#514"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/book/iphone3/source/Chapter4/UIButtonSample/Images/frame.png /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIButtonSample.app/paper.png Images/paper.png
+s350470302.224205
+e350470302.276524
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIButtonSample.app/paper.png
+xImages/paper.png
+lSLF07#2@21"Copy Images/paper.png350470302#350470302#0(0"0(0#0#66"/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/paper.png8638091552#514"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/book/iphone3/source/Chapter4/UIButtonSample/Images/paper.png /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIButtonSample.app/smile.png Images/smile.png
+s350470302.224933
+e350470302.277265
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIButtonSample.app/smile.png
+xImages/smile.png
+lSLF07#2@21"Copy Images/smile.png350470302#350470302#0(0"0(0#0#66"/wang/book/iphone3/source/Chapter4/UIButtonSample/Images/smile.png8637674432#514"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/book/iphone3/source/Chapter4/UIButtonSample/Images/smile.png /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app0#
+
+CGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+s350470304.808896
+e350470304.976106
+r1
+xGenerateDSYMFile
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/UIButtonSample.app.dSYM build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample350470304#350470304#0(0"0(0#0#111"/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample8614138400#437"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+s349682649.339516
+e349682649.568364
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/UIButtonSample.app.dSYM build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample349682649#349682649#0(0"0(0#0#127"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample8608303552#485"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+s321232931.819088
+e321232931.853196
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/UIButtonSample.app.dSYM build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample321232931#321232931#0(0"0(0#0#138"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample8599064256#518"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app.dSYM0#
+
+CLd /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample normal i386
+s350470304.395943
+e350470304.808783
+r1
+xLd
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+xnormal
+xi386
+lSLF07#2@116"Link /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample350470304#350470304#0(0"0(0#0#0"8635472960#990"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -filelist /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample normal i386
+s349682648.242600
+e349682649.339402
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+xnormal
+xi386
+lSLF07#2@132"Link /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample349682648#349682649#0(0"0(0#0#0"8609729376#1070"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample normal i386
+s321232931.790537
+e321232931.818977
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample
+xnormal
+xi386
+lSLF07#2@143"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample321232931#321232931#0(0"0(0#0#0"8607935680#1125"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/Objects-normal/i386/UIButtonSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/UIButtonSample0#
+
+CProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist UIButtonSample-Info.plist
+s350470302.216380
+e350470302.224085
+r1
+xProcessInfoPlistFile
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist
+xUIButtonSample-Info.plist
+lSLF07#2@33"Process UIButtonSample-Info.plist350470302#350470302#0(0"0(0#0#75"/wang/book/iphone3/source/Chapter4/UIButtonSample/UIButtonSample-Info.plist8610599392#533"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIButtonSample-Info.plist -genpkginfo /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist UIButtonSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist UIButtonSample-Info.plist
+s321232930.264551
+e321232930.272238
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist
+xUIButtonSample-Info.plist
+lSLF07#2@33"Process UIButtonSample-Info.plist321232930#321232930#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/UIButtonSample-Info.plist8609072544#614"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIButtonSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch.gch UIButtonSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s348028843.900022
+e348028845.557889
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch.gch
+xUIButtonSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@36"Precompile UIButtonSample_Prefix.pch348028843#348028845#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#91"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/UIButtonSample_Prefix.pch7013070469720208384#2250"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/UIButtonSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-cyhhstgenlrgrjdhoeuhihuewtcg/UIButtonSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch.gch UIButtonSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350470302.277537
+e350470303.688364
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch.gch
+xUIButtonSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@36"Precompile UIButtonSample_Prefix.pch350470302#350470303#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#75"/wang/book/iphone3/source/Chapter4/UIButtonSample/UIButtonSample_Prefix.pch8634288832#2090"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -c /wang/book/iphone3/source/Chapter4/UIButtonSample/UIButtonSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-dqbymbxtxgmdadaanqpstxoqgttw/UIButtonSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch.gch UIButtonSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321232930.358034
+e321232931.276215
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch.gch
+xUIButtonSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile UIButtonSample_Prefix.pch321232930#321232931#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/UIButtonSample_Prefix.pch8609990176#2306"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/UIButtonSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/UIButtonSample.build/Debug-iphonesimulator/UIButtonSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/UIButtonSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIButtonSample_Prefix-fzbkxjtkmnkkfrbwkbnckznaofvo/UIButtonSample_Prefix.pch.gch0#
+
+CTouch /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+s350470304.976224
+e350470304.979873
+r1
+xTouch
+x/wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+lSLF07#2@102"Touch /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app350470304#350470304#0(0"0(0#0#0"8638347296#307"    cd /wang/book/iphone3/source/Chapter4/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/book/iphone3/source/Chapter4/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+s349682649.568458
+e349682649.618188
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+lSLF07#2@118"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app349682649#349682649#0(0"0(0#0#0"8608047552#339"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+s321232931.853282
+e321232931.856193
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app
+lSLF07#2@129"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app321232931#321232931#0(0"0(0#0#0"8608104416#361"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIButtonSample/build/Debug-iphonesimulator/UIButtonSample.app0#
+

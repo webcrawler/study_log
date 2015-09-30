@@ -285,6 +285,35 @@ copy:copy是为是实例变量保留一个自己的副本。
 //默认合成的规则是这样：
 @synthesize stuName = _stuName;
 
+15. 类别（category)
+封装是面向对象的一个特征，OC也不意外，但是有的时候我们会碰到这样一种情况，比如我封装了一个类，不想再动它了，可是随着程序功能的增加，
+需要在那个类中增加一个小小的方法，这时我们就不必在那个类中做修改，只需要在用到那个方法时随手添加一个该类的类别（category)即可，
+让我们来看代码：先建一个空类Men,里面没有任何的属性和方法。然后在main.m中我们这样写：
+#import <Foundation/Foundation.h>
+#import "Men.h"
+@interface Men(menAdd)//说明该类别名叫menAdd,是对Men类的补充。
+-(void)speak;
+@end
+@implementation Men(menAdd)
+-(void)speak
+{
+    NSLog(@"我是类别补充的speak方法");
+}
+@end
+int main(int argc, const char * argv[])
+{
+    
+    @autoreleasepool {
+        Men *man =[[Men alloc]init];
+        [man speak];
+        
+    }
+    return 0;
+}
+看起来很简单吧，我们只需要记住简单的语法规则就好，另外，需要注意的是如果speak方法是在men类中本身就有的，那么类别中的speak方法会
+覆盖men中的speak方法，有点儿像重写，而且类别只能添加方法，不能添加属性变量。
+
+16. 
 
 
 

@@ -1,0 +1,289 @@
+THelloWorld
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-chxnhtuovhwjvabogvrfjffyzfbz/HelloWorld_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gcobxvfkwaguehhinbrydgdgjcvv/HelloWorld_Prefix.pch.gch
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.h
+c000000004B2383BE000000000000011E
+t1260618686
+s286
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.m
+c000000004B2383BE000000000000034D
+t1260618686
+s845
+i"HelloWorldAppDelegate.h"
+i"TopMenuController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.h
+c000000004B2383BE00000000000000C3
+t1260618686
+s195
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.m
+c000000004B2383BE00000000000006A8
+t1260618686
+s1704
+i"TopMenuController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.m
+c000000004B2383BE0000000000000434
+t1260618686
+s1076
+i"ViewController1.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.m
+c000000004B2383BE0000000000000470
+t1260618686
+s1136
+i"ViewController2.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/HelloWorld_Prefix.pch
+c000000004B2383BE00000000000000BD
+t1260618686
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball1.png
+c000000004B2383BE0000000000000223
+t1260618686
+s547
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball2.png
+c000000004B2383BE00000000000010B2
+t1260618686
+s4274
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app.dSYM
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/HelloWorld
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/ResourceRules.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/ball1.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/ball2.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/ball3.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/TopMenuController.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/ViewController1.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/ViewController2.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/TopMenuController.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/ViewController1.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/ViewController2.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/main.m
+c000000004B2383BE000000000000017A
+t1260618686
+s378
+i<UIKit/UIKit.h>
+
+NHelloWorld-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/TopMenuController.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/ViewController1.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/ViewController2.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/HelloWorldAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/TopMenuController.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/TopMenuController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/ViewController1.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController1.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/ViewController2.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Classes/ViewController2.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCopyPNGFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/ball1.png" Images/ball1.png
+r0
+
+CCopyPNGFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/ball2.png" Images/ball2.png
+r0
+
+CCopyPNGFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/ball3.png" Images/ball3.png
+r0
+
+CCpResource build/Debug-iphoneos/HelloWorld.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/HelloWorld" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app.dSYM" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/HelloWorld"
+r0
+
+CLd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld" normal armv6
+r0
+
+CLd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld" normal armv7
+r0
+
+CProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+r0
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-chxnhtuovhwjvabogvrfjffyzfbz/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gcobxvfkwaguehhinbrydgdgjcvv/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug-iphoneos/HelloWorld.app"
+r0
+

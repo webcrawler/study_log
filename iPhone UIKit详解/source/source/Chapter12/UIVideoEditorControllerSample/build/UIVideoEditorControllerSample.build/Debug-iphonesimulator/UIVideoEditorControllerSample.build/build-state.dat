@@ -1,0 +1,746 @@
+TUIVideoEditorControllerSample
+v7
+r0
+t350493189.922332
+cCheck dependencies
+cProcessInfoPlistFile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist UIVideoEditorControllerSample-Info.plist
+cCpResource build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/test.MOV Movies/test.MOV
+cCopyStringsFile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyStringsFile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-doojpnzdqnmppgcqhraoybjehnoc/UIVideoEditorControllerSample_Prefix.pch.gch UIVideoEditorControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIKitPrjVideoEditor.o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample normal i386
+cGenerateDSYMFile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+cTouch /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004BFF3B790000000000055950
+t1275018105
+s350544
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D0BC000000000005C090
+t1297404092
+s376976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-dgazhinzljlhqjfjsqezairgegxy/UIVideoEditorControllerSample_Prefix.pch.gch
+t1299689752
+s15232016
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-doojpnzdqnmppgcqhraoybjehnoc/UIVideoEditorControllerSample_Prefix.pch.gch
+t1328800389
+s15814064
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-gjtudeqdpdpezgggyyqvvtnbgrbk/UIVideoEditorControllerSample_Prefix.pch.gch
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.h
+c000000004F094EB600000000000000BC
+t1326010038
+s188
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m
+c000000004F33E27F0000000000000919
+t1328800383
+s2329
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.h
+c000000004F33E277000000000000010C
+t1328800375
+s268
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m
+c000000004F33E27A0000000000000A7E
+t1328800378
+s2686
+i"UIKitPrjVideoEditor.h"
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.h
+c000000004B2383BE000000000000010E
+t1260618686
+s270
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m
+c000000004B2383BE00000000000002EE
+t1260618686
+s750
+i"UIVideoEditorControllerSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Movies/test.MOV
+c000000004B2383BE000000000018379A
+t1260618686
+s1587098
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/UIVideoEditorControllerSample_Prefix.pch
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app
+t1328800389
+s272
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM
+t1328800389
+s102
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/English.lproj/InfoPlist.strings
+t1299689752
+s42
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist
+t1328800388
+s631
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Japanese.lproj/InfoPlist.strings
+t1299689752
+s42
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/PkgInfo
+t1328800388
+s8
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+t1328800389
+s23920
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/test.MOV
+t1299689752
+s1587098
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o
+t1328800389
+s48356
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/SampleForVideoEditor.o
+t1299689752
+s51888
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIKitPrjVideoEditor.o
+t1328800389
+s55828
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSample.LinkFileList
+c000000004F33E2840000000000000345
+t1328800388
+s837
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o
+t1328800389
+s50924
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o
+t1328800389
+s6568
+
+N/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/main.m
+c000000004B2383BE00000000000001A2
+t1260618686
+s418
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.h
+c000000004F094EB600000000000000BC
+t1326010038
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m
+c000000004F094EC0000000000000091B
+t1326010048
+s2331
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.h
+c000000004F094EC5000000000000010E
+t1326010053
+s270
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m
+c000000004F094F0D0000000000000A48
+t1326010125
+s2632
+i"SampleForVideoEditor.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.h
+c000000004B2383BE000000000000010E
+t1260618686
+s270
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m
+c000000004B2383BE00000000000002EE
+t1260618686
+s750
+i"UIVideoEditorControllerSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Movies/test.MOV
+c000000004B2383BE000000000018379A
+t1260618686
+s1587098
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/UIVideoEditorControllerSample_Prefix.pch
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app
+t1299689753
+s272
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM
+t1299689753
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/English.lproj/InfoPlist.strings
+t1299689752
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist
+t1299689751
+s652
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Japanese.lproj/InfoPlist.strings
+t1299689752
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/PkgInfo
+t1299689751
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+t1299689753
+s24148
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/test.MOV
+t1299689752
+s1587098
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o
+t1299689752
+s45052
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/SampleForVideoEditor.o
+t1299689752
+s51888
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSample.LinkFileList
+c000000004D77B11700000000000003AE
+t1299689751
+s942
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o
+t1299689752
+s47356
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o
+t1299689752
+s6612
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/main.m
+c000000004B2383BE00000000000001A2
+t1260618686
+s418
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m
+c000000004B2383BE000000000000092F
+t1260618686
+s2351
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.h
+c000000004B2383BE0000000000000103
+t1260618686
+s259
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m
+c000000004B2383BE0000000000000A80
+t1260618686
+s2688
+i"SampleForVideoEditor.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.h
+c000000004B2383BE000000000000010E
+t1260618686
+s270
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m
+c000000004B2383BE00000000000002EE
+t1260618686
+s750
+i"UIVideoEditorControllerSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Movies/test.MOV
+c000000004B2383BE000000000018379A
+t1260618686
+s1587098
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/UIVideoEditorControllerSample_Prefix.pch
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app
+t1299689753
+s272
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM
+t1299689753
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/English.lproj/InfoPlist.strings
+t1299689752
+s42
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist
+t1299689751
+s652
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Japanese.lproj/InfoPlist.strings
+t1299689752
+s42
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/PkgInfo
+t1299689751
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+t1299689753
+s24148
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/test.MOV
+t1299689752
+s1587098
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o
+t1299689752
+s45052
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/SampleForVideoEditor.o
+t1299689752
+s51888
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSample.LinkFileList
+c000000004D77B11700000000000003AE
+t1299689751
+s942
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o
+t1299689752
+s47356
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o
+t1299689752
+s6612
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/main.m
+c000000004B2383BE00000000000001A2
+t1260618686
+s418
+i<UIKit/UIKit.h>
+
+NUIVideoEditorControllerSample-Info.plist
+c000000004F30E7FA000000000000033E
+t1328605178
+s830
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350493188#350493188#0(0"0(0#1#0"8638123168#0"0#
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493189.396021
+e350493189.503016
+r1
+xCompileC
+xbuild/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o
+x/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m350493189#350493189#0(0"0(0#0#94"/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m8629329824#2687"    cd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-doojpnzdqnmppgcqhraoybjehnoc/UIVideoEditorControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m -o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321382552.890305
+e321382552.980888
+r1
+xCompileC
+xbuild/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m321382552#321382552#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m8602560064#2960"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-dgazhinzljlhqjfjsqezairgegxy/UIVideoEditorControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/SampleForVideoEditor.o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/SampleForVideoEditor.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/SampleForVideoEditor.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321382552.905136
+e321382552.991078
+r1
+xCompileC
+xbuild/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/SampleForVideoEditor.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m: In function '-[SampleForVideoEditor video:didFinishSavingWithError:contextInfo:]':
+o/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m:74: warning: format not a string literal and no format arguments
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m321382552#321382552#0(395"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m: In function '-[SampleForVideoEditor video:didFinishSavingWithError:contextInfo:]':/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m:74: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments321382552#207#188#0(6@122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m282311486#74#0#74#0#51"format not a string literal and no format arguments0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m8600800064#2964"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-dgazhinzljlhqjfjsqezairgegxy/UIVideoEditorControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/SampleForVideoEditor.o0#
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIKitPrjVideoEditor.o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493189.405455
+e350493189.502412
+r1
+xCompileC
+xbuild/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIKitPrjVideoEditor.o
+x/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m: In function '-[UIKitPrjVideoEditor video:didFinishSavingWithError:contextInfo:]':
+o/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m:75: warning: format not a string literal and no format arguments
+lSLF07#2@103"Compile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m350493189#350493189#0(340"/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m: In function '-[UIKitPrjVideoEditor video:didFinishSavingWithError:contextInfo:]':/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m:75: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments350493189#179#161#0(6@95"/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m350493178#75#0#75#0#51"format not a string literal and no format arguments0(0#0#95"/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m8613789088#2689"    cd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-doojpnzdqnmppgcqhraoybjehnoc/UIVideoEditorControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIKitPrjVideoEditor.m -o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIKitPrjVideoEditor.o0#
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493189.284362
+e350493189.399806
+r1
+xCompileC
+xbuild/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o
+x/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m350493189#350493189#0(0"0(0#0#116"/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m8632236352#2731"    cd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-doojpnzdqnmppgcqhraoybjehnoc/UIVideoEditorControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m -o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o0#
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321382552.823206
+e321382552.905025
+r1
+xCompileC
+xbuild/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m321382552#321382552#0(0"0(0#0#142"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m8603210400#3004"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-dgazhinzljlhqjfjsqezairgegxy/UIVideoEditorControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Classes/UIVideoEditorControllerSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSampleAppDelegate.o0#
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493189.264515
+e350493189.395919
+r1
+xCompileC
+xbuild/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o
+x/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/main.m350493189#350493189#0(0"0(0#0#72"/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/main.m8632602208#2651"    cd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-doojpnzdqnmppgcqhraoybjehnoc/UIVideoEditorControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/main.m -o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321382552.821612
+e321382552.890199
+r1
+xCompileC
+xbuild/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/main.m321382552#321382552#0(0"0(0#0#98"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/main.m8603522720#2924"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-dgazhinzljlhqjfjsqezairgegxy/UIVideoEditorControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321382551.961713
+e321382552.015657
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321382551#321382552#0(0"0(0#0#123"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/English.lproj/InfoPlist.strings8603373856#622"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/English.lproj0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+s321382552.015756
+e321382552.047029
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Japanese.lproj/InfoPlist.strings
+xJapanese.lproj/InfoPlist.strings
+oJapanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@37"Copy Japanese.lproj/InfoPlist.strings321382552#321382552#0(134"Japanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#124"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Japanese.lproj/InfoPlist.strings8601281824#623"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Japanese.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Japanese.lproj0#
+
+CCpResource build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/test.MOV Movies/test.MOV
+s321382551.960904
+e321382552.052296
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIVideoEditorControllerSample.app/test.MOV
+xMovies/test.MOV
+lSLF07#2@20"Copy Movies/test.MOV321382551#321382552#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Movies/test.MOV8605509824#640"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/Movies/test.MOV /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app0#
+
+CGenerateDSYMFile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+s350493189.716646
+e350493189.919112
+r1
+xGenerateDSYMFile
+x/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM
+x/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+lSLF07#2@175"GenerateDSYMFile build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample350493189#350493189#0(0"0(0#0#157"/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample8656351104#530"    cd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample -o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+r0
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+s321382553.098868
+e321382553.118788
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+lSLF07#2@175"GenerateDSYMFile build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample321382553#321382553#0(0"0(0#0#183"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample8604676928#608"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app.dSYM0#
+
+CLd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample normal i386
+s350493189.503084
+e350493189.716441
+r1
+xLd
+x/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+xnormal
+xi386
+lSLF07#2@162"Link /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample350493189#350493189#0(0"0(0#0#0"8610685536#1175"    cd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -F/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -filelist /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample normal i386
+r0
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample normal i386
+s321382552.991175
+e321382553.098761
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample
+xnormal
+xi386
+lSLF07#2@188"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample321382552#321382553#0(0"0(0#0#0"31525678434287664#1305"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/Objects-normal/i386/UIVideoEditorControllerSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/UIVideoEditorControllerSample0#
+
+CProcessInfoPlistFile /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist UIVideoEditorControllerSample-Info.plist
+s350493188.132227
+e350493188.137297
+r1
+xProcessInfoPlistFile
+x/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist
+xUIVideoEditorControllerSample-Info.plist
+lSLF07#2@48"Process UIVideoEditorControllerSample-Info.plist350493188#350493188#0(0"0(0#0#106"/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/UIVideoEditorControllerSample-Info.plist8632828704#626"    cd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIVideoEditorControllerSample-Info.plist -genpkginfo /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist UIVideoEditorControllerSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist UIVideoEditorControllerSample-Info.plist
+s321382551.954791
+e321382551.960816
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist
+xUIVideoEditorControllerSample-Info.plist
+lSLF07#2@48"Process UIVideoEditorControllerSample-Info.plist321382551#321382551#0(0"0(0#0#132"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/UIVideoEditorControllerSample-Info.plist27303270316048492#704"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIVideoEditorControllerSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-dgazhinzljlhqjfjsqezairgegxy/UIVideoEditorControllerSample_Prefix.pch.gch UIVideoEditorControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321382552.052492
+e321382552.821464
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-dgazhinzljlhqjfjsqezairgegxy/UIVideoEditorControllerSample_Prefix.pch.gch
+xUIVideoEditorControllerSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile UIVideoEditorControllerSample_Prefix.pch321382552#321382552#0(0"0(0#0#132"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/UIVideoEditorControllerSample_Prefix.pch8600543808#2741"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/UIVideoEditorControllerSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-dgazhinzljlhqjfjsqezairgegxy/UIVideoEditorControllerSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-doojpnzdqnmppgcqhraoybjehnoc/UIVideoEditorControllerSample_Prefix.pch.gch UIVideoEditorControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493188.137559
+e350493189.264395
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-doojpnzdqnmppgcqhraoybjehnoc/UIVideoEditorControllerSample_Prefix.pch.gch
+xUIVideoEditorControllerSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile UIVideoEditorControllerSample_Prefix.pch350493188#350493189#0(0"0(0#0#106"/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/UIVideoEditorControllerSample_Prefix.pch8631736128#2494"    cd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/UIVideoEditorControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/UIVideoEditorControllerSample.build/Debug-iphonesimulator/UIVideoEditorControllerSample.build/DerivedSources -c /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/UIVideoEditorControllerSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-doojpnzdqnmppgcqhraoybjehnoc/UIVideoEditorControllerSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIVideoEditorControllerSample_Prefix-gjtudeqdpdpezgggyyqvvtnbgrbk/UIVideoEditorControllerSample_Prefix.pch.gch UIVideoEditorControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app
+s350493189.919218
+e350493189.922282
+r1
+xTouch
+x/wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app
+lSLF07#2@133"Touch /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app350493189#350493189#0(0"0(0#0#0"8634569536#354"    cd /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/book/iphone3/source/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app
+s321382553.118873
+e321382553.126968
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app
+lSLF07#2@159"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app321382553#321382553#0(0"0(0#0#0"8603365088#406"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIVideoEditorControllerSample/build/Debug-iphonesimulator/UIVideoEditorControllerSample.app0#
+

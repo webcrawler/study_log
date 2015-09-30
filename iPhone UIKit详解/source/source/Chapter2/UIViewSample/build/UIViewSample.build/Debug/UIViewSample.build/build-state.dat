@@ -1,0 +1,51 @@
+TUIViewSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter2/UIViewSample/Resources/dog.jpg
+c000000004B2383BE00000000000031DE
+t1260618686
+s12766
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter2/UIViewSample/Resources/narrow_dog.jpg
+c000000004B2383BE0000000000002F99
+t1260618686
+s12185
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter2/UIViewSample/build/Debug/UIViewSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter2/UIViewSample/build/Debug/UIViewSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter2/UIViewSample/build/Debug/UIViewSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter2/UIViewSample/build/Debug/UIViewSample.app/Contents/Resources/dog.jpg
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter2/UIViewSample/build/Debug/UIViewSample.app/Contents/Resources/narrow_dog.jpg
+t2
+s0
+
+NUIViewSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCpResource build/Debug/UIViewSample.app/Contents/Resources/dog.jpg Resources/dog.jpg
+r0
+
+CCpResource build/Debug/UIViewSample.app/Contents/Resources/narrow_dog.jpg Resources/narrow_dog.jpg
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter2/UIViewSample/build/Debug/UIViewSample.app/Contents/Info.plist UIViewSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter2/UIViewSample/build/Debug/UIViewSample.app
+r0
+

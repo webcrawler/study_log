@@ -1,0 +1,552 @@
+TUILabelSample
+v7
+r0
+t321332094.289820
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/Info.plist UILabelSample-Info.plist
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch.gch UILabelSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/UILabelSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/UILabelSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAlignment.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAlignment.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForColor.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForFont.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForShadow.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForShadow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForHighlighted.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForHighlighted.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAdjust.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAdjust.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForMultiline.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForMultiline.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForLineBreak.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForLineBreak.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForTouch.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForSimple.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForDrawTextOverride.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForDrawTextOverride.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample normal i386
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample
+cTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C65F6640000000000000132
+t1281750628
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch.gch
+t1299639292
+s15232016
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/RootViewController.m
+c000000004B2383BE000000000000088E
+t1260618686
+s2190
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAdjust.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAdjust.m
+c000000004B2383BE000000000000082B
+t1260618686
+s2091
+i"SampleForAdjust.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAlignment.h
+c000000004B2383BE0000000000000097
+t1260618686
+s151
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAlignment.m
+c000000004B2383BE00000000000003A7
+t1260618686
+s935
+i"SampleForAlignment.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForColor.h
+c000000004B2383BE000000000000008F
+t1260618686
+s143
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForColor.m
+c000000004B2383BE00000000000003E8
+t1260618686
+s1000
+i"SampleForColor.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForDrawTextOverride.h
+c000000004B2383BE00000000000000CF
+t1260618686
+s207
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForDrawTextOverride.m
+c000000004B2383BE00000000000005AE
+t1260618686
+s1454
+i"SampleForDrawTextOverride.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.h
+c000000004B2383BE00000000000000DD
+t1260618686
+s221
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m
+c000000004B2383BE00000000000007D2
+t1260618686
+s2002
+i"SampleForFont.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForHighlighted.h
+c000000004B2383BE00000000000000C1
+t1260618686
+s193
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForHighlighted.m
+c000000004B2383BE0000000000000BBD
+t1260618686
+s3005
+i"SampleForHighlighted.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForLineBreak.h
+c000000004B2383BE0000000000000097
+t1260618686
+s151
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForLineBreak.m
+c000000004B2383BE000000000000090B
+t1260618686
+s2315
+i"SampleForLineBreak.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForMultiline.h
+c000000004B2383BE0000000000000097
+t1260618686
+s151
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForMultiline.m
+c000000004B2383BE00000000000003DC
+t1260618686
+s988
+i"SampleForMultiline.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForShadow.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForShadow.m
+c000000004B2383BE0000000000000571
+t1260618686
+s1393
+i"SampleForShadow.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForSimple.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForSimple.m
+c000000004B2383BE0000000000000275
+t1260618686
+s629
+i"SampleForSimple.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForTouch.h
+c000000004B2383BE0000000000000112
+t1260618686
+s274
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForTouch.m
+c000000004B2383BE0000000000000551
+t1260618686
+s1361
+i"SampleForTouch.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/UILabelSampleAppDelegate.h
+c000000004B2383BE00000000000000EF
+t1260618686
+s239
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/UILabelSampleAppDelegate.m
+c000000004B2383BE00000000000002BE
+t1260618686
+s702
+i"UILabelSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/UILabelSample_Prefix.pch
+c000000004B2383BE00000000000000C3
+t1260618686
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app
+t1299639294
+s170
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app.dSYM
+t1299639294
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/Info.plist
+t1299639291
+s582
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/PkgInfo
+t1299639291
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample
+t1299639294
+s53388
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/RootViewController.o
+t1299639293
+s40576
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAdjust.o
+t1299639293
+s39788
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAlignment.o
+t1299639293
+s37260
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForColor.o
+t1299639293
+s36840
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForDrawTextOverride.o
+t1299639293
+s38712
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForFont.o
+t1299639293
+s41776
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForHighlighted.o
+t1299639293
+s45160
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForLineBreak.o
+t1299639293
+s40192
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForMultiline.o
+t1299639293
+s37196
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForShadow.o
+t1299639293
+s39028
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForSimple.o
+t1299639293
+s36272
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForTouch.o
+t1299639293
+s43584
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/UILabelSample.LinkFileList
+c000000004D76EBFB0000000000000A09
+t1299639291
+s2569
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/UILabelSampleAppDelegate.o
+t1299639293
+s46972
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/main.o
+t1299639293
+s6564
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/main.m
+c000000004B2383BE0000000000000182
+t1260618686
+s386
+i<UIKit/UIKit.h>
+
+NUILabelSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321332091#321332091#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.082414
+e321332093.159673
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/RootViewController.m321332093#321332093#0(0"0(0#0#104"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/RootViewController.m8601025760#2464"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAdjust.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAdjust.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.352118
+e321332093.435310
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAdjust.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAdjust.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAdjust.m321332093#321332093#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAdjust.m8598741152#2458"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAdjust.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAdjust.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAlignment.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAlignment.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.100453
+e321332093.180448
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAlignment.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAlignment.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAlignment.m321332093#321332093#0(0"0(0#0#104"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAlignment.m8600498304#2464"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForAlignment.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForAlignment.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForColor.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.159788
+e321332093.272974
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForColor.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForColor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForColor.m321332093#321332093#0(0"0(0#0#100"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForColor.m8602895392#2456"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForColor.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForColor.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForDrawTextOverride.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForDrawTextOverride.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.533683
+e321332093.617426
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForDrawTextOverride.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForDrawTextOverride.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForDrawTextOverride.m321332093#321332093#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForDrawTextOverride.m8603112096#2478"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForDrawTextOverride.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForDrawTextOverride.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForFont.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.180555
+e321332093.284405
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForFont.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m: In function '-[SampleForFont init]':
+o/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m:25: warning: format not a string literal and no format arguments
+lSLF07#2@107"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m321332093#321332093#0(303"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m: In function '-[SampleForFont init]':/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m:25: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments321332093#138#165#0(6@99"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m282311486#25#0#25#0#51"format not a string literal and no format arguments0(0#0#99"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m8600860480#2454"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForFont.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForFont.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForHighlighted.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForHighlighted.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.284503
+e321332093.372660
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForHighlighted.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForHighlighted.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForHighlighted.m321332093#321332093#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForHighlighted.m8600963840#2468"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForHighlighted.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForHighlighted.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForLineBreak.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForLineBreak.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.435410
+e321332093.523104
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForLineBreak.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForLineBreak.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForLineBreak.m321332093#321332093#0(0"0(0#0#104"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForLineBreak.m8599077760#2464"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForLineBreak.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForLineBreak.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForMultiline.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForMultiline.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.372773
+e321332093.452575
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForMultiline.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForMultiline.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForMultiline.m321332093#321332093#0(0"0(0#0#104"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForMultiline.m8603297024#2464"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForMultiline.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForMultiline.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForShadow.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForShadow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.273136
+e321332093.352011
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForShadow.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForShadow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForShadow.m321332093#321332093#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForShadow.m3415255122557629440#2458"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForShadow.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForShadow.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForSimple.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.523196
+e321332093.620563
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForSimple.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForSimple.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForSimple.m321332093#321332093#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForSimple.m8602848800#2458"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForSimple.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForSimple.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForTouch.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332093.452682
+e321332093.533585
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForTouch.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForTouch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForTouch.m321332093#321332093#0(0"0(0#0#100"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForTouch.m8598728064#2456"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/SampleForTouch.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/SampleForTouch.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/UILabelSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/UILabelSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332092.934456
+e321332093.100349
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/UILabelSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/UILabelSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/UILabelSampleAppDelegate.m321332092#321332093#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/UILabelSampleAppDelegate.m8600418592#2476"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/Classes/UILabelSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/UILabelSampleAppDelegate.o0#
+
+CCompileC build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332092.933211
+e321332093.082319
+r1
+xCompileC
+xbuild/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/main.m321332092#321332093#0(0"0(0#0#82"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/main.m8600765696#2428"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample
+s321332094.150814
+e321332094.252907
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/UILabelSample.app.dSYM build/Debug-iphonesimulator/UILabelSample.app/UILabelSample321332094#321332094#0(0"0(0#0#135"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample8602869088#512"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample normal i386
+s321332093.620651
+e321332094.150707
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample
+xnormal
+xi386
+lSLF07#2@140"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample321332093#321332094#0(0"0(0#0#0"8602558720#1115"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/Objects-normal/i386/UILabelSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/UILabelSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/Info.plist UILabelSample-Info.plist
+s321332091.762696
+e321332091.805894
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/Info.plist
+xUILabelSample-Info.plist
+lSLF07#2@32"Process UILabelSample-Info.plist321332091#321332091#0(0"0(0#0#100"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/UILabelSample-Info.plist27303270316048492#608"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UILabelSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch.gch UILabelSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321332091.806063
+e321332092.933084
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch.gch
+xUILabelSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile UILabelSample_Prefix.pch321332091#321332092#0(0"0(0#0#100"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/UILabelSample_Prefix.pch8602889088#2277"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/UILabelSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/UILabelSample.build/Debug-iphonesimulator/UILabelSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/UILabelSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UILabelSample_Prefix-fpnvtnhswcqttzbyjeqvhykycfxr/UILabelSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app
+s321332094.252995
+e321332094.289771
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app
+lSLF07#2@127"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app321332094#321332094#0(0"0(0#0#0"8601196320#358"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UILabelSample/build/Debug-iphonesimulator/UILabelSample.app0#
+

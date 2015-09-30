@@ -1,0 +1,39 @@
+TUIColorSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/Images/dog.png
+c000000004B2383BE00000000000002EF
+t1260618686
+s751
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug/UIColorSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug/UIColorSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug/UIColorSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug/UIColorSample.app/Contents/Resources/dog.png
+t2
+s0
+
+NUIColorSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCpResource build/Debug/UIColorSample.app/Contents/Resources/dog.png Images/dog.png
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug/UIColorSample.app/Contents/Info.plist UIColorSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter5/UIColorSample/build/Debug/UIColorSample.app
+r0
+

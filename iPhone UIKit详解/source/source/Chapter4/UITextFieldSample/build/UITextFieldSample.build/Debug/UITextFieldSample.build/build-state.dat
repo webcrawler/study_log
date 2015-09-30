@@ -1,0 +1,75 @@
+TUITextFieldSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/leftDog.png
+c000000004B2383BE0000000000001353
+t1260618686
+s4947
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/paper.png
+c000000004B2383BE0000000000001E2D
+t1260618686
+s7725
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/paperGray.png
+c000000004B2383BE0000000000000555
+t1260618686
+s1365
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/rightDog.png
+c000000004B2383BE0000000000001334
+t1260618686
+s4916
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug/UITextFieldSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug/UITextFieldSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug/UITextFieldSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug/UITextFieldSample.app/Contents/Resources/leftDog.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug/UITextFieldSample.app/Contents/Resources/paper.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug/UITextFieldSample.app/Contents/Resources/paperGray.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug/UITextFieldSample.app/Contents/Resources/rightDog.png
+t2
+s0
+
+NUITextFieldSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCpResource build/Debug/UITextFieldSample.app/Contents/Resources/leftDog.png Images/leftDog.png
+r0
+
+CCpResource build/Debug/UITextFieldSample.app/Contents/Resources/paper.png Images/paper.png
+r0
+
+CCpResource build/Debug/UITextFieldSample.app/Contents/Resources/paperGray.png Images/paperGray.png
+r0
+
+CCpResource build/Debug/UITextFieldSample.app/Contents/Resources/rightDog.png Images/rightDog.png
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug/UITextFieldSample.app/Contents/Info.plist UITextFieldSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug/UITextFieldSample.app
+r0
+

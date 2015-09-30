@@ -1,0 +1,442 @@
+TUISearchBarSample
+v7
+r0
+t321354916.909730
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Info.plist UISearchBarSample-Info.plist
+cCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch.gch UISearchBarSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/UISearchBarSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/UISearchBarSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForSearchBar.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForSearchBar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForRealTimeSearch.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForRealTimeSearch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBookmarkButton.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBookmarkButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBarStyle.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBarStyle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForPrompt.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForPrompt.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForScopeBar.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForScopeBar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample normal i386
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample
+cTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C65F6640000000000000132
+t1281750628
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch.gch
+t1299662115
+s15232016
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/RootViewController.m
+c000000004B2383BE0000000000000A45
+t1260618686
+s2629
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBarStyle.h
+c000000004B2383BE00000000000000B6
+t1260618686
+s182
+i<UIKit/UIKit.h>
+i"SampleForSearchBar.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBarStyle.m
+c000000004B2383BE0000000000000895
+t1260618686
+s2197
+i"SampleForBarStyle.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBookmarkButton.h
+c000000004B2383BE0000000000000190
+t1260618686
+s400
+i<UIKit/UIKit.h>
+i"SampleForSearchBar.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBookmarkButton.m
+c000000004B2383BE00000000000009C0
+t1260618686
+s2496
+i"SampleForBookmarkButton.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForPrompt.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForPrompt.m
+c000000004B2383BE0000000000000329
+t1260618686
+s809
+i"SampleForPrompt.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForRealTimeSearch.h
+c000000004B2383BE00000000000000C2
+t1260618686
+s194
+i<UIKit/UIKit.h>
+i"SampleForSearchBar.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForRealTimeSearch.m
+c000000004B2383BE0000000000000381
+t1260618686
+s897
+i"SampleForRealTimeSearch.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForScopeBar.h
+c000000004B2383BE00000000000000AB
+t1260618686
+s171
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForScopeBar.m
+c000000004B2383BE0000000000000314
+t1260618686
+s788
+i"SampleForScopeBar.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForSearchBar.h
+c000000004B2383BE0000000000000119
+t1260618686
+s281
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForSearchBar.m
+c000000004B2383BE00000000000006DE
+t1260618686
+s1758
+i"SampleForSearchBar.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/UISearchBarSampleAppDelegate.h
+c000000004B2383BE00000000000000F6
+t1260618686
+s246
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/UISearchBarSampleAppDelegate.m
+c000000004B2383BE00000000000002CA
+t1260618686
+s714
+i"UISearchBarSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000120
+t1260618686
+s288
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000120
+t1260618686
+s288
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/UISearchBarSample_Prefix.pch
+c000000004B2383BE00000000000000CB
+t1260618686
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app
+t1299662116
+s238
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app.dSYM
+t1299662116
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/English.lproj/InfoPlist.strings
+t1299662115
+s42
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Info.plist
+t1299662115
+s604
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Japanese.lproj/InfoPlist.strings
+t1299662115
+s42
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/PkgInfo
+t1299662115
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample
+t1299662116
+s42672
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/RootViewController.o
+t1299662116
+s45444
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBarStyle.o
+t1299662116
+s39344
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBookmarkButton.o
+t1299662116
+s47048
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForPrompt.o
+t1299662116
+s37532
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForRealTimeSearch.o
+t1299662116
+s38488
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForScopeBar.o
+t1299662116
+s39404
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForSearchBar.o
+t1299662116
+s44728
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/UISearchBarSample.LinkFileList
+c000000004D77452200000000000006EE
+t1299662114
+s1774
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/UISearchBarSampleAppDelegate.o
+t1299662116
+s47068
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/main.o
+t1299662116
+s6576
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/main.m
+c000000004B2383BE000000000000018A
+t1260618686
+s394
+i<UIKit/UIKit.h>
+
+NUISearchBarSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321354914#321354915#0(0"0(0#1#0"8629248320#0"0#
+
+CCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354916.477290
+e321354916.603477
+r1
+xCompileC
+xbuild/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/RootViewController.m321354916#321354916#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/RootViewController.m8630053856#2588"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBarStyle.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBarStyle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354916.694707
+e321354916.780072
+r1
+xCompileC
+xbuild/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBarStyle.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBarStyle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBarStyle.m321354916#321354916#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBarStyle.m8629264448#2586"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBarStyle.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBarStyle.o0#
+
+CCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBookmarkButton.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBookmarkButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354916.645972
+e321354916.737367
+r1
+xCompileC
+xbuild/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBookmarkButton.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBookmarkButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBookmarkButton.m321354916#321354916#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBookmarkButton.m8630360416#2598"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForBookmarkButton.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForBookmarkButton.o0#
+
+CCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForPrompt.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForPrompt.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354916.737471
+e321354916.826598
+r1
+xCompileC
+xbuild/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForPrompt.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForPrompt.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForPrompt.m321354916#321354916#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForPrompt.m8625441792#2582"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForPrompt.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForPrompt.o0#
+
+CCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForRealTimeSearch.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForRealTimeSearch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354916.603585
+e321354916.694598
+r1
+xCompileC
+xbuild/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForRealTimeSearch.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForRealTimeSearch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForRealTimeSearch.m321354916#321354916#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForRealTimeSearch.m8629429088#2598"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForRealTimeSearch.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForRealTimeSearch.o0#
+
+CCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForScopeBar.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForScopeBar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354916.780180
+e321354916.850051
+r1
+xCompileC
+xbuild/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForScopeBar.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForScopeBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForScopeBar.m321354916#321354916#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForScopeBar.m8628284224#2586"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForScopeBar.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForScopeBar.o0#
+
+CCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForSearchBar.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForSearchBar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354916.528003
+e321354916.645868
+r1
+xCompileC
+xbuild/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForSearchBar.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForSearchBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForSearchBar.m321354916#321354916#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForSearchBar.m8612335904#2588"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/SampleForSearchBar.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/SampleForSearchBar.o0#
+
+CCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/UISearchBarSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/UISearchBarSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354916.194901
+e321354916.527798
+r1
+xCompileC
+xbuild/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/UISearchBarSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/UISearchBarSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/UISearchBarSampleAppDelegate.m321354916#321354916#0(0"0(0#0#118"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/UISearchBarSampleAppDelegate.m8626205664#2608"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Classes/UISearchBarSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/UISearchBarSampleAppDelegate.o0#
+
+CCompileC build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354916.173884
+e321354916.477190
+r1
+xCompileC
+xbuild/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/main.m321354916#321354916#0(0"0(0#0#86"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/main.m8626828192#2552"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321354915.010861
+e321354915.252880
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321354915#321354915#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/English.lproj/InfoPlist.strings8629913472#586"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/English.lproj0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+s321354915.012797
+e321354915.250733
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Japanese.lproj/InfoPlist.strings
+xJapanese.lproj/InfoPlist.strings
+oJapanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@37"Copy Japanese.lproj/InfoPlist.strings321354915#321354915#0(134"Japanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#112"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Japanese.lproj/InfoPlist.strings8629390048#587"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Japanese.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Japanese.lproj0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample
+s321354916.878457
+e321354916.906857
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/UISearchBarSample.app.dSYM build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample321354916#321354916#0(0"0(0#0#147"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample8626148192#536"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample normal i386
+s321354916.850153
+e321354916.878349
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample
+xnormal
+xi386
+lSLF07#2@152"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample321354916#321354916#0(0"0(0#0#0"8627351072#1155"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/Objects-normal/i386/UISearchBarSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/UISearchBarSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Info.plist UISearchBarSample-Info.plist
+s321354914.986196
+e321354915.010755
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Info.plist
+xUISearchBarSample-Info.plist
+lSLF07#2@36"Process UISearchBarSample-Info.plist321354914#321354915#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/UISearchBarSample-Info.plist8627504864#632"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UISearchBarSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch.gch UISearchBarSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321354915.252997
+e321354916.173733
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch.gch
+xUISearchBarSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile UISearchBarSample_Prefix.pch321354915#321354916#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/UISearchBarSample_Prefix.pch8627730272#2393"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/UISearchBarSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/UISearchBarSample.build/Debug-iphonesimulator/UISearchBarSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/UISearchBarSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISearchBarSample_Prefix-dgpqzqcmocihsacdqxxvlwltwvfu/UISearchBarSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app
+s321354916.906951
+e321354916.909692
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app
+lSLF07#2@135"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app321354916#321354916#0(0"0(0#0#0"8631518400#370"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug-iphonesimulator/UISearchBarSample.app0#
+

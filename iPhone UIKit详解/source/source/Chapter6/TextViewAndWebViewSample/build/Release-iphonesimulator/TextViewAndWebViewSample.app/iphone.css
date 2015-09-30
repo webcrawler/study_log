@@ -1,0 +1,175 @@
+@charset "utf-8";
+/*=================================================
+ * ブラウザのデフォルトのスタイルをリセットする
+ * ================================================= */
+
+html, body, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p,
+header, hgroup, section, article, aside, hgroup, footer, figure, figcaption, nav {
+ margin: 0;
+ padding: 0;
+ font-size: 100%;
+}
+
+body {
+ line-height: 1.0;
+ -webkit-text-size-adjust: none;
+}
+
+article,aside,canvas,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section,summary { 
+ display:block;
+}
+
+img {
+ border: 0;
+ vertical-align: bottom;
+}
+
+ul, ol {
+ list-style: none;
+}
+
+table {
+ border-spacing: 0;
+ empty-cells: show;
+}
+
+/*=================================================
+ * サイト全体の基本スタイル
+ * ================================================= */
+
+body {
+ background-color: #FFD503;
+ font-family: Arial, san-serif;
+ font-size: 14px;
+ line-height: 1.6;
+}
+
+a {
+ color: #333;
+}
+
+.logo {
+ margin: 0 auto;
+ display: block;
+}
+
+.nav-topicpath {
+ padding: 3px 10px;
+ background-color: #FA400F;
+ font-size: 12px;
+}
+
+.nav-topicpath ul:after {
+ content: '';
+ display: block;
+ clear: both;
+}
+
+.nav-topicpath li {
+ float: left;
+}
+
+.nav-topicpath li + li:before {
+ margin: 0 3px;
+ content: ">";
+}
+
+.nav-topicpath li a {
+ padding: 3px 0;
+}
+
+.page-heading {
+ padding: 12px;
+ color: #FA400F;
+ background-image: url(../img/bg_header.png);
+ background-repeat: repeat-x;
+ background-position: left top;
+ font-size: 18px;
+ text-align: center;
+}
+
+.block {
+ margin: auto 10px 12px 10px;
+ padding-bottom: 12px;
+ border-bottom: 1px dotted #FA400F;
+}
+
+.block:after {
+ content: '';
+ display: block;
+ clear: both;
+}
+
+.block-heading {
+ margin-bottom: 6px;
+ color: #000000;
+ font-size: 16px;
+}
+
+.block p {
+ margin-bottom: 1em;
+}
+
+.block p:last-of-type {
+ margin-bottom: 0;
+}
+
+.image-right, .image-left {
+ width: 100px;
+ font-size: 12px;
+ text-align: center;
+}
+
+.image-right {
+ margin: 0 0 6px 6px;
+ float: right;
+}
+
+.image-left {
+ margin: 0 6px 6px;
+ float: left;
+}
+
+.image-center {
+ margin: 0 auto 6px auto;
+ display: block;
+}
+
+.nav-reference {
+ margin: 10px;
+ text-align: right;
+}
+
+.nav-reference a {
+ padding: 3px 14px 3px 0;
+ background-image: url(../img/ico_next.png);
+ background-repeat: no-repeat;
+ background-position: right center;
+}
+
+.block .nav-reference {
+ margin: 10px 0;
+}
+
+.nav-home {
+ margin: auto 10px 12px;
+ text-align: right;
+}
+
+.nav-home a {
+ padding: 3px 0 3px 18px;
+ background-image: url(../img/ico_home.png);
+ background-repeat: no-repeat;
+ background-position: left center;
+}
+
+.global-footer {
+ padding: 12px 10px 6px;
+ background-color: #FA400F;
+ background-image: url(../img/bg_footer.png);
+ background-repeat: repeat-x;
+ background-position: left top;
+ font-size: 12px;
+ text-align: center;
+}

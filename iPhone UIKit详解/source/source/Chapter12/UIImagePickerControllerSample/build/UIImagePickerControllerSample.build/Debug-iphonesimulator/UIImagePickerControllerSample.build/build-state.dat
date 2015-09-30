@@ -1,0 +1,962 @@
+TUIImagePickerControllerSample
+v7
+r0
+t350493116.583890
+cCheck dependencies
+cProcessInfoPlistFile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist UIImagePickerControllerSample-Info.plist
+cCpResource build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/sniper.png Images/English.lproj/sniper.png
+cCpResource build/Debug-iphonesimulator/UIImagePickerControllerSample.app/zh-Hans.lproj/sniper.png Images/zh-Hans.lproj/sniper.png
+cCopyStringsFile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyStringsFile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch.gch UIImagePickerControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjCameraOverlay.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjCameraOverlay.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjImagePicker.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjWithVideo.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample normal i386
+cGenerateDSYMFile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+cTouch /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004BFF3B7800000000000000EB
+t1275018104
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004BFF3B790000000000055950
+t1275018105
+s350544
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004D54D0BA00000000000000EB
+t1297404090
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D0BC000000000005C090
+t1297404092
+s376976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-cfuionymaywbbhemycddopzxpyoj/UIImagePickerControllerSample_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-cwvgtjfchxlsckdsxoffflknxqbv/UIImagePickerControllerSample_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch.gch
+t1328800315
+s15814064
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch.gch
+t1299681517
+s15232016
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.h
+c000000004F094E1700000000000000BC
+t1326009879
+s188
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m
+c000000004F33E2300000000000000989
+t1328800304
+s2441
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.h
+c000000004F094E26000000000000010C
+t1326009894
+s268
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m
+c000000004F094E2A00000000000002EC
+t1326009898
+s748
+i"UIImagePickerControllerSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjCameraOverlay.h
+c000000004F33E21D00000000000001D6
+t1328800285
+s470
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjCameraOverlay.m
+c000000004F33E2200000000000000C84
+t1328800288
+s3204
+i"UIKitPrjCameraOverlay.h"
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.h
+c000000004F33E223000000000000011A
+t1328800291
+s282
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m
+c000000004F33E2260000000000000DBC
+t1328800294
+s3516
+i"UIKitPrjImagePicker.h"
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.h
+c000000004F33E22900000000000000FB
+t1328800297
+s251
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m
+c000000004F33E22C0000000000000D54
+t1328800300
+s3412
+i"UIKitPrjWithVideo.h"
+i<MobileCoreServices/MobileCoreServices.h>
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Images/English.lproj/sniper.png
+c000000004B2383BE000000000001B0CB
+t1260618686
+s110795
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Images/zh-Hans.lproj/sniper.png
+c000000004B2383BE000000000001B0CB
+t1260618686
+s110795
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/UIImagePickerControllerSample_Prefix.pch
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app
+t1328800316
+s306
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM
+t1328800316
+s102
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/InfoPlist.strings
+t1299681517
+s42
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/sniper.png
+t1328800314
+s110795
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist
+t1328800313
+s632
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Japanese.lproj/InfoPlist.strings
+t1299681517
+s42
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/PkgInfo
+t1328800313
+s8
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+t1328800316
+s36276
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/zh-Hans.lproj/sniper.png
+t1328800314
+s110795
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o
+t1328800315
+s48516
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSample.LinkFileList
+c000000004F33E23900000000000004E5
+t1328800313
+s1253
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o
+t1328800315
+s50924
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjCameraOverlay.o
+t1328800315
+s59852
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjImagePicker.o
+t1328800315
+s58280
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjWithVideo.o
+t1328800316
+s56880
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o
+t1328800315
+s6568
+
+N/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/main.m
+c000000004B2383BE00000000000001A2
+t1260618686
+s418
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.h
+c000000004F094E1700000000000000BC
+t1326009879
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m
+c000000004F094E35000000000000098D
+t1326009909
+s2445
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.h
+c000000004F094DCE00000000000001D8
+t1326009806
+s472
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.m
+c000000004F094DFD0000000000000C35
+t1326009853
+s3125
+i"SampleForCameraOverlay.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.h
+c000000004F094E1F000000000000011C
+t1326009887
+s284
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m
+c000000004F30BEBA0000000000000DBC
+t1328594618
+s3516
+i"SampleForImagePicker.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.h
+c000000004F094E0200000000000000FD
+t1326009858
+s253
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m
+c000000004F30B71D0000000000000D57
+t1328592669
+s3415
+i"SampleForWithVideo.h"
+i<MobileCoreServices/MobileCoreServices.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.h
+c000000004F094E26000000000000010C
+t1326009894
+s268
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m
+c000000004F094E2A00000000000002EC
+t1326009898
+s748
+i"UIImagePickerControllerSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Images/English.lproj/sniper.png
+c000000004B2383BE000000000001B0CB
+t1260618686
+s110795
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Images/sniper.png
+c000000004B2383BE000000000001B0CB
+t1260618686
+s110795
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Images/zh-Hans.lproj/sniper.png
+c000000004B2383BE000000000001B0CB
+t1260618686
+s110795
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/UIImagePickerControllerSample_Prefix.pch
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app
+t1299681518
+s272
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM
+t1299681518
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/InfoPlist.strings
+t1299681517
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/sniper.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist
+t1299681517
+s652
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Japanese.lproj/InfoPlist.strings
+t1299681517
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/PkgInfo
+t1299681517
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+t1299681518
+s36640
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/sniper.png
+t1299681517
+s110795
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/zh-Hans.lproj/sniper.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o
+t1299681518
+s45212
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForCameraOverlay.o
+t1299681518
+s56004
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForImagePicker.o
+t1299681518
+s54320
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForWithVideo.o
+t1299681518
+s52936
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSample.LinkFileList
+c000000004D7790ED0000000000000584
+t1299681517
+s1412
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o
+t1299681517
+s47356
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o
+t1299681517
+s6612
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/main.m
+c000000004B2383BE00000000000001A2
+t1260618686
+s418
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m
+c000000004B2383BE00000000000009A1
+t1260618686
+s2465
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.h
+c000000004B2383BE00000000000001DA
+t1260618686
+s474
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.m
+c000000004B2383BE0000000000000C49
+t1260618686
+s3145
+i"SampleForCameraOverlay.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.h
+c000000004B2383BE000000000000011E
+t1260618686
+s286
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m
+c000000004B2383BE0000000000000D91
+t1260618686
+s3473
+i"SampleForImagePicker.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.h
+c000000004B2383BE00000000000000FF
+t1260618686
+s255
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m
+c000000004B2383BE0000000000000C8D
+t1260618686
+s3213
+i"SampleForWithVideo.h"
+i<MobileCoreServices/MobileCoreServices.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.h
+c000000004B2383BE000000000000010E
+t1260618686
+s270
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m
+c000000004B2383BE00000000000002EE
+t1260618686
+s750
+i"UIImagePickerControllerSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Images/sniper.png
+c000000004B2383BE000000000001B0CB
+t1260618686
+s110795
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/UIImagePickerControllerSample_Prefix.pch
+c000000004B2383BE00000000000000E3
+t1260618686
+s227
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app
+t1299681518
+s272
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM
+t1299681518
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/InfoPlist.strings
+t1299681517
+s42
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist
+t1299681517
+s652
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Japanese.lproj/InfoPlist.strings
+t1299681517
+s42
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/PkgInfo
+t1299681517
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+t1299681518
+s36640
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/sniper.png
+t1299681517
+s110795
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o
+t1299681518
+s45212
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForCameraOverlay.o
+t1299681518
+s56004
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForImagePicker.o
+t1299681518
+s54320
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForWithVideo.o
+t1299681518
+s52936
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSample.LinkFileList
+c000000004D7790ED0000000000000584
+t1299681517
+s1412
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o
+t1299681517
+s47356
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o
+t1299681517
+s6612
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/main.m
+c000000004B2383BE00000000000001A2
+t1260618686
+s418
+i<UIKit/UIKit.h>
+
+NUIImagePickerControllerSample-Info.plist
+c000000004F2FD848000000000000033E
+t1328535624
+s830
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350493113#350493113#0(0"0(0#1#0"8613445728#0"0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493115.770864
+e350493115.869547
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m350493115#350493115#0(0"0(0#0#94"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m8608804224#2687"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m -o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321374317.955779
+e321374318.060197
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m321374317#321374318#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m8603831360#2960"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForCameraOverlay.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForCameraOverlay.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321374318.075462
+e321374318.164243
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForCameraOverlay.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.m321374318#321374318#0(0"0(0#0#124"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.m8606706912#2968"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForCameraOverlay.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForCameraOverlay.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForImagePicker.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForImagePicker.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321374317.979943
+e321374318.075352
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForImagePicker.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m: In function '-[SampleForImagePicker image:didFinishSavingWithError:contextInfo:]':
+o/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m:93: warning: format not a string literal and no format arguments
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m321374317#321374318#0(395"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m: In function '-[SampleForImagePicker image:didFinishSavingWithError:contextInfo:]':/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m:93: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments321374318#207#188#0(6@122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m282311486#93#0#93#0#51"format not a string literal and no format arguments0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m8610290624#2964"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForImagePicker.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForImagePicker.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForWithVideo.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForWithVideo.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321374318.060299
+e321374318.157292
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForWithVideo.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m: In function '-[SampleForWithVideo video:didFinishSavingWithError:contextInfo:]':
+o/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m:84: warning: format not a string literal and no format arguments
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m321374318#321374318#0(389"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m: In function '-[SampleForWithVideo video:didFinishSavingWithError:contextInfo:]':/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m:84: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments321374318#203#186#0(6@120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m282311486#84#0#84#0#51"format not a string literal and no format arguments0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m8606917952#2960"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/SampleForWithVideo.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/SampleForWithVideo.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493115.526772
+e350493115.770757
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m350493115#350493115#0(0"0(0#0#116"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m8635434176#2731"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m -o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321374317.892076
+e321374317.979832
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m321374317#321374317#0(0"0(0#0#142"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m8594775136#3004"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Classes/UIImagePickerControllerSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSampleAppDelegate.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjCameraOverlay.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjCameraOverlay.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493115.772063
+e350493115.888647
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjCameraOverlay.o
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjCameraOverlay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjCameraOverlay.m350493115#350493115#0(0"0(0#0#97"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjCameraOverlay.m8613642848#2693"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjCameraOverlay.m -o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjCameraOverlay.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjImagePicker.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493115.869647
+e350493115.993481
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjImagePicker.o
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m: In function '-[UIKitPrjImagePicker image:didFinishSavingWithError:contextInfo:]':
+o/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m:95: warning: format not a string literal and no format arguments
+lSLF07#2@103"Compile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m350493115#350493115#0(340"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m: In function '-[UIKitPrjImagePicker image:didFinishSavingWithError:contextInfo:]':/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m:95: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments350493115#179#161#0(6@95"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m350493094#95#0#95#0#51"format not a string literal and no format arguments0(0#0#95"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m8600091456#2689"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjImagePicker.m -o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjImagePicker.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjWithVideo.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493115.888756
+e350493116.021135
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjWithVideo.o
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m: In function '-[UIKitPrjWithVideo video:didFinishSavingWithError:contextInfo:]':
+o/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m:87: warning: format not a string literal and no format arguments
+lSLF07#2@101"Compile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m350493115#350493116#0(334"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m: In function '-[UIKitPrjWithVideo video:didFinishSavingWithError:contextInfo:]':/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m:87: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments350493115#175#159#0(6@93"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m350493100#87#0#87#0#51"format not a string literal and no format arguments0(0#0#93"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m8657535360#2685"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Classes/UIKitPrjWithVideo.m -o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIKitPrjWithVideo.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493115.510178
+e350493115.770505
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/main.m350493115#350493115#0(0"0(0#0#72"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/main.m8638040512#2651"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch -c /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/main.m -o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321374317.890947
+e321374317.944536
+r1
+xCompileC
+xbuild/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/main.m321374317#321374317#0(0"0(0#0#98"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/main.m8599003296#2924"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321374317.069907
+e321374317.102609
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321374317#321374317#0(0"0(0#0#123"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/English.lproj/InfoPlist.strings8606527392#622"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+s321374317.079130
+e321374317.110663
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Japanese.lproj/InfoPlist.strings
+xJapanese.lproj/InfoPlist.strings
+oJapanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@37"Copy Japanese.lproj/InfoPlist.strings321374317#321374317#0(134"Japanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#124"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Japanese.lproj/InfoPlist.strings8603169696#623"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Japanese.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Japanese.lproj0#
+
+CCpResource build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/sniper.png Images/English.lproj/sniper.png
+s350493113.938484
+e350493114.242539
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj/sniper.png
+xImages/English.lproj/sniper.png
+lSLF07#2@36"Copy Images/English.lproj/sniper.png350493113#350493114#0(0"0(0#0#97"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Images/English.lproj/sniper.png8633023872#606"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Images/English.lproj/sniper.png /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/English.lproj0#
+
+CCpResource build/Debug-iphonesimulator/UIImagePickerControllerSample.app/sniper.png Images/sniper.png
+s321374317.069099
+e321374317.079029
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIImagePickerControllerSample.app/sniper.png
+xImages/sniper.png
+lSLF07#2@22"Copy Images/sniper.png321374317#321374317#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Images/sniper.png8607223296#642"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Images/sniper.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIImagePickerControllerSample.app/zh-Hans.lproj/sniper.png Images/zh-Hans.lproj/sniper.png
+s350493113.939265
+e350493114.242798
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIImagePickerControllerSample.app/zh-Hans.lproj/sniper.png
+xImages/zh-Hans.lproj/sniper.png
+lSLF07#2@36"Copy Images/zh-Hans.lproj/sniper.png350493113#350493114#0(0"0(0#0#97"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Images/zh-Hans.lproj/sniper.png8632748000#606"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/Images/zh-Hans.lproj/sniper.png /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/zh-Hans.lproj0#
+
+CGenerateDSYMFile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+s350493116.317098
+e350493116.500916
+r1
+xGenerateDSYMFile
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+lSLF07#2@175"GenerateDSYMFile build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample350493116#350493116#0(0"0(0#0#157"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample8639637216#530"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample -o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+r0
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+s321374318.289840
+e321374318.321100
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+lSLF07#2@175"GenerateDSYMFile build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample321374318#321374318#0(0"0(0#0#183"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample8600391040#608"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app.dSYM0#
+
+CLd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample normal i386
+s350493116.021266
+e350493116.317002
+r1
+xLd
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+xnormal
+xi386
+lSLF07#2@162"Link /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample350493116#350493116#0(0"0(0#0#0"8638260192#1175"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -F/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -filelist /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample normal i386
+r0
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample normal i386
+s321374318.164487
+e321374318.289731
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample
+xnormal
+xi386
+lSLF07#2@188"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample321374318#321374318#0(0"0(0#0#0"8602926272#1305"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/Objects-normal/i386/UIImagePickerControllerSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/UIImagePickerControllerSample0#
+
+CProcessInfoPlistFile /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist UIImagePickerControllerSample-Info.plist
+s350493113.935454
+e350493113.938405
+r1
+xProcessInfoPlistFile
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist
+xUIImagePickerControllerSample-Info.plist
+lSLF07#2@48"Process UIImagePickerControllerSample-Info.plist350493113#350493113#0(0"0(0#0#106"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/UIImagePickerControllerSample-Info.plist8633932608#626"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIImagePickerControllerSample-Info.plist -genpkginfo /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist UIImagePickerControllerSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist UIImagePickerControllerSample-Info.plist
+s321374317.062373
+e321374317.069008
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist
+xUIImagePickerControllerSample-Info.plist
+lSLF07#2@48"Process UIImagePickerControllerSample-Info.plist321374317#321374317#0(0"0(0#0#132"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/UIImagePickerControllerSample-Info.plist8600583136#704"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIImagePickerControllerSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-cfuionymaywbbhemycddopzxpyoj/UIImagePickerControllerSample_Prefix.pch.gch UIImagePickerControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-cwvgtjfchxlsckdsxoffflknxqbv/UIImagePickerControllerSample_Prefix.pch.gch UIImagePickerControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch.gch UIImagePickerControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350493114.243029
+e350493115.510024
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch.gch
+xUIImagePickerControllerSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile UIImagePickerControllerSample_Prefix.pch350493114#350493115#0(0"0(0#0#106"/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/UIImagePickerControllerSample_Prefix.pch8612836800#2494"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -c /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/UIImagePickerControllerSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dipwswqhqkpzmngwghlovywipwjr/UIImagePickerControllerSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch.gch UIImagePickerControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321374317.110789
+e321374317.890839
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch.gch
+xUIImagePickerControllerSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile UIImagePickerControllerSample_Prefix.pch321374317#321374317#0(0"0(0#0#132"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/UIImagePickerControllerSample_Prefix.pch8602913504#2741"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/UIImagePickerControllerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/UIImagePickerControllerSample.build/Debug-iphonesimulator/UIImagePickerControllerSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/UIImagePickerControllerSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIImagePickerControllerSample_Prefix-dxkgzrjjgnvsvocfpheasxmpgzbg/UIImagePickerControllerSample_Prefix.pch.gch0#
+
+CTouch /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app
+s350493116.501012
+e350493116.583836
+r1
+xTouch
+x/wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app
+lSLF07#2@133"Touch /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app350493116#350493116#0(0"0(0#0#0"8634707840#354"    cd /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/book/iphone3/source/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app
+s321374318.321193
+e321374318.324024
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app
+lSLF07#2@159"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app321374318#321374318#0(0"0(0#0#0"8608404384#406"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug-iphonesimulator/UIImagePickerControllerSample.app0#
+

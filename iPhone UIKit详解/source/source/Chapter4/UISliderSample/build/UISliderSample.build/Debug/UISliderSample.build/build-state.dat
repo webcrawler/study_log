@@ -1,0 +1,87 @@
+TUISliderSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/left.png
+c000000004B2383BE0000000000000092
+t1260618686
+s146
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/right.png
+c000000004B2383BE0000000000000F59
+t1260618686
+s3929
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/roope_big.png
+c000000004B2383BE00000000000014BB
+t1260618686
+s5307
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/roope_small.png
+c000000004B2383BE000000000000146F
+t1260618686
+s5231
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/thumb.png
+c000000004B2383BE000000000000121D
+t1260618686
+s4637
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app/Contents/Resources/left.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app/Contents/Resources/right.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app/Contents/Resources/roope_big.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app/Contents/Resources/roope_small.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app/Contents/Resources/thumb.png
+t2
+s0
+
+NUISliderSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCpResource build/Debug/UISliderSample.app/Contents/Resources/left.png Images/left.png
+r0
+
+CCpResource build/Debug/UISliderSample.app/Contents/Resources/right.png Images/right.png
+r0
+
+CCpResource build/Debug/UISliderSample.app/Contents/Resources/roope_big.png Images/roope_big.png
+r0
+
+CCpResource build/Debug/UISliderSample.app/Contents/Resources/roope_small.png Images/roope_small.png
+r0
+
+CCpResource build/Debug/UISliderSample.app/Contents/Resources/thumb.png Images/thumb.png
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app/Contents/Info.plist UISliderSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug/UISliderSample.app
+r0
+

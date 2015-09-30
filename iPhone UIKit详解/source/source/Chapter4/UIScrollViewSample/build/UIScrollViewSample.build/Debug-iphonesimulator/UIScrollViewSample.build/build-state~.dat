@@ -1,0 +1,329 @@
+TUIScrollViewSample
+v7
+r0
+t321369099.750533
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/Info.plist UIScrollViewSample-Info.plist
+cCpResource build/Debug-iphonesimulator/UIScrollViewSample.app/town.jpg Images/town.jpg
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch.gch UIScrollViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/UIScrollViewSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/UIScrollViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForScrollView.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForPaging.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForPaging.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForIndicatorStyle.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForIndicatorStyle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample normal i386
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample
+cTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C65F6640000000000000132
+t1281750628
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch.gch
+t1299676299
+s15232016
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/RootViewController.m
+c000000004B2383BE000000000000099E
+t1260618686
+s2462
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForIndicatorStyle.h
+c000000004B2383BE00000000000000CC
+t1260618686
+s204
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForIndicatorStyle.m
+c000000004B2383BE0000000000000586
+t1260618686
+s1414
+i"SampleForIndicatorStyle.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForPaging.h
+c000000004B2383BE00000000000001D0
+t1260618686
+s464
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForPaging.m
+c000000004B2383BE00000000000009B4
+t1260618686
+s2484
+i"SampleForPaging.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForScrollView.h
+c000000004B2383BE00000000000000B0
+t1260618686
+s176
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForScrollView.m
+c000000004B2383BE00000000000004A1
+t1260618686
+s1185
+i"SampleForScrollView.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/UIScrollViewSampleAppDelegate.h
+c000000004B2383BE00000000000000F8
+t1260618686
+s248
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/UIScrollViewSampleAppDelegate.m
+c000000004B2383BE00000000000002CD
+t1260618686
+s717
+i"UIScrollViewSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Images/town.jpg
+c000000004B2383BE000000000006FBDA
+t1260618686
+s457690
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/UIScrollViewSample_Prefix.pch
+c000000004B2383BE00000000000000CD
+t1260618686
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app
+t1299676299
+s204
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app.dSYM
+t1299676299
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/Info.plist
+t1299676298
+s608
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/PkgInfo
+t1299676298
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample
+t1299676299
+s30220
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/town.jpg
+t1299676298
+s457690
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/RootViewController.o
+t1299676299
+s45188
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForIndicatorStyle.o
+t1299676299
+s39628
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForPaging.o
+t1299676299
+s42580
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForScrollView.o
+t1299676299
+s40088
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/UIScrollViewSample.LinkFileList
+c000000004D777C8A00000000000004B0
+t1299676298
+s1200
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/UIScrollViewSampleAppDelegate.o
+t1299676299
+s47096
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/main.o
+t1299676299
+s6580
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/main.m
+c000000004B2383BE000000000000018C
+t1260618686
+s396
+i<UIKit/UIKit.h>
+
+NUIScrollViewSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321369098#321369098#0(0"0(0#1#0"8606944352#0"0#
+
+CCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321369099.459980
+e321369099.600233
+r1
+xCompileC
+xbuild/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/RootViewController.m321369099#321369099#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/RootViewController.m8608220576#2619"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForIndicatorStyle.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForIndicatorStyle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321369099.600336
+e321369099.694575
+r1
+xCompileC
+xbuild/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForIndicatorStyle.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForIndicatorStyle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForIndicatorStyle.m321369099#321369099#0(0"0(0#0#114"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForIndicatorStyle.m8606914080#2629"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForIndicatorStyle.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForIndicatorStyle.o0#
+
+CCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForPaging.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForPaging.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321369099.590345
+e321369099.696607
+r1
+xCompileC
+xbuild/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForPaging.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForPaging.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForPaging.m321369099#321369099#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForPaging.m8607211744#2613"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForPaging.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForPaging.o0#
+
+CCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForScrollView.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321369099.492105
+e321369099.590237
+r1
+xCompileC
+xbuild/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForScrollView.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForScrollView.m321369099#321369099#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForScrollView.m8607992640#2621"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/SampleForScrollView.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/SampleForScrollView.o0#
+
+CCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/UIScrollViewSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/UIScrollViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321369099.409230
+e321369099.491999
+r1
+xCompileC
+xbuild/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/UIScrollViewSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/UIScrollViewSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/UIScrollViewSampleAppDelegate.m321369099#321369099#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/UIScrollViewSampleAppDelegate.m8608494240#2641"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Classes/UIScrollViewSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/UIScrollViewSampleAppDelegate.o0#
+
+CCompileC build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321369099.407551
+e321369099.459869
+r1
+xCompileC
+xbuild/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/main.m321369099#321369099#0(0"0(0#0#87"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/main.m8610372416#2583"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/UIScrollViewSample.app/town.jpg Images/town.jpg
+s321369098.596120
+e321369098.663649
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIScrollViewSample.app/town.jpg
+xImages/town.jpg
+lSLF07#2@20"Copy Images/town.jpg321369098#321369098#0(0"0(0#0#96"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Images/town.jpg8604508448#596"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Images/town.jpg /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample
+s321369099.723827
+e321369099.747735
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/UIScrollViewSample.app.dSYM build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample321369099#321369099#0(0"0(0#0#150"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample8607258112#542"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample normal i386
+s321369099.696692
+e321369099.723728
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample
+xnormal
+xi386
+lSLF07#2@155"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample321369099#321369099#0(0"0(0#0#0"8608154528#1165"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/Objects-normal/i386/UIScrollViewSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/UIScrollViewSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/Info.plist UIScrollViewSample-Info.plist
+s321369098.586998
+e321369098.596028
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/Info.plist
+xUIScrollViewSample-Info.plist
+lSLF07#2@37"Process UIScrollViewSample-Info.plist321369098#321369098#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/UIScrollViewSample-Info.plist8606407488#638"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIScrollViewSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch.gch UIScrollViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321369098.663779
+e321369099.407278
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch.gch
+xUIScrollViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile UIScrollViewSample_Prefix.pch321369098#321369099#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/UIScrollViewSample_Prefix.pch8608248160#2422"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/UIScrollViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/UIScrollViewSample.build/Debug-iphonesimulator/UIScrollViewSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/UIScrollViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIScrollViewSample_Prefix-dqpnhadbdjhhwxdhatwbvjotnmqy/UIScrollViewSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app
+s321369099.747831
+e321369099.750497
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app
+lSLF07#2@137"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app321369099#321369099#0(0"0(0#0#0"8607099232#373"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug-iphonesimulator/UIScrollViewSample.app0#
+

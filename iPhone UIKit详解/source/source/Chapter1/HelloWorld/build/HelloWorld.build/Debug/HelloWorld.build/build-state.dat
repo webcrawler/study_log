@@ -1,0 +1,39 @@
+THelloWorld
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter1/HelloWorld/MainWindow.xib
+c000000004B2383BE0000000000002353
+t1260618686
+s9043
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter1/HelloWorld/build/Debug/HelloWorld.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter1/HelloWorld/build/Debug/HelloWorld.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter1/HelloWorld/build/Debug/HelloWorld.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter1/HelloWorld/build/Debug/HelloWorld.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NHelloWorld-Info.plist
+c000000004B2383BE000000000000038D
+t1260618686
+s909
+
+CCompileXIB /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter1/HelloWorld/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter1/HelloWorld/build/Debug/HelloWorld.app/Contents/Info.plist HelloWorld-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter1/HelloWorld/build/Debug/HelloWorld.app
+r0
+

@@ -1,0 +1,1538 @@
+TUITextFieldSample
+v7
+r0
+t350472812.097203
+cCheck dependencies
+cProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/Info.plist UITextFieldSample-Info.plist
+cCpResource build/Debug-iphonesimulator/UITextFieldSample.app/paper.png Images/paper.png
+cCpResource build/Debug-iphonesimulator/UITextFieldSample.app/paperGray.png Images/paperGray.png
+cCpResource build/Debug-iphonesimulator/UITextFieldSample.app/leftDog.png Images/leftDog.png
+cCpResource build/Debug-iphonesimulator/UITextFieldSample.app/rightDog.png Images/rightDog.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch.gch UITextFieldSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAddView.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAddView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAdjustFontSize.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAdjustFontSize.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjBackground.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjBackground.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjChangeColorAndFont.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjChangeColorAndFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjClearButtonMode.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjClearButtonMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjObserving.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjObserving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjPlaceholder.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjPlaceholder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjSimple.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample normal i386
+cGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+cTouch /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch.gch
+t1299536886
+s15232016
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch.gch
+t1328780010
+s15211536
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch.gch
+t1326365638
+s15211536
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/RootViewController.h
+c000000004F094C0300000000000000BC
+t1326009347
+s188
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/RootViewController.m
+c000000004F3392E50000000000000AA3
+t1328780005
+s2723
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForAddView.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForAdjustFontSize.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForBackground.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForChangeColorAndFont.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForClearButtonMode.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForObserving.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForPlaceholder.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForSimple.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAddView.h
+c000000004F3392B1000000000000008F
+t1328779953
+s143
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAddView.m
+c000000004F3392B4000000000000076F
+t1328779956
+s1903
+i"UIKitPrjAddView.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAdjustFontSize.h
+c000000004F3392B900000000000000B3
+t1328779961
+s179
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAdjustFontSize.m
+c000000004F3392BC0000000000000377
+t1328779964
+s887
+i"UIKitPrjAdjustFontSize.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjBackground.h
+c000000004F3392BF00000000000000AB
+t1328779967
+s171
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjBackground.m
+c000000004F3392C200000000000004CF
+t1328779970
+s1231
+i"UIKitPrjBackground.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjChangeColorAndFont.h
+c000000004F3392C600000000000000A5
+t1328779974
+s165
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjChangeColorAndFont.m
+c000000004F3392C900000000000002FC
+t1328779977
+s764
+i"UIKitPrjChangeColorAndFont.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjClearButtonMode.h
+c000000004F3392CC00000000000000DC
+t1328779980
+s220
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjClearButtonMode.m
+c000000004F3392D000000000000007F9
+t1328779984
+s2041
+i"UIKitPrjClearButtonMode.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjObserving.h
+c000000004F3392D200000000000000A9
+t1328779986
+s169
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjObserving.m
+c000000004F3392D5000000000000067C
+t1328779989
+s1660
+i"UIKitPrjObserving.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjPlaceholder.h
+c000000004F3392D80000000000000097
+t1328779992
+s151
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjPlaceholder.m
+c000000004F3392DB000000000000024A
+t1328779995
+s586
+i"UIKitPrjPlaceholder.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjSimple.h
+c000000004F3392DD00000000000000EA
+t1328779997
+s234
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjSimple.m
+c000000004F3392E0000000000000088F
+t1328780000
+s2191
+i"UIKitPrjSimple.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.h
+c000000004F094C1E00000000000000F4
+t1326009374
+s244
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m
+c000000004F094C2200000000000002C8
+t1326009378
+s712
+i"UITextFieldSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Images/leftDog.png
+c000000004B2383BE0000000000001353
+t1260618686
+s4947
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Images/paper.png
+c000000004B2383BE0000000000001E2D
+t1260618686
+s7725
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Images/paperGray.png
+c000000004B2383BE0000000000000555
+t1260618686
+s1365
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/Images/rightDog.png
+c000000004B2383BE0000000000001334
+t1260618686
+s4916
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/UITextFieldSample_Prefix.pch
+c000000004B2383BE00000000000000CB
+t1260618686
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+t1328780012
+s306
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM
+t1328780011
+s102
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/Info.plist
+t1299536885
+s604
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/PkgInfo
+t1299536885
+s8
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+t1328780011
+s42336
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/leftDog.png
+t1299536885
+s4947
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/paper.png
+t1299536885
+s7725
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/paperGray.png
+t1299536885
+s1365
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/rightDog.png
+t1299536885
+s4916
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o
+t1328780011
+s45572
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o
+t1328619115
+s38888
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o
+t1326365640
+s39480
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o
+t1328619115
+s39832
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o
+t1328619115
+s36716
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o
+t1326365640
+s42672
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o
+t1326365640
+s43048
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o
+t1326378103
+s36196
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o
+t1328622039
+s43408
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAddView.o
+t1328780011
+s38844
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAdjustFontSize.o
+t1328780011
+s39428
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjBackground.o
+t1328780011
+s39784
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjChangeColorAndFont.o
+t1328780011
+s36668
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjClearButtonMode.o
+t1328780011
+s42616
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjObserving.o
+t1328780011
+s42984
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjPlaceholder.o
+t1328780011
+s36148
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjSimple.o
+t1328780011
+s43692
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSample.LinkFileList
+c000000004F3392EA0000000000000754
+t1328780010
+s1876
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o
+t1328780011
+s47024
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o
+t1328780011
+s6532
+
+N/wang/book/iphone3/source/Chapter4/UITextFieldSample/main.m
+c000000004B2383BE000000000000018A
+t1260618686
+s394
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/RootViewController.h
+c000000004F094C0300000000000000BC
+t1326009347
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/RootViewController.m
+c000000004F094C130000000000000AAC
+t1326009363
+s2732
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAddView.h
+c000000004F094B8B0000000000000091
+t1326009227
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAddView.m
+c000000004F0EF96D0000000000000772
+t1326381421
+s1906
+i"SampleForAddView.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.h
+c000000004F094B4F00000000000000B5
+t1326009167
+s181
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m
+c000000004F094B61000000000000037A
+t1326009185
+s890
+i"SampleForAdjustFontSize.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForBackground.h
+c000000004F094BD800000000000000AD
+t1326009304
+s173
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForBackground.m
+c000000004F0EF3A600000000000004D2
+t1326379942
+s1234
+i"SampleForBackground.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.h
+c000000004F094BFB00000000000000A7
+t1326009339
+s167
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m
+c000000004F0EF17F00000000000002FF
+t1326379391
+s767
+i"SampleForChangeColorAndFont.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.h
+c000000004F094BF300000000000000DE
+t1326009331
+s222
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m
+c000000004F094BF800000000000007FC
+t1326009336
+s2044
+i"SampleForClearButtonMode.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForObserving.h
+c000000004F094B6500000000000000AB
+t1326009189
+s171
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForObserving.m
+c000000004F094B85000000000000067F
+t1326009221
+s1663
+i"SampleForObserving.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.h
+c000000004F094BDF0000000000000099
+t1326009311
+s153
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m
+c000000004F0EEC6E000000000000024D
+t1326378094
+s589
+i"SampleForPlaceholder.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForSimple.h
+c000000004F094C1800000000000000EC
+t1326009368
+s236
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForSimple.m
+c000000004F312A2B0000000000000892
+t1328622123
+s2194
+i"SampleForSimple.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.h
+c000000004F094C1E00000000000000F4
+t1326009374
+s244
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m
+c000000004F094C2200000000000002C8
+t1326009378
+s712
+i"UITextFieldSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Images/leftDog.png
+c000000004B2383BE0000000000001353
+t1260618686
+s4947
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Images/paper.png
+c000000004B2383BE0000000000001E2D
+t1260618686
+s7725
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Images/paperGray.png
+c000000004B2383BE0000000000000555
+t1260618686
+s1365
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Images/rightDog.png
+c000000004B2383BE0000000000001334
+t1260618686
+s4916
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/UITextFieldSample_Prefix.pch
+c000000004B2383BE00000000000000CB
+t1260618686
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+t1328622039
+s306
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM
+t1328622039
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/Info.plist
+t1299536885
+s604
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/PkgInfo
+t1299536885
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+t1328622039
+s42784
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/leftDog.png
+t1299536885
+s4947
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/paper.png
+t1299536885
+s7725
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/paperGray.png
+t1299536885
+s1365
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/rightDog.png
+t1299536885
+s4916
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o
+t1326365639
+s45612
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o
+t1328619115
+s38888
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o
+t1326365640
+s39480
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o
+t1328619115
+s39832
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o
+t1328619115
+s36716
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o
+t1326365640
+s42672
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o
+t1326365640
+s43048
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o
+t1326378103
+s36196
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o
+t1328622039
+s43408
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSample.LinkFileList
+c000000004F0EBBC2000000000000080C
+t1326365634
+s2060
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o
+t1326365639
+s47056
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o
+t1326365639
+s6564
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/main.m
+c000000004B2383BE000000000000018A
+t1260618686
+s394
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/RootViewController.m
+c000000004B2383BE0000000000000AC0
+t1260618686
+s2752
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAddView.h
+c000000004B2383BE0000000000000093
+t1260618686
+s147
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAddView.m
+c000000004B2383BE00000000000006AE
+t1260618686
+s1710
+i"SampleForAddView.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.h
+c000000004B2383BE00000000000000B7
+t1260618686
+s183
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m
+c000000004B2383BE0000000000000385
+t1260618686
+s901
+i"SampleForAdjustFontSize.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForBackground.h
+c000000004B2383BE00000000000000AF
+t1260618686
+s175
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForBackground.m
+c000000004B2383BE0000000000000474
+t1260618686
+s1140
+i"SampleForBackground.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.h
+c000000004B2383BE00000000000000A9
+t1260618686
+s169
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m
+c000000004B2383BE00000000000002C8
+t1260618686
+s712
+i"SampleForChangeColorAndFont.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.h
+c000000004B2383BE00000000000000E0
+t1260618686
+s224
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m
+c000000004B2383BE00000000000007FE
+t1260618686
+s2046
+i"SampleForClearButtonMode.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForObserving.h
+c000000004B2383BE00000000000000AD
+t1260618686
+s173
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForObserving.m
+c000000004B2383BE0000000000000678
+t1260618686
+s1656
+i"SampleForObserving.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.h
+c000000004B2383BE000000000000009B
+t1260618686
+s155
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m
+c000000004B2383BE000000000000026A
+t1260618686
+s618
+i"SampleForPlaceholder.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForSimple.h
+c000000004B2383BE00000000000000EE
+t1260618686
+s238
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForSimple.m
+c000000004B2383BE0000000000000894
+t1260618686
+s2196
+i"SampleForSimple.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.h
+c000000004B2383BE00000000000000F6
+t1260618686
+s246
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m
+c000000004B2383BE00000000000002CA
+t1260618686
+s714
+i"UITextFieldSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/leftDog.png
+c000000004B2383BE0000000000001353
+t1260618686
+s4947
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/paper.png
+c000000004B2383BE0000000000001E2D
+t1260618686
+s7725
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/paperGray.png
+c000000004B2383BE0000000000000555
+t1260618686
+s1365
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/rightDog.png
+c000000004B2383BE0000000000001334
+t1260618686
+s4916
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/UITextFieldSample_Prefix.pch
+c000000004B2383BE00000000000000CB
+t1260618686
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+t1299536887
+s306
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM
+t1299536887
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/Info.plist
+t1299536885
+s604
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/PkgInfo
+t1299536885
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+t1299536887
+s43024
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/leftDog.png
+t1299536885
+s4947
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/paper.png
+t1299536885
+s7725
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/paperGray.png
+t1299536885
+s1365
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/rightDog.png
+t1299536885
+s4916
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o
+t1299536886
+s45628
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o
+t1299536887
+s38904
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o
+t1299536887
+s39500
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o
+t1299536887
+s39844
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o
+t1299536887
+s36728
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o
+t1299536887
+s42684
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o
+t1299536887
+s43056
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o
+t1299536887
+s36228
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o
+t1299536886
+s43764
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSample.LinkFileList
+c000000004D755BF50000000000000885
+t1299536885
+s2181
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o
+t1299536886
+s47068
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o
+t1299536886
+s6576
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/main.m
+c000000004B2383BE000000000000018A
+t1260618686
+s394
+i<UIKit/UIKit.h>
+
+NUITextFieldSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350472809#350472810#0(0"0(0#1#0"8632170336#0"0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472811.123365
+e350472811.332336
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@89"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/RootViewController.m350472811#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#81"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/RootViewController.m8630676704#2345"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/RootViewController.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348058439.759186
+e348058439.973085
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@105"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/RootViewController.m348058439#348058439#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#97"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/RootViewController.m8606170656#2521"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229686.860706
+e321229686.972344
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/RootViewController.m321229686#321229686#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/RootViewController.m8609212512#2588"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForAddView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAddView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350311915.093120
+e350311915.670246
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAddView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@103"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAddView.m350311915#350311915#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#95"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAddView.m8610548704#2517"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAddView.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAddView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229687.125352
+e321229687.200662
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAddView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAddView.m321229687#321229687#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAddView.m8609769888#2584"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAddView.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAddView.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForAdjustFontSize.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348058440.511528
+e348058440.646420
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m348058440#348058440#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m8606511776#2531"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229687.200775
+e321229687.275779
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m321229687#321229687#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m8609547424#2598"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForAdjustFontSize.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForAdjustFontSize.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForBackground.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForBackground.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350311913.971123
+e350311915.093003
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForBackground.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForBackground.m350311913#350311915#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#98"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForBackground.m8612133248#2523"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForBackground.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForBackground.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229687.078291
+e321229687.164010
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForBackground.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForBackground.m321229687#321229687#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForBackground.m8610492800#2590"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForBackground.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForBackground.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForChangeColorAndFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350311913.598827
+e350311915.575793
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m350311913#350311915#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m8612390464#2539"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229686.972450
+e321229687.046010
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m321229686#321229687#0(0"0(0#0#117"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m8612370752#2606"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForChangeColorAndFont.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForChangeColorAndFont.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForClearButtonMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348058440.080188
+e348058440.273923
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@111"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m348058440#348058440#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#103"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m8606649152#2533"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229686.980962
+e321229687.078182
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m321229686#321229687#0(0"0(0#0#114"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m8612233312#2600"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForClearButtonMode.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForClearButtonMode.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForObserving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForObserving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348058440.459070
+e348058440.689539
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForObserving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@105"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForObserving.m348058440#348058440#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#97"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForObserving.m8607487776#2521"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForObserving.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForObserving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229687.164121
+e321229687.245454
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForObserving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForObserving.m321229687#321229687#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForObserving.m8609614304#2588"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForObserving.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForObserving.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForPlaceholder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348070903.515186
+e348070903.780790
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@107"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m348070903#348070903#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m8606127744#2525"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229687.046121
+e321229687.125239
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m321229687#321229687#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m8610879744#2592"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForPlaceholder.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForPlaceholder.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/SampleForSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350314839.686704
+e350314839.823583
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForSimple.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@102"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForSimple.m350314839#350314839#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForSimple.m8628226688#2515"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/SampleForSimple.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229686.889057
+e321229686.980854
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForSimple.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForSimple.m321229686#321229686#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForSimple.m8610886432#2582"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/SampleForSimple.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/SampleForSimple.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAddView.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAddView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472811.125334
+e350472811.206890
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAddView.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAddView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@86"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAddView.m350472811#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#78"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAddView.m8630011360#2339"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAddView.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAddView.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAdjustFontSize.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAdjustFontSize.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472811.206984
+e350472811.321627
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAdjustFontSize.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAdjustFontSize.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@93"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAdjustFontSize.m350472811#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#85"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAdjustFontSize.m8635192128#2353"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjAdjustFontSize.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjAdjustFontSize.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjBackground.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjBackground.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472811.321729
+e350472811.411061
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjBackground.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjBackground.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@89"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjBackground.m350472811#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#81"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjBackground.m8632168480#2345"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjBackground.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjBackground.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjChangeColorAndFont.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjChangeColorAndFont.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472811.332441
+e350472811.405222
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjChangeColorAndFont.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjChangeColorAndFont.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@97"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjChangeColorAndFont.m350472811#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#89"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjChangeColorAndFont.m8601726848#2361"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjChangeColorAndFont.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjChangeColorAndFont.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjClearButtonMode.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjClearButtonMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472811.405326
+e350472811.504474
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjClearButtonMode.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjClearButtonMode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@94"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjClearButtonMode.m350472811#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#86"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjClearButtonMode.m8609128224#2355"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjClearButtonMode.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjClearButtonMode.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjObserving.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjObserving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472811.411714
+e350472811.503203
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjObserving.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjObserving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@88"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjObserving.m350472811#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#80"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjObserving.m8635626048#2343"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjObserving.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjObserving.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjPlaceholder.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjPlaceholder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472811.503310
+e350472811.572713
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjPlaceholder.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjPlaceholder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@90"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjPlaceholder.m350472811#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#82"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjPlaceholder.m8634079392#2347"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjPlaceholder.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjPlaceholder.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjSimple.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472811.504554
+e350472811.599161
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjSimple.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjSimple.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@85"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjSimple.m350472811#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#77"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjSimple.m8633416704#2337"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UIKitPrjSimple.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UIKitPrjSimple.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472810.994386
+e350472811.125246
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@99"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m350472810#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#91"/wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m8632513984#2365"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348058439.502021
+e348058439.814981
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@115"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m348058439#348058439#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#107"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m8615637376#2541"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229686.802794
+e321229686.888945
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m321229686#321229686#0(0"0(0#0#118"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m8609181664#2608"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Classes/UITextFieldSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSampleAppDelegate.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UITextFieldSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472810.969773
+e350472811.123268
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@67"Compile /wang/book/iphone3/source/Chapter4/UITextFieldSample/main.m350472810#350472811#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#59"/wang/book/iphone3/source/Chapter4/UITextFieldSample/main.m8632702784#2309"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/main.m -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348058439.479705
+e348058439.758697
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@83"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/main.m348058439#348058439#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#75"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/main.m8603858816#2485"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229686.801221
+e321229686.860596
+r1
+xCompileC
+xbuild/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/main.m321229686#321229686#0(0"0(0#0#86"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/main.m8609853312#2552"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/UITextFieldSample.app/leftDog.png Images/leftDog.png
+s321229685.915282
+e321229685.938242
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UITextFieldSample.app/leftDog.png
+xImages/leftDog.png
+lSLF07#2@23"Copy Images/leftDog.png321229685#321229685#0(0"0(0#0#98"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/leftDog.png8612923424#595"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/leftDog.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UITextFieldSample.app/paper.png Images/paper.png
+s321229685.912926
+e321229685.934841
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UITextFieldSample.app/paper.png
+xImages/paper.png
+lSLF07#2@21"Copy Images/paper.png321229685#321229685#0(0"0(0#0#96"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/paper.png8612478624#593"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/paper.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UITextFieldSample.app/paperGray.png Images/paperGray.png
+s321229685.913749
+e321229685.934970
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UITextFieldSample.app/paperGray.png
+xImages/paperGray.png
+lSLF07#2@25"Copy Images/paperGray.png321229685#321229685#0(0"0(0#0#100"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/paperGray.png8607813120#597"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/paperGray.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UITextFieldSample.app/rightDog.png Images/rightDog.png
+s321229685.915967
+e321229685.938381
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UITextFieldSample.app/rightDog.png
+xImages/rightDog.png
+lSLF07#2@24"Copy Images/rightDog.png321229685#321229685#0(0"0(0#0#99"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/rightDog.png8612403232#596"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/Images/rightDog.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app0#
+
+CGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+s350472811.875943
+e350472812.079480
+r1
+xGenerateDSYMFile
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/UITextFieldSample.app.dSYM build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample350472811#350472812#0(0"0(0#0#120"/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample8633601984#455"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+s350314839.853497
+e350314839.912970
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/UITextFieldSample.app.dSYM build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample350314839#350314839#0(0"0(0#0#136"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample8628434944#503"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+s321229687.372064
+e321229687.406530
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/UITextFieldSample.app.dSYM build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample321229687#321229687#0(0"0(0#0#147"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample8610454656#536"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app.dSYM0#
+
+CLd /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample normal i386
+s350472811.599254
+e350472811.875829
+r1
+xLd
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+xnormal
+xi386
+lSLF07#2@125"Link /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample350472811#350472811#0(0"0(0#0#0"8639360672#1020"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -filelist /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample normal i386
+s350314839.823670
+e350314839.853390
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+xnormal
+xi386
+lSLF07#2@141"Link /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample350314839#350314839#0(0"0(0#0#0"8628189600#1100"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample normal i386
+s321229687.275870
+e321229687.371954
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample
+xnormal
+xi386
+lSLF07#2@152"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample321229687#321229687#0(0"0(0#0#0"8612578496#1155"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/Objects-normal/i386/UITextFieldSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/UITextFieldSample0#
+
+CProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/Info.plist UITextFieldSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/Info.plist UITextFieldSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/Info.plist UITextFieldSample-Info.plist
+s321229685.898016
+e321229685.912833
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/Info.plist
+xUITextFieldSample-Info.plist
+lSLF07#2@36"Process UITextFieldSample-Info.plist321229685#321229685#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/UITextFieldSample-Info.plist8609705184#632"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UITextFieldSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch.gch UITextFieldSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321229685.938476
+e321229686.800931
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch.gch
+xUITextFieldSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile UITextFieldSample_Prefix.pch321229685#321229686#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/UITextFieldSample_Prefix.pch8612037344#2393"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/UITextFieldSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bdfkvbaouqaxoecnloxsfjdzrwae/UITextFieldSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch.gch UITextFieldSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472810.054042
+e350472810.969504
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch.gch
+xUITextFieldSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@39"Precompile UITextFieldSample_Prefix.pch350472810#350472810#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#81"/wang/book/iphone3/source/Chapter4/UITextFieldSample/UITextFieldSample_Prefix.pch8630724736#2177"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/UITextFieldSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-bixnywoausgcaraqhpcwycikrffy/UITextFieldSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch.gch UITextFieldSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s348058435.032555
+e348058439.479529
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch.gch
+xUITextFieldSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@39"Precompile UITextFieldSample_Prefix.pch348058435#348058439#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#97"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/UITextFieldSample_Prefix.pch8606113568#2337"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/UITextFieldSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/UITextFieldSample.build/Debug-iphonesimulator/UITextFieldSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/UITextFieldSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITextFieldSample_Prefix-dlmbfqojoxvnoxahmvfgsemtcdyh/UITextFieldSample_Prefix.pch.gch0#
+
+CTouch /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+s350472812.079583
+e350472812.097063
+r1
+xTouch
+x/wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+lSLF07#2@108"Touch /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app350472812#350472812#0(0"0(0#0#0"8632575712#316"    cd /wang/book/iphone3/source/Chapter4/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/book/iphone3/source/Chapter4/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+s350314839.913088
+e350314839.916234
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+lSLF07#2@124"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app350314839#350314839#0(0"0(0#0#0"8628185376#348"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+s321229687.406683
+e321229687.409721
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app
+lSLF07#2@135"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app321229687#321229687#0(0"0(0#0#0"8609819904#370"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UITextFieldSample/build/Debug-iphonesimulator/UITextFieldSample.app0#
+
