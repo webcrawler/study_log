@@ -1,0 +1,51 @@
+TUISearchBarSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000120
+t1260618686
+s288
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000120
+t1260618686
+s288
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug/UISearchBarSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug/UISearchBarSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug/UISearchBarSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug/UISearchBarSample.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug/UISearchBarSample.app/Contents/Resources/Japanese.lproj/InfoPlist.strings
+t2
+s0
+
+NUISearchBarSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug/UISearchBarSample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug/UISearchBarSample.app/Contents/Resources/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug/UISearchBarSample.app/Contents/Info.plist UISearchBarSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISearchBarSample/build/Debug/UISearchBarSample.app
+r0
+

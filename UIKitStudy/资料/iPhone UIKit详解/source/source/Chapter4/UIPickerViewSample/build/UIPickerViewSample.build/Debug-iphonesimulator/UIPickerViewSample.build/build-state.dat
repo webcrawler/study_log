@@ -1,0 +1,1159 @@
+TUIPickerViewSample
+v7
+r0
+t350471523.751120
+cCheck dependencies
+cProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Info.plist UIPickerViewSample-Info.plist
+cCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/Dog.png Images/Dog.png
+cCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/Elephant.png Images/Elephant.png
+cCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/Lion.png Images/Lion.png
+cCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/Monkey.png Images/Monkey.png
+cCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/check.png Images/check.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch.gch UIPickerViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjChangeWidthAndHeight.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjChangeWidthAndHeight.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjPickerView.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjPickerView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjSelectedRow.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjSelectedRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjViewForRow.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjViewForRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample normal i386
+cGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+cTouch /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch.gch
+t1299660460
+s15232016
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch.gch
+t1328778722
+s15211536
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch.gch
+t1326505408
+s15211536
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/RootViewController.h
+c000000004F09315B00000000000000BC
+t1326002523
+s188
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/RootViewController.m
+c000000004F338DD700000000000009C8
+t1328778711
+s2504
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/SampleForPickerView.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/SampleForSelectedRow.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/SampleForViewForRow.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjChangeWidthAndHeight.h
+c000000004F338DBA00000000000000D8
+t1328778682
+s216
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjChangeWidthAndHeight.m
+c000000004F338DBE000000000000050C
+t1328778686
+s1292
+i"UIKitPrjChangeWidthAndHeight.h"
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjPickerView.h
+c000000004F338DC300000000000000C4
+t1328778691
+s196
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjPickerView.m
+c000000004F338DC60000000000000382
+t1328778694
+s898
+i"UIKitPrjPickerView.h"
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjSelectedRow.h
+c000000004F338DC900000000000000ED
+t1328778697
+s237
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjSelectedRow.m
+c000000004F338DCC000000000000065B
+t1328778700
+s1627
+i"UIKitPrjSelectedRow.h"
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjViewForRow.h
+c000000004F338DCE0000000000000103
+t1328778702
+s259
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjViewForRow.m
+c000000004F338DD10000000000000D01
+t1328778705
+s3329
+i"UIKitPrjViewForRow.h"
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.h
+c000000004F09316800000000000000F6
+t1326002536
+s246
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m
+c000000004F09316B00000000000002CB
+t1326002539
+s715
+i"UIPickerViewSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Images/Dog.png
+c000000004B2383BE0000000000000513
+t1260618686
+s1299
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Images/Elephant.png
+c000000004B2383BE0000000000000755
+t1260618686
+s1877
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Images/Lion.png
+c000000004B2383BE0000000000000504
+t1260618686
+s1284
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Images/Monkey.png
+c000000004B2383BE00000000000005A8
+t1260618686
+s1448
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Images/check.png
+c000000004B2383BE000000000000049D
+t1260618686
+s1181
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/UIPickerViewSample_Prefix.pch
+c000000004B2383BE00000000000000CD
+t1260618686
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+t1328778723
+s340
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM
+t1328778723
+s102
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Dog.png
+t1299660460
+s1299
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Elephant.png
+t1299660460
+s1877
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Info.plist
+t1299660460
+s608
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Lion.png
+t1299660460
+s1284
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Monkey.png
+t1299660460
+s1448
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/PkgInfo
+t1299660460
+s8
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+t1328778723
+s36136
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/check.png
+t1299660460
+s1181
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o
+t1328778723
+s45236
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o
+t1326520321
+s40204
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o
+t1326520321
+s39764
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o
+t1326505409
+s49508
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o
+t1326520321
+s46956
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjChangeWidthAndHeight.o
+t1328778723
+s41296
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjPickerView.o
+t1328778723
+s39708
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjSelectedRow.o
+t1328778723
+s49444
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjViewForRow.o
+t1328778723
+s46892
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSample.LinkFileList
+c000000004F338DE100000000000004C3
+t1328778721
+s1219
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o
+t1328778722
+s47048
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o
+t1328778722
+s6536
+
+N/wang/book/iphone3/source/Chapter4/UIPickerViewSample/main.m
+c000000004B2383BE000000000000018B
+t1260618686
+s395
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/RootViewController.h
+c000000004F09315B00000000000000BC
+t1326002523
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/RootViewController.m
+c000000004F09342300000000000009CD
+t1326003235
+s2509
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.h
+c000000004F09314600000000000000DA
+t1326002502
+s218
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m
+c000000004F111805000000000000050F
+t1326520325
+s1295
+i"SampleForChangeWidthAndHeight.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.h
+c000000004F09316100000000000000C6
+t1326002529
+s198
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m
+c000000004F10E4E50000000000000385
+t1326507237
+s901
+i"SampleForPickerView.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.h
+c000000004F09314D00000000000000EF
+t1326002509
+s239
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m
+c000000004F09334D000000000000065E
+t1326003021
+s1630
+i"SampleForSelectedRow.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.h
+c000000004F0931540000000000000105
+t1326002516
+s261
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m
+c000000004F10F01F0000000000000D04
+t1326510111
+s3332
+i"SampleForViewForRow.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.h
+c000000004F09316800000000000000F6
+t1326002536
+s246
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m
+c000000004F09316B00000000000002CB
+t1326002539
+s715
+i"UIPickerViewSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Images/Dog.png
+c000000004B2383BE0000000000000513
+t1260618686
+s1299
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Images/Elephant.png
+c000000004B2383BE0000000000000755
+t1260618686
+s1877
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Images/Lion.png
+c000000004B2383BE0000000000000504
+t1260618686
+s1284
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Images/Monkey.png
+c000000004B2383BE00000000000005A8
+t1260618686
+s1448
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Images/check.png
+c000000004B2383BE000000000000049D
+t1260618686
+s1181
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/UIPickerViewSample_Prefix.pch
+c000000004B2383BE00000000000000CD
+t1260618686
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+t1326520323
+s340
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM
+t1326520322
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Dog.png
+t1299660460
+s1299
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Elephant.png
+t1299660460
+s1877
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Info.plist
+t1299660460
+s608
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Lion.png
+t1299660460
+s1284
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Monkey.png
+t1299660460
+s1448
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/PkgInfo
+t1299660460
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+t1326520322
+s36056
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/check.png
+t1299660460
+s1181
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o
+t1326505409
+s45276
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o
+t1326520321
+s40204
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o
+t1326520321
+s39764
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o
+t1326505409
+s49508
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o
+t1326520321
+s46956
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSample.LinkFileList
+c000000004F10DDBE0000000000000537
+t1326505406
+s1335
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o
+t1326505408
+s47080
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o
+t1326505408
+s6568
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/main.m
+c000000004B2383BE000000000000018B
+t1260618686
+s395
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/RootViewController.m
+c000000004B2383BE00000000000009E1
+t1260618686
+s2529
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.h
+c000000004B2383BE00000000000000DC
+t1260618686
+s220
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m
+c000000004D7740BE000000000000051A
+t1299660990
+s1306
+i"SampleForChangeWidthAndHeight.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.h
+c000000004B2383BE00000000000000C8
+t1260618686
+s200
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m
+c000000004B2383BE00000000000002DF
+t1260618686
+s735
+i"SampleForPickerView.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.h
+c000000004B2383BE00000000000000F1
+t1260618686
+s241
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m
+c000000004B2383BE0000000000000660
+t1260618686
+s1632
+i"SampleForSelectedRow.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.h
+c000000004B2383BE0000000000000107
+t1260618686
+s263
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m
+c000000004B2383BE0000000000000A8A
+t1260618686
+s2698
+i"SampleForViewForRow.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.h
+c000000004B2383BE00000000000000F8
+t1260618686
+s248
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m
+c000000004B2383BE00000000000002CD
+t1260618686
+s717
+i"UIPickerViewSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Dog.png
+c000000004B2383BE0000000000000513
+t1260618686
+s1299
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Elephant.png
+c000000004B2383BE0000000000000755
+t1260618686
+s1877
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Lion.png
+c000000004B2383BE0000000000000504
+t1260618686
+s1284
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Monkey.png
+c000000004B2383BE00000000000005A8
+t1260618686
+s1448
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/check.png
+c000000004B2383BE000000000000049D
+t1260618686
+s1181
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/UIPickerViewSample_Prefix.pch
+c000000004B2383BE00000000000000CD
+t1260618686
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+t1299660998
+s340
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM
+t1299660998
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Dog.png
+t1299660460
+s1299
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Elephant.png
+t1299660460
+s1877
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Info.plist
+t1299660460
+s608
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Lion.png
+t1299660460
+s1284
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Monkey.png
+t1299660460
+s1448
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/PkgInfo
+t1299660460
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+t1299660998
+s36592
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/check.png
+t1299660460
+s1181
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o
+t1299660461
+s45288
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o
+t1299660998
+s41376
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o
+t1299660461
+s39780
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o
+t1299660461
+s49524
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o
+t1299660461
+s46972
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSample.LinkFileList
+c000000004D773EAC0000000000000584
+t1299660460
+s1412
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o
+t1299660461
+s47096
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o
+t1299660461
+s6580
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/main.m
+c000000004B2383BE000000000000018B
+t1260618686
+s395
+i<UIKit/UIKit.h>
+
+NUIPickerViewSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350471521#350471521#0(0"0(0#1#0"8633275488#0"0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350471522.909192
+e350471523.076365
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@90"Compile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/RootViewController.m350471522#350471523#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#82"/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/RootViewController.m8630165088#2376"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/RootViewController.m -o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348198208.966399
+e348198209.137066
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/RootViewController.m348198208#348198209#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#98"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/RootViewController.m8601771744#2552"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321353261.050744
+e321353261.158041
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/RootViewController.m321353261#321353261#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/RootViewController.m8609090624#2619"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348213121.304837
+e348213121.498892
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m348213121#348213121#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m8604886240#2574"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321353798.740895
+e321353798.880773
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m321353798#321353798#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m8619422944#2641"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForChangeWidthAndHeight.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForChangeWidthAndHeight.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/SampleForPickerView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348213119.556041
+e348213121.376032
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@107"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m348213119#348213121#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m8606135168#2554"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321353261.073849
+e321353261.154899
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m321353261#321353261#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m8601076192#2621"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForPickerView.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForPickerView.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/SampleForSelectedRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348198209.137210
+e348198209.289477
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@108"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m348198209#348198209#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#100"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m8604559616#2556"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321353261.158141
+e321353261.247981
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m321353261#321353261#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m8606922976#2623"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForSelectedRow.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForSelectedRow.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/SampleForViewForRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348213120.084072
+e348213121.304518
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@107"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m348213120#348213121#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m8605662976#2554"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321353261.155047
+e321353261.271973
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m321353261#321353261#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m8607668512#2621"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/SampleForViewForRow.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/SampleForViewForRow.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjChangeWidthAndHeight.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjChangeWidthAndHeight.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350471522.910713
+e350471523.050781
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjChangeWidthAndHeight.o
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjChangeWidthAndHeight.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@100"Compile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjChangeWidthAndHeight.m350471522#350471523#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#92"/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjChangeWidthAndHeight.m8629112192#2396"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjChangeWidthAndHeight.m -o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjChangeWidthAndHeight.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjPickerView.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjPickerView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350471523.050881
+e350471523.144120
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjPickerView.o
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjPickerView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@90"Compile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjPickerView.m350471523#350471523#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#82"/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjPickerView.m8635998560#2376"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjPickerView.m -o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjPickerView.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjSelectedRow.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjSelectedRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350471523.076466
+e350471523.176560
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjSelectedRow.o
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjSelectedRow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@91"Compile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjSelectedRow.m350471523#350471523#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#83"/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjSelectedRow.m8632230912#2378"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjSelectedRow.m -o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjSelectedRow.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjViewForRow.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjViewForRow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350471523.146538
+e350471523.238572
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjViewForRow.o
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjViewForRow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@90"Compile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjViewForRow.m350471523#350471523#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#82"/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjViewForRow.m8609572160#2376"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIKitPrjViewForRow.m -o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIKitPrjViewForRow.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350471522.815217
+e350471522.910614
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@101"Compile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m350471522#350471522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#93"/wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m8631133216#2398"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m -o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348198208.768654
+e348198208.978811
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m348198208#348198208#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m8602969856#2574"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321353260.993281
+e321353261.073744
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m321353260#321353261#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m8612722464#2641"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Classes/UIPickerViewSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSampleAppDelegate.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350471522.801866
+e350471522.909054
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@68"Compile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/main.m350471522#350471522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#60"/wang/book/iphone3/source/Chapter4/UIPickerViewSample/main.m8632204928#2340"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UIPickerViewSample/main.m -o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348198208.767575
+e348198208.966303
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@84"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/main.m348198208#348198208#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#76"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/main.m6229152746510569472#2516"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321353260.992032
+e321353261.050623
+r1
+xCompileC
+xbuild/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/main.m321353260#321353261#0(0"0(0#0#87"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/main.m8615976544#2583"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/Dog.png Images/Dog.png
+s321353260.206449
+e321353260.228123
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIPickerViewSample.app/Dog.png
+xImages/Dog.png
+lSLF07#2@19"Copy Images/Dog.png321353260#321353260#0(0"0(0#0#95"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Dog.png8608694784#595"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Dog.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/Elephant.png Images/Elephant.png
+s321353260.213516
+e321353260.227015
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIPickerViewSample.app/Elephant.png
+xImages/Elephant.png
+lSLF07#2@24"Copy Images/Elephant.png321353260#321353260#0(0"0(0#0#100"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Elephant.png8598698304#600"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Elephant.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/Lion.png Images/Lion.png
+s321353260.215323
+e321353260.227147
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIPickerViewSample.app/Lion.png
+xImages/Lion.png
+lSLF07#2@20"Copy Images/Lion.png321353260#321353260#0(0"0(0#0#96"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Lion.png8630635872#596"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Lion.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/Monkey.png Images/Monkey.png
+s321353260.216934
+e321353260.228592
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIPickerViewSample.app/Monkey.png
+xImages/Monkey.png
+lSLF07#2@22"Copy Images/Monkey.png321353260#321353260#0(0"0(0#0#98"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Monkey.png8630165440#598"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Monkey.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UIPickerViewSample.app/check.png Images/check.png
+s321353260.218770
+e321353260.229376
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIPickerViewSample.app/check.png
+xImages/check.png
+lSLF07#2@21"Copy Images/check.png321353260#321353260#0(0"0(0#0#97"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/check.png8628874528#597"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/check.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app0#
+
+CGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+s350471523.540776
+e350471523.739707
+r1
+xGenerateDSYMFile
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample350471523#350471523#0(0"0(0#0#123"/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample8633768096#461"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample -o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+s348213122.846751
+e348213123.028836
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample348213122#348213123#0(0"0(0#0#139"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample8605640224#509"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+s321353798.909873
+e321353798.937702
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample321353798#321353798#0(0"0(0#0#150"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample8607674048#542"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app.dSYM0#
+
+CLd /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample normal i386
+s350471523.238684
+e350471523.540654
+r1
+xLd
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+xnormal
+xi386
+lSLF07#2@128"Link /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample350471523#350471523#0(0"0(0#0#0"8635251008#1030"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -F/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -filelist /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample normal i386
+s348213121.498980
+e348213122.846598
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+xnormal
+xi386
+lSLF07#2@144"Link /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample348213121#348213123#0(0"0(0#0#0"8606282688#1110"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample normal i386
+s321353798.880870
+e321353798.909771
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample
+xnormal
+xi386
+lSLF07#2@155"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample321353798#321353798#0(0"0(0#0#0"8623827744#1165"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/Objects-normal/i386/UIPickerViewSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/UIPickerViewSample0#
+
+CProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Info.plist UIPickerViewSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Info.plist UIPickerViewSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Info.plist UIPickerViewSample-Info.plist
+s321353260.193807
+e321353260.206355
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Info.plist
+xUIPickerViewSample-Info.plist
+lSLF07#2@37"Process UIPickerViewSample-Info.plist321353260#321353260#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/UIPickerViewSample-Info.plist8612708928#638"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIPickerViewSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch.gch UIPickerViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321353260.229479
+e321353260.991911
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch.gch
+xUIPickerViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile UIPickerViewSample_Prefix.pch321353260#321353260#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/UIPickerViewSample_Prefix.pch8626148192#2422"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/UIPickerViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-ejklcfuzzyflrqgmwmqajbgmztdi/UIPickerViewSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch.gch UIPickerViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350471521.584873
+e350471522.801608
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch.gch
+xUIPickerViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@40"Precompile UIPickerViewSample_Prefix.pch350471521#350471522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#83"/wang/book/iphone3/source/Chapter4/UIPickerViewSample/UIPickerViewSample_Prefix.pch8629694432#2206"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -c /wang/book/iphone3/source/Chapter4/UIPickerViewSample/UIPickerViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-fwprmuzelyustshkdnxlwghrslkp/UIPickerViewSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch.gch UIPickerViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s348198206.432986
+e348198208.767381
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch.gch
+xUIPickerViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@40"Precompile UIPickerViewSample_Prefix.pch348198206#348198208#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/UIPickerViewSample_Prefix.pch7590380001898489856#2366"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/UIPickerViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/UIPickerViewSample.build/Debug-iphonesimulator/UIPickerViewSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/UIPickerViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIPickerViewSample_Prefix-gshhghnppwskthhawgehtydtatul/UIPickerViewSample_Prefix.pch.gch0#
+
+CTouch /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+s350471523.739793
+e350471523.751064
+r1
+xTouch
+x/wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+lSLF07#2@110"Touch /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app350471523#350471523#0(0"0(0#0#0"8632552064#319"    cd /wang/book/iphone3/source/Chapter4/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/book/iphone3/source/Chapter4/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+s348213123.028920
+e348213123.080863
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+lSLF07#2@126"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app348213123#348213123#0(0"0(0#0#0"8603904064#351"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+s321353798.937799
+e321353798.940307
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app
+lSLF07#2@137"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app321353798#321353798#0(0"0(0#0#0"8606861088#373"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug-iphonesimulator/UIPickerViewSample.app0#
+

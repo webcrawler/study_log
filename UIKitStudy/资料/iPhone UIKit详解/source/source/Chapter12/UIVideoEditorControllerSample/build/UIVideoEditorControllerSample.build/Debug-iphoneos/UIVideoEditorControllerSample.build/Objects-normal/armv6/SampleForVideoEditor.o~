@@ -1,0 +1,2 @@
+/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m: In function '-[SampleForVideoEditor video:didFinishSavingWithError:contextInfo:]':
+/wang/sample/iphone-uikit-sample/chinese/Chapter12/UIVideoEditorControllerSample/Classes/SampleForVideoEditor.m:75: warning: format not a string literal and no format arguments

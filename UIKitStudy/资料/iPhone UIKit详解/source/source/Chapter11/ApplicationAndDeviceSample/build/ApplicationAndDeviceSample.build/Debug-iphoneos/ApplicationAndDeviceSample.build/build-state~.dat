@@ -1,0 +1,825 @@
+TApplicationAndDeviceSample
+v7
+r0
+t350188514.541339
+cCheck dependencies
+cCpResource build/Debug-iphoneos/ApplicationAndDeviceSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Info.plist ApplicationAndDeviceSample-Info.plist
+cCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+cCopyPNGFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug1.png Images/bug1.png
+cCopyPNGFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug2.png Images/bug2.png
+cCopyPNGFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug3.png Images/bug3.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch.gch ApplicationAndDeviceSample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch.gch ApplicationAndDeviceSample_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBadge.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForLinks.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForProximityMonitoring.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBatteryMonitor.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForDeviceInfo.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForUniqueIdentifier.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForCopyAndPaste.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSample normal armv6
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBadge.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForLinks.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForProximityMonitoring.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBatteryMonitor.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForDeviceInfo.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForUniqueIdentifier.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForCopyAndPaste.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSample normal armv7
+cCreateUniversalBinary /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample normal "armv6 armv7"
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+cProcessProductPackaging "/Users/tiger/Library/MobileDevice/Provisioning Profiles/A02ACEEC-AE14-4FCB-A671-F10F8171F76A.mobileprovision" /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/embedded.mobileprovision
+cTouch /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample.xcent
+cCodeSign /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/tiger/Library/MobileDevice/Provisioning Profiles/A02ACEEC-AE14-4FCB-A671-F10F8171F76A.mobileprovision
+c000000004EE438C10000000000001C4E
+t1323579585
+s7246
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch.gch
+t1328495711
+s10184604
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch.gch
+t1328495711
+s10647452
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch
+c000000004B2383BE00000000000000DD
+t1260618686
+s221
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.h
+c000000004F094D5F0000000000000107
+t1326009695
+s263
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m
+c000000004F094DB000000000000004AE
+t1326009776
+s1198
+i"ApplicationAndDeviceSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.h
+c000000004F094D3F00000000000000BC
+t1326009663
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m
+c000000004F094D4E0000000000000A28
+t1326009678
+s2600
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.h
+c000000004F094D5300000000000000C8
+t1326009683
+s200
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m
+c000000004F094D5B000000000000064C
+t1326009691
+s1612
+i"SampleForBadge.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.h
+c000000004F094CD300000000000000C6
+t1326009555
+s198
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m
+c000000004F094CD70000000000000A33
+t1326009559
+s2611
+i"SampleForBatteryMonitor.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.h
+c000000004F094C3B00000000000000C0
+t1326009403
+s192
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m
+c000000004F094CBD0000000000000B88
+t1326009533
+s2952
+i"SampleForCopyAndPaste.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.h
+c000000004F094CCB00000000000000D2
+t1326009547
+s210
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m
+c000000004F094CCF000000000000066E
+t1326009551
+s1646
+i"SampleForDeviceInfo.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.h
+c000000004F094D3100000000000000CB
+t1326009649
+s203
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m
+c000000004F2F3AC200000000000009A9
+t1328495298
+s2473
+i"SampleForLinks.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.h
+c000000004F094CDB00000000000000CA
+t1326009563
+s202
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m
+c000000004F094D1E00000000000008F7
+t1326009630
+s2295
+i"SampleForProximityMonitoring.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.h
+c000000004F094CC200000000000000A3
+t1326009538
+s163
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m
+c000000004F094CC700000000000005B8
+t1326009543
+s1464
+i"SampleForUniqueIdentifier.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000132
+t1260618686
+s306
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug1.png
+c000000004B2383BE0000000000002028
+t1260618686
+s8232
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug2.png
+c000000004B2383BE00000000000039D8
+t1260618686
+s14808
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug3.png
+c000000004B2383BE0000000000002BBE
+t1260618686
+s11198
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000132
+t1260618686
+s306
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample.xcent
+t1328495713
+s424
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSample
+t1328495713
+s51108
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSample.LinkFileList
+c000000004F2F3C5D000000000000082D
+t1328495709
+s2093
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSampleAppDelegate.o
+t1328495711
+s54608
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/RootViewController.o
+t1328495711
+s48336
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBadge.o
+t1328495711
+s46596
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBatteryMonitor.o
+t1328495712
+s46996
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForCopyAndPaste.o
+t1328495712
+s51044
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForDeviceInfo.o
+t1328495712
+s43184
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForLinks.o
+t1328495712
+s46984
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForProximityMonitoring.o
+t1328495712
+s45160
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForUniqueIdentifier.o
+t1328495712
+s47092
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/main.o
+t1328495711
+s6744
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSample
+t1328495713
+s51296
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSample.LinkFileList
+c000000004F2F3C5D000000000000082D
+t1328495709
+s2093
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSampleAppDelegate.o
+t1328495712
+s54536
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/RootViewController.o
+t1328495712
+s48148
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBadge.o
+t1328495712
+s46496
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBatteryMonitor.o
+t1328495712
+s46756
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForCopyAndPaste.o
+t1328495713
+s50768
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForDeviceInfo.o
+t1328495712
+s43020
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForLinks.o
+t1328495712
+s46748
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForProximityMonitoring.o
+t1328495712
+s45060
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForUniqueIdentifier.o
+t1328495712
+s46984
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/main.o
+t1328495712
+s6712
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app
+t1328495714
+s476
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app.dSYM
+t1328495713
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+t1328495713
+s108640
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings
+t1328495710
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Info.plist
+t1328495709
+s995
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings
+t1328495710
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/PkgInfo
+t1328495709
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ResourceRules.plist
+t1328495709
+s485
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug1.png
+t1328495710
+s8240
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug2.png
+t1328495710
+s12992
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug3.png
+t1328495710
+s10362
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/embedded.mobileprovision
+t1328495713
+s7246
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m
+c000000004B2383BE000000000000019C
+t1260618686
+s412
+i<UIKit/UIKit.h>
+
+NApplicationAndDeviceSample-Info.plist
+c000000004F2F3B090000000000000424
+t1328495369
+s1060
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350188509#350188509#0(0"0(0#1#0"8618706784#0"0#
+
+CCodeSign /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app
+s350188513.987702
+e350188514.541297
+r1
+xCodeSign
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app
+lSLF07#2@60"CodeSign build/Debug-iphoneos/ApplicationAndDeviceSample.app350188513#350188514#0(0"0(0#0#129"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app8604000512#899"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: wang zhigang (2SB5DPBT38)" --resource-rules=/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ResourceRules.plist --entitlements /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample.xcent /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188511.781853
+e350188511.896222
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m350188511#350188511#0(0"0(0#0#125"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m8617610624#2607"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSampleAppDelegate.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188511.876456
+e350188511.967899
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m350188511#350188511#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m8613661600#2569"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBadge.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188511.896330
+e350188511.992975
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBadge.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m350188511#350188511#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m8619146176#2561"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBadge.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBatteryMonitor.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188512.054281
+e350188512.151289
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBatteryMonitor.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m350188512#350188512#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m8615301440#2579"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForBatteryMonitor.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForCopyAndPaste.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188512.182143
+e350188512.285590
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForCopyAndPaste.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m350188512#350188512#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m8617516096#2575"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForCopyAndPaste.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForDeviceInfo.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188512.082068
+e350188512.182035
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForDeviceInfo.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m350188512#350188512#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m8618804544#2571"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForDeviceInfo.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForLinks.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188511.968017
+e350188512.054170
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForLinks.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m350188511#350188512#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m8617722368#2561"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForLinks.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForProximityMonitoring.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188511.993080
+e350188512.081962
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForProximityMonitoring.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m350188511#350188512#0(0"0(0#0#116"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m8616069216#2589"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForProximityMonitoring.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForUniqueIdentifier.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188512.151398
+e350188512.233117
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForUniqueIdentifier.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m350188512#350188512#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m8618870208#2583"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/SampleForUniqueIdentifier.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188511.780478
+e350188511.876354
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m350188511#350188511#0(0"0(0#0#84"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m8598829568#2533"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.293371
+e350188512.375365
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m350188512#350188512#0(0"0(0#0#125"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m8606196640#2607"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/ApplicationAndDeviceSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSampleAppDelegate.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.375485
+e350188512.457453
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m350188512#350188512#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m8618552576#2569"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/RootViewController.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBadge.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.457579
+e350188512.543108
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBadge.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m350188512#350188512#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m8618923488#2561"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBadge.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBadge.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBatteryMonitor.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.714282
+e350188512.803322
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBatteryMonitor.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m350188512#350188512#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m8618481824#2579"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForBatteryMonitor.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForBatteryMonitor.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForCopyAndPaste.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.971143
+e350188513.062892
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForCopyAndPaste.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m350188512#350188513#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m8618755968#2575"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForCopyAndPaste.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForCopyAndPaste.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForDeviceInfo.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.803427
+e350188512.882901
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForDeviceInfo.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m350188512#350188512#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m8618733664#2571"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForDeviceInfo.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForDeviceInfo.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForLinks.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.543247
+e350188512.637089
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForLinks.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m350188512#350188512#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m8618797728#2561"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForLinks.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForLinks.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForProximityMonitoring.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.637207
+e350188512.714170
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForProximityMonitoring.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m350188512#350188512#0(0"0(0#0#116"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m8618820288#2589"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForProximityMonitoring.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForProximityMonitoring.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForUniqueIdentifier.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.883166
+e350188512.971041
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForUniqueIdentifier.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m350188512#350188512#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m8615621760#2583"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Classes/SampleForUniqueIdentifier.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/SampleForUniqueIdentifier.o0#
+
+CCompileC build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188512.233226
+e350188512.293271
+r1
+xCompileC
+xbuild/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m350188512#350188512#0(0"0(0#0#84"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m8616056864#2533"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/main.o0#
+
+CCopyPNGFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug1.png Images/bug1.png
+s350188510.033992
+e350188510.523551
+r1
+xCopyPNGFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug1.png
+xImages/bug1.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug1.png Images/bug1.png350188510#350188510#0(0"0(0#0#93"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug1.png8618930336#599"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug1.png /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug1.png0#
+
+CCopyPNGFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug2.png Images/bug2.png
+s350188510.049141
+e350188510.529029
+r1
+xCopyPNGFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug2.png
+xImages/bug2.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug2.png Images/bug2.png350188510#350188510#0(0"0(0#0#93"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug2.png8618820544#599"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug2.png /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug2.png0#
+
+CCopyPNGFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug3.png Images/bug3.png
+s350188510.523643
+e350188510.560165
+r1
+xCopyPNGFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug3.png
+xImages/bug3.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug3.png Images/bug3.png350188510#350188510#0(0"0(0#0#93"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug3.png8619036064#599"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Images/bug3.png /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/bug3.png0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s350188509.843318
+e350188510.049041
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings350188509#350188510#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/English.lproj/InfoPlist.strings32651591222689908#577"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/English.lproj0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+s350188509.844807
+e350188510.033896
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Japanese.lproj/InfoPlist.strings
+xJapanese.lproj/InfoPlist.strings
+oJapanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@37"Copy Japanese.lproj/InfoPlist.strings350188509#350188510#0(134"Japanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#110"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/Japanese.lproj/InfoPlist.strings8620427296#578"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Japanese.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Japanese.lproj0#
+
+CCpResource build/Debug-iphoneos/ApplicationAndDeviceSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s350188509.796698
+e350188509.843031
+r1
+xCpResource
+xbuild/Debug-iphoneos/ApplicationAndDeviceSample.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist350188509#350188509#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8616066048#591"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app0#
+
+CCreateUniversalBinary /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample normal "armv6 armv7"
+s350188513.761245
+e350188513.800685
+r1
+xCreateUniversalBinary
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+xnormal
+xarmv6 armv7
+lSLF07#2@121"CreateUniversalBinary build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample normal "armv6 armv7"350188513#350188513#0(0"0(0#0#89"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/armv6 armv78618862336#826"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSample /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSample -output /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+s350188513.800805
+e350188513.953217
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample
+lSLF07#2@152"GenerateDSYMFile build/Debug-iphoneos/ApplicationAndDeviceSample.app.dSYM build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample350188513#350188513#0(0"0(0#0#156"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample8613852448#536"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ApplicationAndDeviceSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSample normal armv6
+s350188512.285683
+e350188513.759632
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSample
+xnormal
+xarmv6
+lSLF07#2@217"Link /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSample350188512#350188513#0(0"0(0#0#0"8613722976#1168"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSample.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv6/ApplicationAndDeviceSample0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSample normal armv7
+s350188513.063005
+e350188513.761150
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSample
+xnormal
+xarmv7
+lSLF07#2@217"Link /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSample350188513#350188513#0(0"0(0#0#0"8618695648#1168"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSample.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/Objects-normal/armv7/ApplicationAndDeviceSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Info.plist ApplicationAndDeviceSample-Info.plist
+s350188509.797928
+e350188509.820431
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Info.plist
+xApplicationAndDeviceSample-Info.plist
+lSLF07#2@45"Process ApplicationAndDeviceSample-Info.plist350188509#350188509#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample-Info.plist8615983584#794"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ApplicationAndDeviceSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/ResourceRules.plist -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch.gch ApplicationAndDeviceSample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s350188510.560348
+e350188511.577585
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch.gch
+xApplicationAndDeviceSample_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Precompile ApplicationAndDeviceSample_Prefix.pch350188510#350188511#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch8618958016#2373"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv6 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-cccswsvlscdemuczrohdkpuojqei/ApplicationAndDeviceSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch.gch ApplicationAndDeviceSample_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s350188510.561256
+e350188511.780339
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch.gch
+xApplicationAndDeviceSample_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Precompile ApplicationAndDeviceSample_Prefix.pch350188510#350188511#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch8617502720#2373"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources/armv7 -I/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/ApplicationAndDeviceSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationAndDeviceSample_Prefix-ckcopdsizojrufguagiylmqqfdvo/ApplicationAndDeviceSample_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/tiger/Library/MobileDevice/Provisioning Profiles/A02ACEEC-AE14-4FCB-A671-F10F8171F76A.mobileprovision" /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/embedded.mobileprovision
+s350188513.953331
+e350188513.970726
+r1
+xProcessProductPackaging
+x/Users/tiger/Library/MobileDevice/Provisioning Profiles/A02ACEEC-AE14-4FCB-A671-F10F8171F76A.mobileprovision
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/embedded.mobileprovision
+lSLF07#2@211"ProcessProductPackaging "/Users/tiger/Library/MobileDevice/Provisioning Profiles/A02ACEEC-AE14-4FCB-A671-F10F8171F76A.mobileprovision" build/Debug-iphoneos/ApplicationAndDeviceSample.app/embedded.mobileprovision350188513#350188513#0(0"0(0#0#154"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/embedded.mobileprovision8618812256#520"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/tiger/Library/MobileDevice/Provisioning Profiles/A02ACEEC-AE14-4FCB-A671-F10F8171F76A.mobileprovision" -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample.xcent
+s350188513.973967
+e350188513.987532
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample.xcent
+lSLF07#2@232"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample.xcent350188513#350188513#0(0"0(0#0#197"/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample.xcent8614898560#567"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/ApplicationAndDeviceSample.build/Debug-iphoneos/ApplicationAndDeviceSample.build/ApplicationAndDeviceSample.xcent0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app
+s350188513.970807
+e350188513.973878
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app
+lSLF07#2@135"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app350188513#350188513#0(0"0(0#0#0"8617891136#361"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter11/ApplicationAndDeviceSample/build/Debug-iphoneos/ApplicationAndDeviceSample.app0#
+

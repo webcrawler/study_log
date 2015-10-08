@@ -1,0 +1,27 @@
+THelloWorld
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/HelloWorld3/build/Debug/HelloWorld.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/HelloWorld3/build/Debug/HelloWorld.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/HelloWorld3/build/Debug/HelloWorld.app/Contents/PkgInfo
+t2
+s0
+
+NHelloWorld-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/HelloWorld3/build/Debug/HelloWorld.app/Contents/Info.plist" HelloWorld-Info.plist
+r0
+
+CTouch "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/HelloWorld3/build/Debug/HelloWorld.app"
+r0
+

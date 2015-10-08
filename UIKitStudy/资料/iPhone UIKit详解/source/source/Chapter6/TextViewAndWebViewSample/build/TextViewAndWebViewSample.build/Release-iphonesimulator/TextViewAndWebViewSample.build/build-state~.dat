@@ -1,0 +1,1276 @@
+TTextViewAndWebViewSample
+v7
+r0
+t349843439.051858
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Info.plist TextViewAndWebViewSample-Info.plist
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.mobile-1.0.min.js Resources/js/jquery.mobile-1.0.min.js
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.js Resources/js/jquery.js
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/iphone.js Resources/js/iphone.js
+cCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/sample.doc Resources/sample.doc
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/dog.jpg Resources/dog.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/sample.pdf Resources/sample.pdf
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/page1.htm Resources/page1.htm
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/top.htm Resources/top.htm
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/page2.htm Resources/page2.htm
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/page3.htm Resources/page3.htm
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/cache.manifest Resources/cache.manifest
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/iphone.css Resources/css/iphone.css
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.mobile-1.0.min.css Resources/css/jquery.mobile-1.0.min.css
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/bg_footer.png Resources/img/bg_footer.png
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/bg_header.png Resources/img/bg_header.png
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/footer.png Resources/img/footer.png
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/home.png Resources/img/home.png
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/ico_home.png Resources/img/ico_home.png
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/ico_next.png Resources/img/ico_next.png
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_almond.jpg Resources/img/img_almond.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_blackpepper.jpg Resources/img/img_blackpepper.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_cashew.jpg Resources/img/img_cashew.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_coriander.jpg Resources/img/img_coriander.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_cumin.jpg Resources/img/img_cumin.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_dining.jpg Resources/img/img_dining.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_hazel.jpg Resources/img/img_hazel.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_nuts.jpg Resources/img/img_nuts.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_pistachio.jpg Resources/img/img_pistachio.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_sesame.jpg Resources/img/img_sesame.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_spice.jpg Resources/img/img_spice.jpg
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/logo.png Resources/img/logo.png
+cCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/index.html Resources/index.html
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch.gch TextViewAndWebViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample normal i386
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+cTouch /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch.gch
+t1328150637
+s15465904
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-flrpgvjvkldtjfdybkxoxfsulyvz/TextViewAndWebViewSample_Prefix.pch.gch
+t1325549789
+s14875664
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.h
+c000000004F08086D00000000000000BC
+t1325926509
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m
+c000000004F0808720000000000000B72
+t1325926514
+s2930
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.h
+c000000004F08085100000000000000A5
+t1325926481
+s165
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m
+c000000004F28CA8900000000000002F6
+t1328073353
+s758
+i"SampleForDataDetectorTypes.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.h
+c000000004F08086000000000000000DF
+t1325926496
+s223
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m
+c000000004F0811330000000000000BEA
+t1325928755
+s3050
+i"SampleForEditableTextView.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.h
+c000000004F08080F0000000000000100
+t1325926415
+s256
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m
+c000000004F080D9B0000000000000D85
+t1325927835
+s3461
+i"SampleForHTMLViewer.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.h
+c000000004F08084700000000000000BA
+t1325926471
+s186
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m
+c000000004F29001B0000000000001C25
+t1328087067
+s7205
+i"SampleForKeyboard.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.h
+c000000004F08082400000000000000D8
+t1325926436
+s216
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m
+c000000004F080DC2000000000000038A
+t1325927874
+s906
+i"SampleForLoadHTMLString.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.h
+c000000004F08083700000000000000CA
+t1325926455
+s202
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m
+c000000004F080E930000000000000317
+t1325928083
+s791
+i"SampleForSecureTextEntry.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.h
+c000000004F0808760000000000000093
+t1325926518
+s147
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m
+c000000004F27F764000000000000042B
+t1328019300
+s1067
+i"SampleForTextView.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.h
+c000000004F08083F00000000000000E1
+t1325926463
+s225
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m
+c000000004F080FA60000000000000E10
+t1325928358
+s3600
+i"SampleForTextViewObserving.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.h
+c000000004F08082D000000000000014F
+t1325926445
+s335
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m
+c000000004F29F5CF0000000000000D8A
+t1328149967
+s3466
+i"SampleForWebView.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.h
+c000000004F08081B0000000000000109
+t1325926427
+s265
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m
+c000000004F080DAD00000000000009EF
+t1325927853
+s2543
+i"SampleForWebViewLoadData.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.h
+c000000004F0808040000000000000105
+t1325926404
+s261
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m
+c000000004F295A7A0000000000000E3F
+t1328110202
+s3647
+i"SampleForWebViewSimple.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.h
+c000000004F08085900000000000000D8
+t1325926489
+s216
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m
+c000000004F08109B0000000000001018
+t1325928603
+s4120
+i"SampleForWorkingWithTheSelection.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.h
+c000000004F08087E0000000000000102
+t1325926526
+s258
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m
+c000000004F080882000000000000030F
+t1325926530
+s783
+i"TextViewAndWebViewSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000190
+t1260618686
+s400
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000192
+t1260618686
+s402
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/cache.manifest
+c000000004F01B69D0000000000000095
+t1325512349
+s149
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/css/iphone.css
+c000000004CCD5E6E0000000000000AE2
+t1288527470
+s2786
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/css/jquery.mobile-1.0.min.css
+c000000004ECB3DCA000000000000C000
+t1321942474
+s49152
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/dog.jpg
+c000000004B2383BE00000000000031DE
+t1260618686
+s12766
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/bg_footer.png
+c000000004C3031E800000000000002E6
+t1278226920
+s742
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/bg_header.png
+c000000004C30318800000000000002DC
+t1278226824
+s732
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/footer.png
+c000000004C3031DC00000000000002E6
+t1278226908
+s742
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/home.png
+c000000004C30482E0000000000002789
+t1278232622
+s10121
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/ico_home.png
+c000000004C304DDE0000000000000132
+t1278234078
+s306
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/ico_next.png
+c000000004C304DEC00000000000000F9
+t1278234092
+s249
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_almond.jpg
+c000000004C31D04A000000000000278F
+t1278333002
+s10127
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_blackpepper.jpg
+c000000004C31CFDC00000000000032DD
+t1278332892
+s13021
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_cashew.jpg
+c000000004C31D03000000000000026E7
+t1278332976
+s9959
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_coriander.jpg
+c000000004C31CFF200000000000033A3
+t1278332914
+s13219
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_cumin.jpg
+c000000004C31CFCA000000000000388B
+t1278332874
+s14475
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_dining.jpg
+c000000004C303FB20000000000001E75
+t1278230450
+s7797
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_hazel.jpg
+c000000004C31D0840000000000002B75
+t1278333060
+s11125
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_nuts.jpg
+c000000004C303F900000000000000E6B
+t1278230416
+s3691
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_pistachio.jpg
+c000000004C31D0580000000000002DA0
+t1278333016
+s11680
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_sesame.jpg
+c000000004C31CFC20000000000003557
+t1278332866
+s13655
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_spice.jpg
+c000000004C303F9E00000000000016B7
+t1278230430
+s5815
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/logo.png
+c000000004C302E8600000000000021C2
+t1278226054
+s8642
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/index.html
+c000000004F0246970000000000001396
+t1325549207
+s5014
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/js/iphone.js
+c000000004C3047140000000000000087
+t1278232340
+s135
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/js/jquery.js
+c000000004ECB3DCA000000000003A250
+t1321942474
+s238160
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/js/jquery.mobile-1.0.min.js
+c000000004ECB3DCA0000000000013FEF
+t1321942474
+s81903
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page1.htm
+c000000004F01C7530000000000000122
+t1325516627
+s290
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page2.htm
+c000000004F01CAD60000000000000144
+t1325517526
+s324
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page3.htm
+c000000004F01CAFA000000000000017D
+t1325517562
+s381
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/sample.doc
+c000000004F29F83D0000000000007200
+t1328150589
+s29184
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/sample.pdf
+c000000004DB7AB980000000000070EBD
+t1303882648
+s462525
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/top.htm
+c000000004F01C71C0000000000000195
+t1325516572
+s405
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch
+c000000004B2383BE00000000000000D9
+t1260618686
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app
+t1328150639
+s1326
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app.dSYM
+t1328150639
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings
+t1328150636
+s95
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Info.plist
+t1328150635
+s613
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings
+t1328150636
+s121
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/PkgInfo
+t1328150635
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+t1328150638
+s76368
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/bg_footer.png
+t1328150636
+s742
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/bg_header.png
+t1328150636
+s732
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/cache.manifest
+t1328150636
+s149
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/dog.jpg
+t1328150636
+s12766
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/footer.png
+t1328150636
+s742
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/home.png
+t1328150636
+s10121
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/ico_home.png
+t1328150636
+s306
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/ico_next.png
+t1328150636
+s249
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_almond.jpg
+t1328150636
+s10127
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_blackpepper.jpg
+t1328150636
+s13021
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_cashew.jpg
+t1328150636
+s9959
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_coriander.jpg
+t1328150636
+s13219
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_cumin.jpg
+t1328150636
+s14475
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_dining.jpg
+t1328150636
+s7797
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_hazel.jpg
+t1328150636
+s11125
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_nuts.jpg
+t1328150636
+s3691
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_pistachio.jpg
+t1328150636
+s11680
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_sesame.jpg
+t1328150636
+s13655
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_spice.jpg
+t1328150636
+s5815
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/index.html
+t1328150636
+s5014
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/iphone.css
+t1328150636
+s2786
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/iphone.js
+t1328150635
+s135
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.js
+t1328150635
+s238160
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.mobile-1.0.min.css
+t1328150636
+s49152
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.mobile-1.0.min.js
+t1328150635
+s81903
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/logo.png
+t1328150636
+s8642
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/page1.htm
+t1328150636
+s290
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/page2.htm
+t1328150636
+s324
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/page3.htm
+t1328150636
+s381
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/sample.doc
+t1328150636
+s29184
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/sample.pdf
+t1328150636
+s462525
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/top.htm
+t1328150636
+s405
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o
+t1328150637
+s48292
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o
+t1328150638
+s40324
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o
+t1328150638
+s51200
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o
+t1328150638
+s57072
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o
+t1328150638
+s53836
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o
+t1328150638
+s42880
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o
+t1328150638
+s40600
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o
+t1328150637
+s40232
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o
+t1328150638
+s53552
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o
+t1328150638
+s54352
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o
+t1328150638
+s49036
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o
+t1328150638
+s47596
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o
+t1328150638
+s54752
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSample.LinkFileList
+c000000004F29F86B0000000000000C6A
+t1328150635
+s3178
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o
+t1328150637
+s50512
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o
+t1328150637
+s6560
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/main.m
+c000000004B2383BE0000000000000197
+t1260618686
+s407
+i<UIKit/UIKit.h>
+
+NTextViewAndWebViewSample-Info.plist
+c000000004F28CBD5000000000000033A
+t1328073685
+s826
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349843435#349843435#0(0"0(0#1#0"8608443456#0"0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843437.822372
+e349843437.973967
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m349843437#349843437#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m8602719200#2721"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843438.159262
+e349843438.253850
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m349843438#349843438#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m8602318272#2737"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForDataDetectorTypes.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForDataDetectorTypes.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843437.957778
+e349843438.161852
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m349843437#349843438#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m8606182272#2735"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForEditableTextView.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForEditableTextView.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843438.627186
+e349843438.803192
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m349843438#349843438#0(0"0(0#0#104"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m8609235360#2723"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForHTMLViewer.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForHTMLViewer.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843438.161950
+e349843438.411613
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m349843438#349843438#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m8601972512#2719"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForKeyboard.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForKeyboard.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843438.507908
+e349843438.627085
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m349843438#349843438#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m8603185120#2731"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForLoadHTMLString.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForLoadHTMLString.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843438.411712
+e349843438.507804
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m349843438#349843438#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m8604392256#2733"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForSecureTextEntry.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForSecureTextEntry.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843437.871514
+e349843437.957658
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m349843437#349843437#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m8609679200#2719"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextView.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextView.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843438.253951
+e349843438.431858
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m349843438#349843438#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m8607800768#2737"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForTextViewObserving.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForTextViewObserving.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843438.431968
+e349843438.615806
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m349843438#349843438#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m8604168832#2717"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebView.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebView.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843438.615908
+e349843438.774509
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m349843438#349843438#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m8609523328#2733"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewLoadData.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewLoadData.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843438.774618
+e349843438.911580
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m349843438#349843438#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m8609755712#2729"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWebViewSimple.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWebViewSimple.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843437.974150
+e349843438.159159
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m349843437#349843438#0(0"0(0#0#117"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m8606095136#2749"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/SampleForWorkingWithTheSelection.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/SampleForWorkingWithTheSelection.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843437.762498
+e349843437.871404
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m349843437#349843437#0(0"0(0#0#120"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m8609224064#2755"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Classes/TextViewAndWebViewSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSampleAppDelegate.o0#
+
+CCompileC build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843437.760802
+e349843437.822274
+r1
+xCompileC
+xbuild/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/main.m349843437#349843437#0(0"0(0#0#81"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/main.m8604049504#2685"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s349843435.630738
+e349843436.236923
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings349843435#349843436#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/English.lproj/InfoPlist.strings8602233408#585"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/English.lproj0#
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+s349843435.703539
+e349843436.268539
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj/InfoPlist.strings
+xJapanese.lproj/InfoPlist.strings
+oJapanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@37"Copy Japanese.lproj/InfoPlist.strings349843435#349843436#0(134"Japanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#107"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Japanese.lproj/InfoPlist.strings8609766464#586"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Japanese.lproj/InfoPlist.strings --outdir /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Japanese.lproj0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/bg_footer.png Resources/img/bg_footer.png
+s349843436.274348
+e349843436.310401
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/bg_footer.png
+xResources/img/bg_footer.png
+lSLF07#2@32"Copy Resources/img/bg_footer.png349843436#349843436#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/bg_footer.png8606248608#633"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/bg_footer.png /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/bg_header.png Resources/img/bg_header.png
+s349843436.281704
+e349843436.310525
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/bg_header.png
+xResources/img/bg_header.png
+lSLF07#2@32"Copy Resources/img/bg_header.png349843436#349843436#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/bg_header.png8606187104#633"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/bg_header.png /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/cache.manifest Resources/cache.manifest
+s349843436.241039
+e349843436.310847
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/cache.manifest
+xResources/cache.manifest
+lSLF07#2@29"Copy Resources/cache.manifest349843436#349843436#0(0"0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/cache.manifest8606575040#630"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/cache.manifest /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/dog.jpg Resources/dog.jpg
+s349843436.237691
+e349843436.274121
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/dog.jpg
+xResources/dog.jpg
+lSLF07#2@22"Copy Resources/dog.jpg349843436#349843436#0(0"0(0#0#92"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/dog.jpg8608351136#623"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/dog.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/footer.png Resources/img/footer.png
+s349843436.282547
+e349843436.310635
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/footer.png
+xResources/img/footer.png
+lSLF07#2@29"Copy Resources/img/footer.png349843436#349843436#0(0"0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/footer.png8605968672#630"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/footer.png /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/home.png Resources/img/home.png
+s349843436.284410
+e349843436.310743
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/home.png
+xResources/img/home.png
+lSLF07#2@27"Copy Resources/img/home.png349843436#349843436#0(0"0(0#0#97"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/home.png8604299424#628"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/home.png /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/ico_home.png Resources/img/ico_home.png
+s349843436.308780
+e349843436.339355
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/ico_home.png
+xResources/img/ico_home.png
+lSLF07#2@31"Copy Resources/img/ico_home.png349843436#349843436#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/ico_home.png8603820864#632"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/ico_home.png /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/ico_next.png Resources/img/ico_next.png
+s349843436.310916
+e349843436.338713
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/ico_next.png
+xResources/img/ico_next.png
+lSLF07#2@31"Copy Resources/img/ico_next.png349843436#349843436#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/ico_next.png8603371712#632"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/ico_next.png /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_almond.jpg Resources/img/img_almond.jpg
+s349843436.314535
+e349843436.338818
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_almond.jpg
+xResources/img/img_almond.jpg
+lSLF07#2@33"Copy Resources/img/img_almond.jpg349843436#349843436#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_almond.jpg8601880768#634"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_almond.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_blackpepper.jpg Resources/img/img_blackpepper.jpg
+s349843436.322892
+e349843436.338927
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_blackpepper.jpg
+xResources/img/img_blackpepper.jpg
+lSLF07#2@38"Copy Resources/img/img_blackpepper.jpg349843436#349843436#0(0"0(0#0#108"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_blackpepper.jpg8604022752#639"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_blackpepper.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_cashew.jpg Resources/img/img_cashew.jpg
+s349843436.324052
+e349843436.339142
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_cashew.jpg
+xResources/img/img_cashew.jpg
+lSLF07#2@33"Copy Resources/img/img_cashew.jpg349843436#349843436#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_cashew.jpg8601702176#634"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_cashew.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_coriander.jpg Resources/img/img_coriander.jpg
+s349843436.327938
+e349843436.339249
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_coriander.jpg
+xResources/img/img_coriander.jpg
+lSLF07#2@36"Copy Resources/img/img_coriander.jpg349843436#349843436#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_coriander.jpg8609786656#637"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_coriander.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_cumin.jpg Resources/img/img_cumin.jpg
+s349843436.330415
+e349843436.339034
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_cumin.jpg
+xResources/img/img_cumin.jpg
+lSLF07#2@32"Copy Resources/img/img_cumin.jpg349843436#349843436#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_cumin.jpg8609723296#633"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_cumin.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_dining.jpg Resources/img/img_dining.jpg
+s349843436.336885
+e349843436.357854
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_dining.jpg
+xResources/img/img_dining.jpg
+lSLF07#2@33"Copy Resources/img/img_dining.jpg349843436#349843436#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_dining.jpg8609223776#634"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_dining.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_hazel.jpg Resources/img/img_hazel.jpg
+s349843436.337895
+e349843436.358026
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_hazel.jpg
+xResources/img/img_hazel.jpg
+lSLF07#2@32"Copy Resources/img/img_hazel.jpg349843436#349843436#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_hazel.jpg8608977216#633"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_hazel.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_nuts.jpg Resources/img/img_nuts.jpg
+s349843436.339523
+e349843436.357209
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_nuts.jpg
+xResources/img/img_nuts.jpg
+lSLF07#2@31"Copy Resources/img/img_nuts.jpg349843436#349843436#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_nuts.jpg8607976448#632"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_nuts.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_pistachio.jpg Resources/img/img_pistachio.jpg
+s349843436.340125
+e349843436.357342
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_pistachio.jpg
+xResources/img/img_pistachio.jpg
+lSLF07#2@36"Copy Resources/img/img_pistachio.jpg349843436#349843436#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_pistachio.jpg8607854560#637"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_pistachio.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_sesame.jpg Resources/img/img_sesame.jpg
+s349843436.340694
+e349843436.357504
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_sesame.jpg
+xResources/img/img_sesame.jpg
+lSLF07#2@33"Copy Resources/img/img_sesame.jpg349843436#349843436#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_sesame.jpg8606625120#634"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_sesame.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/img_spice.jpg Resources/img/img_spice.jpg
+s349843436.341246
+e349843436.357629
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/img_spice.jpg
+xResources/img/img_spice.jpg
+lSLF07#2@32"Copy Resources/img/img_spice.jpg349843436#349843436#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_spice.jpg8606565024#633"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/img_spice.jpg /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/index.html Resources/index.html
+s349843436.342361
+e349843436.384483
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/index.html
+xResources/index.html
+lSLF07#2@25"Copy Resources/index.html349843436#349843436#0(0"0(0#0#95"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/index.html8606452448#626"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/index.html /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/iphone.css Resources/css/iphone.css
+s349843436.241607
+e349843436.308685
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/iphone.css
+xResources/css/iphone.css
+lSLF07#2@29"Copy Resources/css/iphone.css349843436#349843436#0(0"0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/css/iphone.css8606501344#630"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/css/iphone.css /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/iphone.js Resources/js/iphone.js
+s349843435.629702
+e349843435.690540
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/iphone.js
+xResources/js/iphone.js
+lSLF07#2@27"Copy Resources/js/iphone.js349843435#349843435#0(0"0(0#0#97"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/js/iphone.js8603371904#628"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/js/iphone.js /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.js Resources/js/jquery.js
+s349843435.616246
+e349843435.703425
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.js
+xResources/js/jquery.js
+lSLF07#2@27"Copy Resources/js/jquery.js349843435#349843435#0(0"0(0#0#97"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/js/jquery.js8603168608#628"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/js/jquery.js /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.mobile-1.0.min.css Resources/css/jquery.mobile-1.0.min.css
+s349843436.268663
+e349843436.338595
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.mobile-1.0.min.css
+xResources/css/jquery.mobile-1.0.min.css
+lSLF07#2@44"Copy Resources/css/jquery.mobile-1.0.min.css349843436#349843436#0(0"0(0#0#114"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/css/jquery.mobile-1.0.min.css8606392128#645"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/css/jquery.mobile-1.0.min.css /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.mobile-1.0.min.js Resources/js/jquery.mobile-1.0.min.js
+s349843435.615231
+e349843435.691097
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/jquery.mobile-1.0.min.js
+xResources/js/jquery.mobile-1.0.min.js
+lSLF07#2@42"Copy Resources/js/jquery.mobile-1.0.min.js349843435#349843435#0(0"0(0#0#112"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/js/jquery.mobile-1.0.min.js8604016064#643"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/js/jquery.mobile-1.0.min.js /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/logo.png Resources/img/logo.png
+s349843436.341795
+e349843436.357738
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/logo.png
+xResources/img/logo.png
+lSLF07#2@27"Copy Resources/img/logo.png349843436#349843436#0(0"0(0#0#97"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/logo.png8606519008#628"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/img/logo.png /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/page1.htm Resources/page1.htm
+s349843436.238809
+e349843436.330330
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/page1.htm
+xResources/page1.htm
+lSLF07#2@24"Copy Resources/page1.htm349843436#349843436#0(0"0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page1.htm8608016960#625"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page1.htm /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/page2.htm Resources/page2.htm
+s349843436.239907
+e349843436.336402
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/page2.htm
+xResources/page2.htm
+lSLF07#2@24"Copy Resources/page2.htm349843436#349843436#0(0"0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page2.htm8607881280#625"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page2.htm /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/page3.htm Resources/page3.htm
+s349843436.240474
+e349843436.336737
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/page3.htm
+xResources/page3.htm
+lSLF07#2@24"Copy Resources/page3.htm349843436#349843436#0(0"0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page3.htm8606681312#625"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/page3.htm /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/sample.doc Resources/sample.doc
+s349843436.237015
+e349843436.273966
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/sample.doc
+xResources/sample.doc
+lSLF07#2@25"Copy Resources/sample.doc349843436#349843436#0(0"0(0#0#95"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/sample.doc8608504160#626"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/sample.doc /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/sample.pdf Resources/sample.pdf
+s349843436.238257
+e349843436.274256
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/sample.pdf
+xResources/sample.pdf
+lSLF07#2@25"Copy Resources/sample.pdf349843436#349843436#0(0"0(0#0#95"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/sample.pdf8608157536#626"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/sample.pdf /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CCpResource build/Release-iphonesimulator/TextViewAndWebViewSample.app/top.htm Resources/top.htm
+s349843436.239352
+e349843436.284335
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TextViewAndWebViewSample.app/top.htm
+xResources/top.htm
+lSLF07#2@22"Copy Resources/top.htm349843436#349843436#0(0"0(0#0#92"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/top.htm8607947968#623"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/Resources/top.htm /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+s349843438.988313
+e349843439.047357
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+lSLF07#2@164"GenerateDSYMFile build/Release-iphonesimulator/TextViewAndWebViewSample.app.dSYM build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample349843438#349843439#0(0"0(0#0#158"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample8607978272#546"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample normal i386
+s349843438.911672
+e349843438.988195
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample
+xnormal
+xi386
+lSLF07#2@163"Link /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample349843438#349843438#0(0"0(0#0#0"8609292736#1173"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/Objects-normal/i386/TextViewAndWebViewSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/TextViewAndWebViewSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Info.plist TextViewAndWebViewSample-Info.plist
+s349843435.598434
+e349843435.615139
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Info.plist
+xTextViewAndWebViewSample-Info.plist
+lSLF07#2@43"Process TextViewAndWebViewSample-Info.plist349843435#349843435#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample-Info.plist8606135712#642"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TextViewAndWebViewSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch.gch TextViewAndWebViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s349843436.384614
+e349843437.760396
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch.gch
+xTextViewAndWebViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile TextViewAndWebViewSample_Prefix.pch349843436#349843437#0(0"0(0#0#110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch8604560640#2522"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-anncdfapzfxdnofpnfrchbyryjkq/TextViewAndWebViewSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-flrpgvjvkldtjfdybkxoxfsulyvz/TextViewAndWebViewSample_Prefix.pch.gch TextViewAndWebViewSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347242589.144525
+e347242589.973017
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-flrpgvjvkldtjfdybkxoxfsulyvz/TextViewAndWebViewSample_Prefix.pch.gch
+xTextViewAndWebViewSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@46"Precompile TextViewAndWebViewSample_Prefix.pch347242589#347242589#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#110"/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch8614659296#2563"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/TextViewAndWebViewSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/TextViewAndWebViewSample.build/Release-iphonesimulator/TextViewAndWebViewSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/TextViewAndWebViewSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextViewAndWebViewSample_Prefix-flrpgvjvkldtjfdybkxoxfsulyvz/TextViewAndWebViewSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app
+s349843439.047449
+e349843439.051808
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app
+lSLF07#2@139"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app349843439#349843439#0(0"0(0#0#0"8606313728#369"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter8/TextViewAndWebViewSample/build/Release-iphonesimulator/TextViewAndWebViewSample.app0#
+

@@ -1,0 +1,312 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		198ADA2114E3CA2500D239A7 /* UIKitPrjAddView.m in Sources */ = {isa = PBXBuildFile; fileRef = 198ADA1214E3CA2500D239A7 /* UIKitPrjAddView.m */; };
+		198ADA2214E3CA2500D239A7 /* UIKitPrjAdjustFontSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 198ADA1414E3CA2500D239A7 /* UIKitPrjAdjustFontSize.m */; };
+		198ADA2314E3CA2500D239A7 /* UIKitPrjBackground.m in Sources */ = {isa = PBXBuildFile; fileRef = 198ADA1614E3CA2500D239A7 /* UIKitPrjBackground.m */; };
+		198ADA2414E3CA2500D239A7 /* UIKitPrjChangeColorAndFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 198ADA1814E3CA2500D239A7 /* UIKitPrjChangeColorAndFont.m */; };
+		198ADA2514E3CA2500D239A7 /* UIKitPrjClearButtonMode.m in Sources */ = {isa = PBXBuildFile; fileRef = 198ADA1A14E3CA2500D239A7 /* UIKitPrjClearButtonMode.m */; };
+		198ADA2614E3CA2500D239A7 /* UIKitPrjObserving.m in Sources */ = {isa = PBXBuildFile; fileRef = 198ADA1C14E3CA2500D239A7 /* UIKitPrjObserving.m */; };
+		198ADA2714E3CA2500D239A7 /* UIKitPrjPlaceholder.m in Sources */ = {isa = PBXBuildFile; fileRef = 198ADA1E14E3CA2500D239A7 /* UIKitPrjPlaceholder.m */; };
+		198ADA2814E3CA2500D239A7 /* UIKitPrjSimple.m in Sources */ = {isa = PBXBuildFile; fileRef = 198ADA2014E3CA2500D239A7 /* UIKitPrjSimple.m */; };
+		1D3623260D0F684500981E51 /* UITextFieldSampleAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* UITextFieldSampleAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		5B3AFDBC1070A51C0038290C /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B3AFDB91070A51C0038290C /* RootViewController.m */; };
+		5BEB6FF01071DB71006000F1 /* paper.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BEB6FEF1071DB71006000F1 /* paper.png */; };
+		5BEB70051071E0DD006000F1 /* paperGray.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BEB70041071E0DD006000F1 /* paperGray.png */; };
+		5BEB70161071E383006000F1 /* leftDog.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BEB70141071E383006000F1 /* leftDog.png */; };
+		5BEB70171071E383006000F1 /* rightDog.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BEB70151071E383006000F1 /* rightDog.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		198ADA1114E3CA2500D239A7 /* UIKitPrjAddView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIKitPrjAddView.h; sourceTree = "<group>"; };
+		198ADA1214E3CA2500D239A7 /* UIKitPrjAddView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIKitPrjAddView.m; sourceTree = "<group>"; };
+		198ADA1314E3CA2500D239A7 /* UIKitPrjAdjustFontSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIKitPrjAdjustFontSize.h; sourceTree = "<group>"; };
+		198ADA1414E3CA2500D239A7 /* UIKitPrjAdjustFontSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIKitPrjAdjustFontSize.m; sourceTree = "<group>"; };
+		198ADA1514E3CA2500D239A7 /* UIKitPrjBackground.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIKitPrjBackground.h; sourceTree = "<group>"; };
+		198ADA1614E3CA2500D239A7 /* UIKitPrjBackground.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIKitPrjBackground.m; sourceTree = "<group>"; };
+		198ADA1714E3CA2500D239A7 /* UIKitPrjChangeColorAndFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIKitPrjChangeColorAndFont.h; sourceTree = "<group>"; };
+		198ADA1814E3CA2500D239A7 /* UIKitPrjChangeColorAndFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIKitPrjChangeColorAndFont.m; sourceTree = "<group>"; };
+		198ADA1914E3CA2500D239A7 /* UIKitPrjClearButtonMode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIKitPrjClearButtonMode.h; sourceTree = "<group>"; };
+		198ADA1A14E3CA2500D239A7 /* UIKitPrjClearButtonMode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIKitPrjClearButtonMode.m; sourceTree = "<group>"; };
+		198ADA1B14E3CA2500D239A7 /* UIKitPrjObserving.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIKitPrjObserving.h; sourceTree = "<group>"; };
+		198ADA1C14E3CA2500D239A7 /* UIKitPrjObserving.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIKitPrjObserving.m; sourceTree = "<group>"; };
+		198ADA1D14E3CA2500D239A7 /* UIKitPrjPlaceholder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIKitPrjPlaceholder.h; sourceTree = "<group>"; };
+		198ADA1E14E3CA2500D239A7 /* UIKitPrjPlaceholder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIKitPrjPlaceholder.m; sourceTree = "<group>"; };
+		198ADA1F14E3CA2500D239A7 /* UIKitPrjSimple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIKitPrjSimple.h; sourceTree = "<group>"; };
+		198ADA2014E3CA2500D239A7 /* UIKitPrjSimple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIKitPrjSimple.m; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* UITextFieldSampleAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UITextFieldSampleAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* UITextFieldSampleAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UITextFieldSampleAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* UITextFieldSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITextFieldSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* UITextFieldSample_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UITextFieldSample_Prefix.pch; sourceTree = "<group>"; };
+		5B3AFDB81070A51C0038290C /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		5B3AFDB91070A51C0038290C /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		5BEB6FEF1071DB71006000F1 /* paper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = paper.png; path = Images/paper.png; sourceTree = "<group>"; };
+		5BEB70041071E0DD006000F1 /* paperGray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = paperGray.png; path = Images/paperGray.png; sourceTree = "<group>"; };
+		5BEB70141071E383006000F1 /* leftDog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = leftDog.png; path = Images/leftDog.png; sourceTree = "<group>"; };
+		5BEB70151071E383006000F1 /* rightDog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rightDog.png; path = Images/rightDog.png; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* UITextFieldSample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UITextFieldSample-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				198ADA1114E3CA2500D239A7 /* UIKitPrjAddView.h */,
+				198ADA1214E3CA2500D239A7 /* UIKitPrjAddView.m */,
+				198ADA1314E3CA2500D239A7 /* UIKitPrjAdjustFontSize.h */,
+				198ADA1414E3CA2500D239A7 /* UIKitPrjAdjustFontSize.m */,
+				198ADA1514E3CA2500D239A7 /* UIKitPrjBackground.h */,
+				198ADA1614E3CA2500D239A7 /* UIKitPrjBackground.m */,
+				198ADA1714E3CA2500D239A7 /* UIKitPrjChangeColorAndFont.h */,
+				198ADA1814E3CA2500D239A7 /* UIKitPrjChangeColorAndFont.m */,
+				198ADA1914E3CA2500D239A7 /* UIKitPrjClearButtonMode.h */,
+				198ADA1A14E3CA2500D239A7 /* UIKitPrjClearButtonMode.m */,
+				198ADA1B14E3CA2500D239A7 /* UIKitPrjObserving.h */,
+				198ADA1C14E3CA2500D239A7 /* UIKitPrjObserving.m */,
+				198ADA1D14E3CA2500D239A7 /* UIKitPrjPlaceholder.h */,
+				198ADA1E14E3CA2500D239A7 /* UIKitPrjPlaceholder.m */,
+				198ADA1F14E3CA2500D239A7 /* UIKitPrjSimple.h */,
+				198ADA2014E3CA2500D239A7 /* UIKitPrjSimple.m */,
+				5B3AFDB81070A51C0038290C /* RootViewController.h */,
+				5B3AFDB91070A51C0038290C /* RootViewController.m */,
+				1D3623240D0F684500981E51 /* UITextFieldSampleAppDelegate.h */,
+				1D3623250D0F684500981E51 /* UITextFieldSampleAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* UITextFieldSample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* UITextFieldSample_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5BEB70141071E383006000F1 /* leftDog.png */,
+				5BEB70151071E383006000F1 /* rightDog.png */,
+				5BEB70041071E0DD006000F1 /* paperGray.png */,
+				5BEB6FEF1071DB71006000F1 /* paper.png */,
+				8D1107310486CEB800E47090 /* UITextFieldSample-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* UITextFieldSample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UITextFieldSample" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UITextFieldSample;
+			productName = UITextFieldSample;
+			productReference = 1D6058910D05DD3D006BFB54 /* UITextFieldSample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UITextFieldSample" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* UITextFieldSample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5BEB6FF01071DB71006000F1 /* paper.png in Resources */,
+				5BEB70051071E0DD006000F1 /* paperGray.png in Resources */,
+				5BEB70161071E383006000F1 /* leftDog.png in Resources */,
+				5BEB70171071E383006000F1 /* rightDog.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* UITextFieldSampleAppDelegate.m in Sources */,
+				5B3AFDBC1070A51C0038290C /* RootViewController.m in Sources */,
+				198ADA2114E3CA2500D239A7 /* UIKitPrjAddView.m in Sources */,
+				198ADA2214E3CA2500D239A7 /* UIKitPrjAdjustFontSize.m in Sources */,
+				198ADA2314E3CA2500D239A7 /* UIKitPrjBackground.m in Sources */,
+				198ADA2414E3CA2500D239A7 /* UIKitPrjChangeColorAndFont.m in Sources */,
+				198ADA2514E3CA2500D239A7 /* UIKitPrjClearButtonMode.m in Sources */,
+				198ADA2614E3CA2500D239A7 /* UIKitPrjObserving.m in Sources */,
+				198ADA2714E3CA2500D239A7 /* UIKitPrjPlaceholder.m in Sources */,
+				198ADA2814E3CA2500D239A7 /* UIKitPrjSimple.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UITextFieldSample_Prefix.pch;
+				INFOPLIST_FILE = "UITextFieldSample-Info.plist";
+				PRODUCT_NAME = UITextFieldSample;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UITextFieldSample_Prefix.pch;
+				INFOPLIST_FILE = "UITextFieldSample-Info.plist";
+				PRODUCT_NAME = UITextFieldSample;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphonesimulator4.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphonesimulator4.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UITextFieldSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UITextFieldSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

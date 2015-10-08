@@ -1,0 +1,1055 @@
+TUISliderSample
+v7
+r0
+t350472536.026547
+cCheck dependencies
+cProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/Info.plist UISliderSample-Info.plist
+cCpResource build/Debug-iphonesimulator/UISliderSample.app/roope_big.png Images/roope_big.png
+cCpResource build/Debug-iphonesimulator/UISliderSample.app/roope_small.png Images/roope_small.png
+cCpResource build/Debug-iphonesimulator/UISliderSample.app/thumb.png Images/thumb.png
+cCpResource build/Debug-iphonesimulator/UISliderSample.app/left.png Images/left.png
+cCpResource build/Debug-iphonesimulator/UISliderSample.app/right.png Images/right.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch.gch UISliderSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UISliderSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UISliderSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSetThumbImage.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSetThumbImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSlider.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSlider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSliderWithImage.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSliderWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample normal i386
+cGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+cTouch /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch.gch
+t1299657757
+s15232016
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch.gch
+t1326441788
+s15211536
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch.gch
+t1328779734
+s15211536
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/RootViewController.h
+c000000004F094AE600000000000000BC
+t1326009062
+s188
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/RootViewController.m
+c000000004F3391D1000000000000098A
+t1328779729
+s2442
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/SampleForSetThumbImage.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/SampleForSlider.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/SampleForSliderWithImage.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSetThumbImage.h
+c000000004F3391BD000000000000009B
+t1328779709
+s155
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSetThumbImage.m
+c000000004F3391C000000000000004C8
+t1328779712
+s1224
+i"UIKitPrjSetThumbImage.h"
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSlider.h
+c000000004F3391C200000000000000AE
+t1328779714
+s174
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSlider.m
+c000000004F3391C6000000000000048E
+t1328779718
+s1166
+i"UIKitPrjSlider.h"
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSliderWithImage.h
+c000000004F3391C900000000000000C1
+t1328779721
+s193
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSliderWithImage.m
+c000000004F3391CB00000000000006B3
+t1328779723
+s1715
+i"UIKitPrjSliderWithImage.h"
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UISliderSampleAppDelegate.h
+c000000004F094AFE00000000000000EE
+t1326009086
+s238
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UISliderSampleAppDelegate.m
+c000000004F094B0100000000000002BF
+t1326009089
+s703
+i"UISliderSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Images/left.png
+c000000004B2383BE0000000000000092
+t1260618686
+s146
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Images/right.png
+c000000004B2383BE0000000000000F59
+t1260618686
+s3929
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Images/roope_big.png
+c000000004B2383BE00000000000014BB
+t1260618686
+s5307
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Images/roope_small.png
+c000000004B2383BE000000000000146F
+t1260618686
+s5231
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/Images/thumb.png
+c000000004B2383BE000000000000121D
+t1260618686
+s4637
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/UISliderSample_Prefix.pch
+c000000004B2383BE00000000000000C5
+t1260618686
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+t1328779736
+s340
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM
+t1328779735
+s102
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/Info.plist
+t1299657757
+s586
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/PkgInfo
+t1299657757
+s8
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+t1328779735
+s28788
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/left.png
+t1299657757
+s146
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/right.png
+t1299657757
+s3929
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/roope_big.png
+t1299657757
+s5307
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/roope_small.png
+t1299657757
+s5231
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/thumb.png
+t1299657757
+s4637
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o
+t1328779735
+s45136
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o
+t1326441789
+s37984
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o
+t1326441789
+s40772
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o
+t1326442520
+s41556
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSetThumbImage.o
+t1328779735
+s37936
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSlider.o
+t1328779735
+s40716
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSliderWithImage.o
+t1328779735
+s41500
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSample.LinkFileList
+c000000004F3391D500000000000003C3
+t1328779733
+s963
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o
+t1328779735
+s46952
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o
+t1328779735
+s6524
+
+N/wang/book/iphone3/source/Chapter4/UISliderSample/main.m
+c000000004B2383BE0000000000000184
+t1260618686
+s388
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/RootViewController.h
+c000000004F094AE600000000000000BC
+t1326009062
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/RootViewController.m
+c000000004F094AF2000000000000098E
+t1326009074
+s2446
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.h
+c000000004F094ABF000000000000009D
+t1326009023
+s157
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m
+c000000004F0FEE7600000000000004CB
+t1326444150
+s1227
+i"SampleForSetThumbImage.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSlider.h
+c000000004F094AF800000000000000B0
+t1326009080
+s176
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSlider.m
+c000000004F094AFB0000000000000491
+t1326009083
+s1169
+i"SampleForSlider.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.h
+c000000004F094AD700000000000000C3
+t1326009047
+s195
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m
+c000000004F0FEA1A00000000000006B6
+t1326443034
+s1718
+i"SampleForSliderWithImage.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.h
+c000000004F094AFE00000000000000EE
+t1326009086
+s238
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m
+c000000004F094B0100000000000002BF
+t1326009089
+s703
+i"UISliderSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Images/left.png
+c000000004B2383BE0000000000000092
+t1260618686
+s146
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Images/right.png
+c000000004B2383BE0000000000000F59
+t1260618686
+s3929
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Images/roope_big.png
+c000000004B2383BE00000000000014BB
+t1260618686
+s5307
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Images/roope_small.png
+c000000004B2383BE000000000000146F
+t1260618686
+s5231
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Images/thumb.png
+c000000004B2383BE000000000000121D
+t1260618686
+s4637
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/UISliderSample_Prefix.pch
+c000000004B2383BE00000000000000C5
+t1260618686
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+t1326442520
+s340
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM
+t1326442520
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/Info.plist
+t1299657757
+s586
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/PkgInfo
+t1299657757
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+t1326442520
+s29020
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/left.png
+t1299657757
+s146
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/right.png
+t1299657757
+s3929
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/roope_big.png
+t1299657757
+s5307
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/roope_small.png
+t1299657757
+s5231
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/thumb.png
+t1299657757
+s4637
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o
+t1326441789
+s45172
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o
+t1326441789
+s37984
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o
+t1326441789
+s40772
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o
+t1326442520
+s41556
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSample.LinkFileList
+c000000004F0FE5370000000000000426
+t1326441783
+s1062
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o
+t1326441789
+s46984
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o
+t1326441789
+s6556
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/main.m
+c000000004B2383BE0000000000000184
+t1260618686
+s388
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/RootViewController.m
+c000000004B2383BE00000000000009A2
+t1260618686
+s2466
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.h
+c000000004B2383BE000000000000009F
+t1260618686
+s159
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m
+c000000004B2383BE00000000000004AE
+t1260618686
+s1198
+i"SampleForSetThumbImage.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSlider.h
+c000000004B2383BE00000000000000B2
+t1260618686
+s178
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSlider.m
+c000000004B2383BE0000000000000493
+t1260618686
+s1171
+i"SampleForSlider.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.h
+c000000004B2383BE00000000000000C5
+t1260618686
+s197
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m
+c000000004B2383BE0000000000000585
+t1260618686
+s1413
+i"SampleForSliderWithImage.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.h
+c000000004B2383BE00000000000000F0
+t1260618686
+s240
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m
+c000000004B2383BE00000000000002C1
+t1260618686
+s705
+i"UISliderSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/left.png
+c000000004B2383BE0000000000000092
+t1260618686
+s146
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/right.png
+c000000004B2383BE0000000000000F59
+t1260618686
+s3929
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/roope_big.png
+c000000004B2383BE00000000000014BB
+t1260618686
+s5307
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/roope_small.png
+c000000004B2383BE000000000000146F
+t1260618686
+s5231
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/thumb.png
+c000000004B2383BE000000000000121D
+t1260618686
+s4637
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/UISliderSample_Prefix.pch
+c000000004B2383BE00000000000000C5
+t1260618686
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+t1299657758
+s340
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM
+t1299657758
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/Info.plist
+t1299657757
+s586
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/PkgInfo
+t1299657757
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+t1299657758
+s29152
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/left.png
+t1299657757
+s146
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/right.png
+t1299657757
+s3929
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/roope_big.png
+t1299657757
+s5307
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/roope_small.png
+t1299657757
+s5231
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/thumb.png
+t1299657757
+s4637
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o
+t1299657757
+s45184
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o
+t1299657758
+s38000
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o
+t1299657757
+s40784
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o
+t1299657758
+s41568
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSample.LinkFileList
+c000000004D77341D0000000000000468
+t1299657757
+s1128
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o
+t1299657757
+s47000
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o
+t1299657757
+s6568
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/main.m
+c000000004B2383BE0000000000000184
+t1260618686
+s388
+i<UIKit/UIKit.h>
+
+NUISliderSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350472533#350472533#0(0"0(0#1#0"8632712448#0"0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472535.355314
+e350472535.441741
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o
+x/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@86"Compile /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/RootViewController.m350472535#350472535#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#78"/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/RootViewController.m8631614592#2252"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/RootViewController.m -o /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348134589.535600
+e348134589.738797
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@102"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/RootViewController.m348134589#348134589#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/RootViewController.m8614417248#2428"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321350557.836014
+e321350557.927656
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/RootViewController.m321350557#321350557#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/RootViewController.m8603609728#2495"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/SampleForSetThumbImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348134589.774788
+e348134589.926318
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m348134589#348134590#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#98"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m8614294112#2436"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321350557.945323
+e321350558.081596
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m321350557#321350558#0(0"0(0#0#109"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m8606926464#2503"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSetThumbImage.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSetThumbImage.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/SampleForSlider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSlider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348134589.600210
+e348134589.774689
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSlider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@99"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSlider.m348134589#348134589#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#91"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSlider.m8612996512#2422"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSlider.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSlider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321350557.854453
+e321350557.945211
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSlider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSlider.m321350557#321350557#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSlider.m8598185312#2489"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSlider.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSlider.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/SampleForSliderWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348135320.202682
+e348135320.391541
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@108"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m348135320#348135320#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#100"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m8613680608#2440"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321350557.927764
+e321350558.010327
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m321350557#321350558#0(0"0(0#0#111"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m8603233504#2507"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/SampleForSliderWithImage.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/SampleForSliderWithImage.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSetThumbImage.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSetThumbImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472535.392962
+e350472535.474762
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSetThumbImage.o
+x/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSetThumbImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@89"Compile /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSetThumbImage.m350472535#350472535#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#81"/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSetThumbImage.m8639057824#2258"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSetThumbImage.m -o /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSetThumbImage.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSlider.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSlider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472535.441858
+e350472535.557781
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSlider.o
+x/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSlider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@82"Compile /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSlider.m350472535#350472535#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#74"/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSlider.m8635948384#2244"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSlider.m -o /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSlider.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSliderWithImage.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSliderWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472535.474863
+e350472535.573509
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSliderWithImage.o
+x/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSliderWithImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@91"Compile /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSliderWithImage.m350472535#350472535#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#83"/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSliderWithImage.m8634104256#2262"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UIKitPrjSliderWithImage.m -o /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UIKitPrjSliderWithImage.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UISliderSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472535.236966
+e350472535.392821
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o
+x/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UISliderSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@93"Compile /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UISliderSampleAppDelegate.m350472535#350472535#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#85"/wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UISliderSampleAppDelegate.m8599732544#2266"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UISliderSample/Classes/UISliderSampleAppDelegate.m -o /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348134589.069138
+e348134589.600105
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m348134589#348134589#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#101"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m8595719488#2442"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321350557.775876
+e321350557.854214
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m321350557#321350557#0(0"0(0#0#112"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m8607297632#2509"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Classes/UISliderSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSampleAppDelegate.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o /wang/book/iphone3/source/Chapter4/UISliderSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472535.211151
+e350472535.355207
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o
+x/wang/book/iphone3/source/Chapter4/UISliderSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@64"Compile /wang/book/iphone3/source/Chapter4/UISliderSample/main.m350472535#350472535#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#56"/wang/book/iphone3/source/Chapter4/UISliderSample/main.m8609467072#2216"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch -c /wang/book/iphone3/source/Chapter4/UISliderSample/main.m -o /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348134589.045455
+e348134589.535502
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@80"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/main.m348134589#348134589#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#72"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/main.m8604127520#2392"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321350557.774340
+e321350557.835912
+r1
+xCompileC
+xbuild/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/main.m321350557#321350557#0(0"0(0#0#83"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/main.m8608093760#2459"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/UISliderSample.app/left.png Images/left.png
+s321350557.011352
+e321350557.022045
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UISliderSample.app/left.png
+xImages/left.png
+lSLF07#2@20"Copy Images/left.png321350557#321350557#0(0"0(0#0#92"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/left.png8608364992#580"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/left.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UISliderSample.app/right.png Images/right.png
+s321350557.013105
+e321350557.020981
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UISliderSample.app/right.png
+xImages/right.png
+lSLF07#2@21"Copy Images/right.png321350557#321350557#0(0"0(0#0#93"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/right.png8608424960#581"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/right.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UISliderSample.app/roope_big.png Images/roope_big.png
+s321350557.008366
+e321350557.021334
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UISliderSample.app/roope_big.png
+xImages/roope_big.png
+lSLF07#2@25"Copy Images/roope_big.png321350557#321350557#0(0"0(0#0#97"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/roope_big.png8607431552#585"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/roope_big.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UISliderSample.app/roope_small.png Images/roope_small.png
+s321350557.009060
+e321350557.021180
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UISliderSample.app/roope_small.png
+xImages/roope_small.png
+lSLF07#2@27"Copy Images/roope_small.png321350557#321350557#0(0"0(0#0#99"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/roope_small.png8607250624#587"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/roope_small.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UISliderSample.app/thumb.png Images/thumb.png
+s321350557.009703
+e321350557.021732
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UISliderSample.app/thumb.png
+xImages/thumb.png
+lSLF07#2@21"Copy Images/thumb.png321350557#321350557#0(0"0(0#0#93"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/thumb.png8611619840#581"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/Images/thumb.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app0#
+
+CGenerateDSYMFile /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+s350472535.795106
+e350472536.023193
+r1
+xGenerateDSYMFile
+x/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM
+x/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/UISliderSample.app.dSYM build/Debug-iphonesimulator/UISliderSample.app/UISliderSample350472535#350472536#0(0"0(0#0#111"/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample8635745536#437"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample -o /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+s348135320.663241
+e348135320.769958
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/UISliderSample.app.dSYM build/Debug-iphonesimulator/UISliderSample.app/UISliderSample348135320#348135320#0(0"0(0#0#127"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample8613240832#485"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+s321350558.125362
+e321350558.147289
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/UISliderSample.app.dSYM build/Debug-iphonesimulator/UISliderSample.app/UISliderSample321350558#321350558#0(0"0(0#0#138"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample8618129984#518"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app.dSYM0#
+
+CLd /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample normal i386
+s350472535.573614
+e350472535.794705
+r1
+xLd
+x/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+xnormal
+xi386
+lSLF07#2@116"Link /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample350472535#350472535#0(0"0(0#0#0"8632508192#990"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator -F/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator -filelist /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample normal i386
+s348135320.391635
+e348135320.663145
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+xnormal
+xi386
+lSLF07#2@132"Link /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample348135320#348135320#0(0"0(0#0#0"8614465696#1070"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample normal i386
+s321350558.081695
+e321350558.125254
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample
+xnormal
+xi386
+lSLF07#2@143"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample321350558#321350558#0(0"0(0#0#0"8628554304#1125"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/Objects-normal/i386/UISliderSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/UISliderSample0#
+
+CProcessInfoPlistFile /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/Info.plist UISliderSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/Info.plist UISliderSample-Info.plist
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/Info.plist UISliderSample-Info.plist
+s321350557.005288
+e321350557.008277
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/Info.plist
+xUISliderSample-Info.plist
+lSLF07#2@33"Process UISliderSample-Info.plist321350557#321350557#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/UISliderSample-Info.plist28429436511584364#614"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UISliderSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch.gch UISliderSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321350557.022141
+e321350557.774048
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch.gch
+xUISliderSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile UISliderSample_Prefix.pch321350557#321350557#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/UISliderSample_Prefix.pch8608685632#2306"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/UISliderSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-edpgwgwgfywrcgepkpgfafffrapg/UISliderSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch.gch UISliderSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s348134583.354656
+e348134589.045109
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch.gch
+xUISliderSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@36"Precompile UISliderSample_Prefix.pch348134583#348134589#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#91"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/UISliderSample_Prefix.pch8614502976#2250"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/UISliderSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-eysdmqgihmkoudbwhexueeiakbnt/UISliderSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch.gch UISliderSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350472533.870555
+e350472535.211050
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch.gch
+xUISliderSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@36"Precompile UISliderSample_Prefix.pch350472533#350472535#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#75"/wang/book/iphone3/source/Chapter4/UISliderSample/UISliderSample_Prefix.pch8632618720#2090"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-generated-files.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-own-target-headers.hmap -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-all-target-headers.hmap -iquote /wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/UISliderSample-project-headers.hmap -F/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/include -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources/i386 -I/wang/book/iphone3/source/Chapter4/UISliderSample/build/UISliderSample.build/Debug-iphonesimulator/UISliderSample.build/DerivedSources -c /wang/book/iphone3/source/Chapter4/UISliderSample/UISliderSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISliderSample_Prefix-hktwhkwjisdyqgejhltvlmxkmshl/UISliderSample_Prefix.pch.gch0#
+
+CTouch /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+s350472536.023300
+e350472536.026503
+r1
+xTouch
+x/wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+lSLF07#2@102"Touch /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app350472536#350472536#0(0"0(0#0#0"8634686432#307"    cd /wang/book/iphone3/source/Chapter4/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/book/iphone3/source/Chapter4/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+s348135320.770048
+e348135320.785680
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+lSLF07#2@118"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app348135320#348135320#0(0"0(0#0#0"8608218048#339"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+s321350558.147385
+e321350558.150268
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app
+lSLF07#2@129"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app321350558#321350558#0(0"0(0#0#0"8616566048#361"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISliderSample/build/Debug-iphonesimulator/UISliderSample.app0#
+

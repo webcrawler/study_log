@@ -1,0 +1,771 @@
+THelloWorld
+v7
+r0
+t350459500.243733
+cCheck dependencies
+cProcessInfoPlistFile "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+cCpResource build/Debug-iphonesimulator/HelloWorld.app/ball1.png Images/ball1.png
+cCpResource build/Debug-iphonesimulator/HelloWorld.app/ball2.png Images/ball2.png
+cCpResource build/Debug-iphonesimulator/HelloWorld.app/ball3.png Images/ball3.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-ejzhvucexzaxzhehboegcflbzkgw/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+cGenerateDSYMFile "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM" "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"
+cTouch "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bvohznwcpgncgmgpziqfecnulwbc/HelloWorld_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-ejzhvucexzaxzhehboegcflbzkgw/HelloWorld_Prefix.pch.gch
+t1328766399
+s15211536
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-fxsbahefimyvsxfvzzywppwknzfp/HelloWorld_Prefix.pch.gch
+t1324109956
+s15211536
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hfhzgbenicxdmfbuxcaqryfbjstu/HelloWorld_Prefix.pch.gch
+t1299739507
+s15232016
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/HelloWorldAppDelegate.h
+c000000004F07E547000000000000011C
+t1325917511
+s284
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/HelloWorldAppDelegate.m
+c000000004F07E5F0000000000000048F
+t1325917680
+s1167
+i"HelloWorldAppDelegate.h"
+i"ViewController1.h"
+i"ViewController2.h"
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController1.h
+c000000004F07E404000000000000008F
+t1325917188
+s143
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController1.m
+c000000004F07E461000000000000048D
+t1325917281
+s1165
+i"ViewController1.h"
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController2.h
+c000000004F07E46C000000000000008F
+t1325917292
+s143
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController2.m
+c000000004F335EE800000000000003B2
+t1328766696
+s946
+i"ViewController2.h"
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/HelloWorld_Prefix.pch
+c000000004B2383BE00000000000000BD
+t1260618686
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Images/ball1.png
+c000000004B2383BE0000000000000223
+t1260618686
+s547
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Images/ball2.png
+c000000004B2383BE00000000000010B2
+t1260618686
+s4274
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Images/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+t1328766700
+s272
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+t1328766700
+s102
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+t1328766700
+s17328
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+t1299739506
+s570
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo
+t1299739506
+s8
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball1.png
+t1299739506
+s547
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball2.png
+t1299739506
+s4274
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball3.png
+t1299739506
+s4024
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000004F335DBE000000000000027F
+t1328766398
+s639
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+t1328766400
+s49340
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+t1328766400
+s38244
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+t1328766699
+s37356
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1328766399
+s6540
+
+N/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/main.m
+c000000004B2383BE000000000000017A
+t1260618686
+s378
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.h
+c000000004F07E547000000000000011C
+t1325917511
+s284
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m
+c000000004F07E5F0000000000000048F
+t1325917680
+s1167
+i"HelloWorldAppDelegate.h"
+i"ViewController1.h"
+i"ViewController2.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.h
+c000000004F07E404000000000000008F
+t1325917188
+s143
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m
+c000000004F07E461000000000000048D
+t1325917281
+s1165
+i"ViewController1.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.h
+c000000004F07E46C000000000000008F
+t1325917292
+s143
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m
+c000000004F07E53D00000000000003B2
+t1325917501
+s946
+i"ViewController2.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/HelloWorld_Prefix.pch
+c000000004B2383BE00000000000000BD
+t1260618686
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball1.png
+c000000004B2383BE0000000000000223
+t1260618686
+s547
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball2.png
+c000000004B2383BE00000000000010B2
+t1260618686
+s4274
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+t1324109957
+s272
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+t1324109957
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+t1324109957
+s17528
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+t1299739506
+s570
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo
+t1299739506
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball1.png
+t1299739506
+s547
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball2.png
+t1299739506
+s4274
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball3.png
+t1299739506
+s4024
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000004EEC508300000000000002E3
+t1324109955
+s739
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+t1324109957
+s49392
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+t1324109957
+s38292
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+t1324109957
+s37416
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1324109957
+s6592
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/main.m
+c000000004B2383BE000000000000017A
+t1260618686
+s378
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.h
+c000000004B2383BE000000000000011E
+t1260618686
+s286
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m
+c000000004B2383BE0000000000000497
+t1260618686
+s1175
+i"HelloWorldAppDelegate.h"
+i"ViewController1.h"
+i"ViewController2.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m
+c000000004B2383BE000000000000048C
+t1260618686
+s1164
+i"ViewController1.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.h
+c000000004B2383BE0000000000000091
+t1260618686
+s145
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m
+c000000004B2383BE00000000000003D4
+t1260618686
+s980
+i"ViewController2.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/HelloWorld_Prefix.pch
+c000000004B2383BE00000000000000BD
+t1260618686
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball1.png
+c000000004B2383BE0000000000000223
+t1260618686
+s547
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball2.png
+c000000004B2383BE00000000000010B2
+t1260618686
+s4274
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+t1299739507
+s272
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+t1299739507
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+t1299739507
+s17616
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+t1299739506
+s570
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo
+t1299739506
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball1.png
+t1299739506
+s547
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball2.png
+t1299739506
+s4274
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/ball3.png
+t1299739506
+s4024
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000004D787372000000000000030F
+t1299739506
+s783
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+t1299739507
+s49404
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+t1299739507
+s38308
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+t1299739507
+s37432
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1299739507
+s6604
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/main.m
+c000000004B2383BE000000000000017A
+t1260618686
+s378
+i<UIKit/UIKit.h>
+
+NHelloWorld-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350459499#350459499#0(0"0(0#1#0"8631430976#0"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350459199.881150
+e350459200.070200
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+x/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/HelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@100"Compile /wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/HelloWorldAppDelegate.m350459199#350459200#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#92"/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/HelloWorldAppDelegate.m8633831488#2321"    cd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-ejzhvucexzaxzhehboegcflbzkgw/HelloWorld_Prefix.pch -c "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/HelloWorldAppDelegate.m" -o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345802757.080762
+e345802757.249956
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@125"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m345802757#345802757#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#117"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m8612148608#2596"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-fxsbahefimyvsxfvzzywppwknzfp/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321432307.636813
+e321432307.724551
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@136"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m321432307#321432307#0(0"0(0#0#128"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m8605958368#2663"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hfhzgbenicxdmfbuxcaqryfbjstu/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/HelloWorldAppDelegate.m" -o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350459199.977385
+e350459200.158447
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+x/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@94"Compile /wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController1.m350459199#350459200#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#86"/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController1.m8630269344#2309"    cd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-ejzhvucexzaxzhehboegcflbzkgw/HelloWorld_Prefix.pch -c "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController1.m" -o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345802757.233026
+e345802757.305324
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m345802757#345802757#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m8607019360#2584"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-fxsbahefimyvsxfvzzywppwknzfp/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321432307.696900
+e321432307.779738
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m321432307#321432307#0(0"0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m8614216032#2651"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hfhzgbenicxdmfbuxcaqryfbjstu/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController1.m" -o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController1.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350459499.762281
+e350459499.925411
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+x/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@94"Compile /wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController2.m350459499#350459499#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#86"/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController2.m8630178688#2309"    cd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-ejzhvucexzaxzhehboegcflbzkgw/HelloWorld_Prefix.pch -c "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/Classes/ViewController2.m" -o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345802757.250060
+e345802757.317759
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m345802757#345802757#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m8604171648#2584"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-fxsbahefimyvsxfvzzywppwknzfp/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321432307.724664
+e321432307.795430
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m321432307#321432307#0(0"0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m8613829568#2651"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hfhzgbenicxdmfbuxcaqryfbjstu/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Classes/ViewController2.m" -o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController2.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350459199.879964
+e350459199.977290
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@75"Compile /wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/main.m350459199#350459199#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#67"/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/main.m8630475936#2279"    cd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-ejzhvucexzaxzhehboegcflbzkgw/HelloWorld_Prefix.pch -c "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/main.m" -o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345802757.079134
+e345802757.232917
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@100"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/main.m345802757#345802757#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#92"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/main.m2316574463663371264#2554"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-fxsbahefimyvsxfvzzywppwknzfp/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/main.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321432307.635213
+e321432307.696789
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/main.m321432307#321432307#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/main.m8606690976#2621"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hfhzgbenicxdmfbuxcaqryfbjstu/HelloWorld_Prefix.pch -c "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/main.m" -o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/ball1.png Images/ball1.png
+s321432306.747361
+e321432306.805214
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/ball1.png
+xImages/ball1.png
+lSLF07#2@21"Copy Images/ball1.png321432306#321432306#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball1.png8614115296#643"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball1.png" "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/ball2.png Images/ball2.png
+s321432306.748641
+e321432306.804844
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/ball2.png
+xImages/ball2.png
+lSLF07#2@21"Copy Images/ball2.png321432306#321432306#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball2.png8614000512#643"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball2.png" "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/ball3.png Images/ball3.png
+s321432306.750344
+e321432306.805007
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/ball3.png
+xImages/ball3.png
+lSLF07#2@21"Copy Images/ball3.png321432306#321432306#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball3.png8613931264#643"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/Images/ball3.png" "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CGenerateDSYMFile "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM" "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"
+s350459500.158159
+e350459500.240563
+r1
+xGenerateDSYMFile
+x/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+x/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld.app.dSYM build/Debug-iphonesimulator/HelloWorld.app/HelloWorld350459500#350459500#0(0"0(0#0#114"/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld8633606400#464"    cd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" -o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM"0#
+
+CGenerateDSYMFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"
+s345802757.862318
+e345802757.935247
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld.app.dSYM build/Debug-iphonesimulator/HelloWorld.app/HelloWorld345802757#345802757#0(0"0(0#0#139"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld8606365760#539"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM"0#
+
+CGenerateDSYMFile "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM" "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"
+s321432307.820207
+e321432307.837798
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld.app.dSYM build/Debug-iphonesimulator/HelloWorld.app/HelloWorld321432307#321432307#0(0"0(0#0#150"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld8608863392#572"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" -o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app.dSYM"0#
+
+CLd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+s350459499.925507
+e350459500.158064
+r1
+xLd
+x/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+lSLF07#2@119"Link /wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld350459499#350459500#0(0"0(0#0#0"8630992064#1035"    cd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator" "-F/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator" -filelist "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"0#
+
+CLd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+s345802757.318071
+e345802757.862203
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+lSLF07#2@144"Link /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld345802757#345802757#0(0"0(0#0#0"8610318048#1160"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" -filelist "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"0#
+
+CLd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+s321432307.795530
+e321432307.820093
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+lSLF07#2@155"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld321432307#321432307#0(0"0(0#0#0"8611920800#1215"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" -filelist "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"0#
+
+CProcessInfoPlistFile "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+r0
+
+CProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+r0
+
+CProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+s321432306.743267
+e321432306.747263
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+xHelloWorld-Info.plist
+lSLF07#2@29"Process HelloWorld-Info.plist321432306#321432306#0(0"0(0#0#118"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/HelloWorld-Info.plist8614108672#668"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloWorld-Info.plist -genpkginfo "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app/Info.plist"0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-bvohznwcpgncgmgpziqfecnulwbc/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-ejzhvucexzaxzhehboegcflbzkgw/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350459198.823299
+e350459199.879855
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-ejzhvucexzaxzhehboegcflbzkgw/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch350459198#350459199#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#82"/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/HelloWorld_Prefix.pch8631082080#2144"    cd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -c "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/HelloWorld_Prefix.pch" -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-ejzhvucexzaxzhehboegcflbzkgw/HelloWorld_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-fxsbahefimyvsxfvzzywppwknzfp/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s345802755.453132
+e345802757.078674
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-fxsbahefimyvsxfvzzywppwknzfp/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch345802755#345802757#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#107"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/HelloWorld_Prefix.pch7236284523811400704#2394"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/HelloWorld_Prefix.pch" -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-fxsbahefimyvsxfvzzywppwknzfp/HelloWorld_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hfhzgbenicxdmfbuxcaqryfbjstu/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321432306.805318
+e321432307.634934
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hfhzgbenicxdmfbuxcaqryfbjstu/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch321432306#321432307#0(0"0(0#0#118"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/HelloWorld_Prefix.pch8613481056#2450"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -c "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/HelloWorld_Prefix.pch" -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hfhzgbenicxdmfbuxcaqryfbjstu/HelloWorld_Prefix.pch.gch0#
+
+CTouch "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"
+s350459500.240660
+e350459500.243682
+r1
+xTouch
+x/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+lSLF07#2@109"Touch /wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app350459500#350459500#0(0"0(0#0#0"8630960896#329"    cd "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/wang/book/iphone3/source/Chapter3 /UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CTouch "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"
+s345802757.935337
+e345802757.954574
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+lSLF07#2@134"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app345802757#345802757#0(0"0(0#0#0"8612221056#379"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CTouch "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"
+s321432307.837900
+e321432307.840670
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app
+lSLF07#2@145"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app321432307#321432307#0(0"0(0#0#0"8606265504#401"    cd "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter3 & Chapter4/UITabBarControllerSample/build/Debug-iphonesimulator/HelloWorld.app"0#
+

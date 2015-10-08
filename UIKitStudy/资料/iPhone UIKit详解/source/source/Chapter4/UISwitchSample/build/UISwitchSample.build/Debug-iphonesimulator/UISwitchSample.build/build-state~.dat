@@ -1,0 +1,250 @@
+TUISwitchSample
+v7
+r0
+t348074857.020523
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/Info.plist UISwitchSample-Info.plist
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISwitchSample_Prefix-fnwckfpnajpijldmpfnvuvwqtcff/UISwitchSample_Prefix.pch.gch UISwitchSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/UISwitchSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/UISwitchSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/SampleForSwitch.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/SampleForSwitch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample normal i386
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample
+cTouch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISwitchSample_Prefix-fnwckfpnajpijldmpfnvuvwqtcff/UISwitchSample_Prefix.pch.gch
+t1326382054
+s15814064
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/RootViewController.h
+c000000004F094B2200000000000000BC
+t1326009122
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/RootViewController.m
+c000000004F094B400000000000000916
+t1326009152
+s2326
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/SampleForSwitch.h
+c000000004F094B2800000000000000CA
+t1326009128
+s202
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/SampleForSwitch.m
+c000000004F0EFA8400000000000003F4
+t1326381700
+s1012
+i"SampleForSwitch.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/UISwitchSampleAppDelegate.h
+c000000004F094B2E00000000000000EE
+t1326009134
+s238
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/UISwitchSampleAppDelegate.m
+c000000004F094B3200000000000002BF
+t1326009138
+s703
+i"UISwitchSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/UISwitchSample_Prefix.pch
+c000000004B2383BE00000000000000C5
+t1260618686
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app
+t1326382057
+s170
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app.dSYM
+t1326382056
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/Info.plist
+t1326382048
+s586
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/PkgInfo
+t1326382048
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample
+t1326382056
+s22788
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/RootViewController.o
+t1326382055
+s48352
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/SampleForSwitch.o
+t1326382055
+s42152
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/UISwitchSample.LinkFileList
+c000000004F0EFBE000000000000002BA
+t1326382048
+s698
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/UISwitchSampleAppDelegate.o
+t1326382055
+s50596
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/main.o
+t1326382055
+s6556
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/main.m
+c000000004B2383BE0000000000000184
+t1260618686
+s388
+i<UIKit/UIKit.h>
+
+NUISwitchSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies348074848#348074848#0(0"0(0#1#0"8614742592#0"0#
+
+CCompileC build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348074855.469007
+e348074855.786665
+r1
+xCompileC
+xbuild/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/RootViewController.m348074855#348074855#0(0"0(0#0#94"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/RootViewController.m8616809856#2387"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISwitchSample_Prefix-fnwckfpnajpijldmpfnvuvwqtcff/UISwitchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/SampleForSwitch.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/SampleForSwitch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348074855.493820
+e348074855.726762
+r1
+xCompileC
+xbuild/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/SampleForSwitch.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/SampleForSwitch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/SampleForSwitch.m348074855#348074855#0(0"0(0#0#91"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/SampleForSwitch.m8615306784#2381"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISwitchSample_Prefix-fnwckfpnajpijldmpfnvuvwqtcff/UISwitchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/SampleForSwitch.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/SampleForSwitch.o0#
+
+CCompileC build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/UISwitchSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/UISwitchSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348074855.074968
+e348074855.493585
+r1
+xCompileC
+xbuild/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/UISwitchSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/UISwitchSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/UISwitchSampleAppDelegate.m348074855#348074855#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/UISwitchSampleAppDelegate.m8601902368#2401"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISwitchSample_Prefix-fnwckfpnajpijldmpfnvuvwqtcff/UISwitchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/Classes/UISwitchSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/UISwitchSampleAppDelegate.o0#
+
+CCompileC build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348074855.073857
+e348074855.468906
+r1
+xCompileC
+xbuild/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/main.m348074855#348074855#0(0"0(0#0#72"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/main.m8618987040#2351"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISwitchSample_Prefix-fnwckfpnajpijldmpfnvuvwqtcff/UISwitchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample
+s348074856.768517
+e348074856.993270
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/UISwitchSample.app.dSYM build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample348074856#348074856#0(0"0(0#0#127"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample8618243808#485"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample normal i386
+s348074855.786848
+e348074856.768342
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample
+xnormal
+xi386
+lSLF07#2@132"Link /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample348074855#348074856#0(0"0(0#0#0"8613073184#1070"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/Objects-normal/i386/UISwitchSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/UISwitchSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/Info.plist UISwitchSample-Info.plist
+s348074848.258194
+e348074848.462165
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/Info.plist
+xUISwitchSample-Info.plist
+lSLF07#2@33"Process UISwitchSample-Info.plist348074848#348074848#0(0"0(0#0#91"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/UISwitchSample-Info.plist8600167488#581"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UISwitchSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISwitchSample_Prefix-fnwckfpnajpijldmpfnvuvwqtcff/UISwitchSample_Prefix.pch.gch UISwitchSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s348074848.462311
+e348074855.073688
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISwitchSample_Prefix-fnwckfpnajpijldmpfnvuvwqtcff/UISwitchSample_Prefix.pch.gch
+xUISwitchSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile UISwitchSample_Prefix.pch348074848#348074855#0(0"0(0#0#91"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/UISwitchSample_Prefix.pch8615394592#2209"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/UISwitchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/UISwitchSample.build/Debug-iphonesimulator/UISwitchSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/UISwitchSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISwitchSample_Prefix-fnwckfpnajpijldmpfnvuvwqtcff/UISwitchSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app
+s348074856.993357
+e348074857.020480
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app
+lSLF07#2@118"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app348074856#348074857#0(0"0(0#0#0"8615782976#339"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UISwitchSample/build/Debug-iphonesimulator/UISwitchSample.app0#
+

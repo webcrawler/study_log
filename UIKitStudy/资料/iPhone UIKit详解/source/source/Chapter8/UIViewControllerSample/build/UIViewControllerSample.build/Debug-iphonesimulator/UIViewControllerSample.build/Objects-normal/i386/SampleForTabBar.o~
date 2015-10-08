@@ -1,0 +1,3 @@
+/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m: In function '-[SampleForTabBar viewDidLoad]':
+/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m:29: warning: unused variable 'scene11'
+/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m:28: warning: unused variable 'scene10'

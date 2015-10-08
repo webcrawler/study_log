@@ -1,0 +1,87 @@
+TUIPickerViewSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Dog.png
+c000000004B2383BE0000000000000513
+t1260618686
+s1299
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Elephant.png
+c000000004B2383BE0000000000000755
+t1260618686
+s1877
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Lion.png
+c000000004B2383BE0000000000000504
+t1260618686
+s1284
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/Monkey.png
+c000000004B2383BE00000000000005A8
+t1260618686
+s1448
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/Images/check.png
+c000000004B2383BE000000000000049D
+t1260618686
+s1181
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app/Contents/Resources/Dog.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app/Contents/Resources/Elephant.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app/Contents/Resources/Lion.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app/Contents/Resources/Monkey.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app/Contents/Resources/check.png
+t2
+s0
+
+NUIPickerViewSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCpResource build/Debug/UIPickerViewSample.app/Contents/Resources/Dog.png Images/Dog.png
+r0
+
+CCpResource build/Debug/UIPickerViewSample.app/Contents/Resources/Elephant.png Images/Elephant.png
+r0
+
+CCpResource build/Debug/UIPickerViewSample.app/Contents/Resources/Lion.png Images/Lion.png
+r0
+
+CCpResource build/Debug/UIPickerViewSample.app/Contents/Resources/Monkey.png Images/Monkey.png
+r0
+
+CCpResource build/Debug/UIPickerViewSample.app/Contents/Resources/check.png Images/check.png
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app/Contents/Info.plist UIPickerViewSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIPickerViewSample/build/Debug/UIPickerViewSample.app
+r0
+

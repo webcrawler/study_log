@@ -1,0 +1,39 @@
+TUIScrollViewSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/Images/town.jpg
+c000000004B2383BE000000000006FBDA
+t1260618686
+s457690
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug/UIScrollViewSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug/UIScrollViewSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug/UIScrollViewSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug/UIScrollViewSample.app/Contents/Resources/town.jpg
+t2
+s0
+
+NUIScrollViewSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCpResource build/Debug/UIScrollViewSample.app/Contents/Resources/town.jpg Images/town.jpg
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug/UIScrollViewSample.app/Contents/Info.plist UIScrollViewSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UIScrollViewSample/build/Debug/UIScrollViewSample.app
+r0
+

@@ -1,0 +1,63 @@
+THelloWorld
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball1.png
+c000000004B2383BE0000000000000223
+t1260618686
+s547
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball2.png
+c000000004B2383BE00000000000010B2
+t1260618686
+s4274
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/Images/ball3.png
+c000000004B2383BE0000000000000FB8
+t1260618686
+s4024
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug/HelloWorld.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug/HelloWorld.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug/HelloWorld.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug/HelloWorld.app/Contents/Resources/ball1.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug/HelloWorld.app/Contents/Resources/ball2.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug/HelloWorld.app/Contents/Resources/ball3.png
+t2
+s0
+
+NHelloWorld-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCpResource build/Debug/HelloWorld.app/Contents/Resources/ball1.png Images/ball1.png
+r0
+
+CCpResource build/Debug/HelloWorld.app/Contents/Resources/ball2.png Images/ball2.png
+r0
+
+CCpResource build/Debug/HelloWorld.app/Contents/Resources/ball3.png Images/ball3.png
+r0
+
+CProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug/HelloWorld.app/Contents/Info.plist" HelloWorld-Info.plist
+r0
+
+CTouch "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UINavigationControllerSample/build/Debug/HelloWorld.app"
+r0
+

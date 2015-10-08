@@ -1,0 +1,63 @@
+TUIImagePickerControllerSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/English.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Images/sniper.png
+c000000004B2383BE000000000001B0CB
+t1260618686
+s110795
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE0000000000000138
+t1260618686
+s312
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app/Contents/Resources/Japanese.lproj/InfoPlist.strings
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app/Contents/Resources/sniper.png
+t2
+s0
+
+NUIImagePickerControllerSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app/Contents/Resources/Japanese.lproj/InfoPlist.strings Japanese.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/UIImagePickerControllerSample.app/Contents/Resources/sniper.png Images/sniper.png
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app/Contents/Info.plist UIImagePickerControllerSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter12/UIImagePickerControllerSample/build/Debug/UIImagePickerControllerSample.app
+r0
+

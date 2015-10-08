@@ -1,0 +1,547 @@
+TUISegmentedControlSample
+v7
+r0
+t321348687.520283
+cCheck dependencies
+cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/Info.plist UISegmentedControlSample-Info.plist
+cCpResource build/Debug-iphonesimulator/UISegmentedControlSample.app/Elephant.png Images/Elephant.png
+cCpResource build/Debug-iphonesimulator/UISegmentedControlSample.app/Lion.png Images/Lion.png
+cCpResource build/Debug-iphonesimulator/UISegmentedControlSample.app/Dog.png Images/Dog.png
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch.gch UISegmentedControlSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/UISegmentedControlSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/UISegmentedControlSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControl.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForMomentary.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForMomentary.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlStyle.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlStyle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTintColor.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTintColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlWithImage.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTitleAndImage.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTitleAndImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForContentOffset.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForContentOffset.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForEnabled.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForEnabled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForInsertAndRemove.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForInsertAndRemove.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample normal i386
+cGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample
+cTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C65F6640000000000000132
+t1281750628
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch.gch
+t1299655886
+s15232016
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/RootViewController.h
+c000000004B2383BE00000000000000BE
+t1260618686
+s190
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/RootViewController.m
+c000000004B2383BE0000000000000B14
+t1260618686
+s2836
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForContentOffset.h
+c000000004B2383BE000000000000009F
+t1260618686
+s159
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForContentOffset.m
+c000000004B2383BE00000000000002FD
+t1260618686
+s765
+i"SampleForContentOffset.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForEnabled.h
+c000000004B2383BE0000000000000093
+t1260618686
+s147
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForEnabled.m
+c000000004B2383BE0000000000000297
+t1260618686
+s663
+i"SampleForEnabled.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForInsertAndRemove.h
+c000000004B2383BE00000000000000D1
+t1260618686
+s209
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForInsertAndRemove.m
+c000000004B2383BE0000000000000886
+t1260618686
+s2182
+i"SampleForInsertAndRemove.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForMomentary.h
+c000000004B2383BE0000000000000097
+t1260618686
+s151
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForMomentary.m
+c000000004B2383BE0000000000000450
+t1260618686
+s1104
+i"SampleForMomentary.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControl.h
+c000000004B2383BE00000000000000A5
+t1260618686
+s165
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControl.m
+c000000004B2383BE000000000000046E
+t1260618686
+s1134
+i"SampleForSegmentedControl.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlStyle.h
+c000000004B2383BE00000000000000AF
+t1260618686
+s175
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlStyle.m
+c000000004B2383BE00000000000004CE
+t1260618686
+s1230
+i"SampleForSegmentedControlStyle.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlWithImage.h
+c000000004B2383BE00000000000000B7
+t1260618686
+s183
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlWithImage.m
+c000000004B2383BE0000000000000331
+t1260618686
+s817
+i"SampleForSegmentedControlWithImage.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTintColor.h
+c000000004B2383BE0000000000000097
+t1260618686
+s151
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTintColor.m
+c000000004B2383BE00000000000004D4
+t1260618686
+s1236
+i"SampleForTintColor.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTitleAndImage.h
+c000000004B2383BE00000000000000D5
+t1260618686
+s213
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTitleAndImage.m
+c000000004B2383BE00000000000005C4
+t1260618686
+s1476
+i"SampleForTitleAndImage.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/UISegmentedControlSampleAppDelegate.h
+c000000004B2383BE0000000000000104
+t1260618686
+s260
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/UISegmentedControlSampleAppDelegate.m
+c000000004B2383BE00000000000002DF
+t1260618686
+s735
+i"UISegmentedControlSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Dog.png
+c000000004B2383BE000000000000051F
+t1260618686
+s1311
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Elephant.png
+c000000004B2383BE0000000000000765
+t1260618686
+s1893
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Lion.png
+c000000004B2383BE0000000000000518
+t1260618686
+s1304
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/UISegmentedControlSample_Prefix.pch
+c000000004B2383BE00000000000000D9
+t1260618686
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app
+t1299655887
+s272
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app.dSYM
+t1299655887
+s102
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/Dog.png
+t1299655886
+s1311
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/Elephant.png
+t1299655886
+s1893
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/Info.plist
+t1299655886
+s632
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/Lion.png
+t1299655886
+s1304
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/PkgInfo
+t1299655886
+s8
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample
+t1299655887
+s39680
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/RootViewController.o
+t1299655887
+s45760
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForContentOffset.o
+t1299655887
+s37944
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForEnabled.o
+t1299655887
+s37304
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForInsertAndRemove.o
+t1299655887
+s42340
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForMomentary.o
+t1299655887
+s39272
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControl.o
+t1299655887
+s39408
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlStyle.o
+t1299655887
+s39268
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlWithImage.o
+t1299655887
+s37912
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTintColor.o
+t1299655887
+s39220
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTitleAndImage.o
+t1299655887
+s41444
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/UISegmentedControlSample.LinkFileList
+c000000004D772CCE0000000000000A6A
+t1299655886
+s2666
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/UISegmentedControlSampleAppDelegate.o
+t1299655886
+s47240
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/main.o
+t1299655886
+s6600
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/main.m
+c000000004B2383BE0000000000000198
+t1260618686
+s408
+i<UIKit/UIKit.h>
+
+NUISegmentedControlSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321348686#321348686#0(0"0(0#1#0"8606857152#0"0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348686.926408
+e321348687.022545
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/RootViewController.m321348686#321348687#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/RootViewController.m8609145344#2805"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForContentOffset.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForContentOffset.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348687.211917
+e321348687.278682
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForContentOffset.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForContentOffset.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForContentOffset.m321348687#321348687#0(0"0(0#0#119"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForContentOffset.m8608345056#2813"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForContentOffset.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForContentOffset.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForEnabled.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForEnabled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348687.278790
+e321348687.386767
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForEnabled.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForEnabled.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForEnabled.m321348687#321348687#0(0"0(0#0#113"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForEnabled.m8607250624#2801"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForEnabled.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForEnabled.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForInsertAndRemove.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForInsertAndRemove.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348687.284303
+e321348687.379280
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForInsertAndRemove.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForInsertAndRemove.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@129"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForInsertAndRemove.m321348687#321348687#0(0"0(0#0#121"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForInsertAndRemove.m8607020160#2817"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForInsertAndRemove.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForInsertAndRemove.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForMomentary.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForMomentary.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348687.022683
+e321348687.100762
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForMomentary.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForMomentary.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForMomentary.m321348687#321348687#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForMomentary.m8608405472#2805"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForMomentary.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForMomentary.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControl.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348686.957742
+e321348687.046837
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControl.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControl.m321348686#321348687#0(0"0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControl.m8609698752#2819"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControl.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControl.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlStyle.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlStyle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348687.046951
+e321348687.123465
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlStyle.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlStyle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlStyle.m321348687#321348687#0(0"0(0#0#127"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlStyle.m8607485984#2829"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlStyle.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlStyle.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlWithImage.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlWithImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348687.123560
+e321348687.211809
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlWithImage.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlWithImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlWithImage.m321348687#321348687#0(0"0(0#0#131"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlWithImage.m8607119360#2837"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForSegmentedControlWithImage.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForSegmentedControlWithImage.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTintColor.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTintColor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348687.100881
+e321348687.199792
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTintColor.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTintColor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTintColor.m321348687#321348687#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTintColor.m8607271968#2805"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTintColor.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTintColor.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTitleAndImage.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTitleAndImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348687.199898
+e321348687.284195
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTitleAndImage.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTitleAndImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTitleAndImage.m321348687#321348687#0(0"0(0#0#119"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTitleAndImage.m8608909952#2813"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/SampleForTitleAndImage.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/SampleForTitleAndImage.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/UISegmentedControlSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/UISegmentedControlSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348686.873701
+e321348686.957632
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/UISegmentedControlSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/UISegmentedControlSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/UISegmentedControlSampleAppDelegate.m321348686#321348686#0(0"0(0#0#132"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/UISegmentedControlSampleAppDelegate.m8609574304#2839"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Classes/UISegmentedControlSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/UISegmentedControlSampleAppDelegate.o0#
+
+CCompileC build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348686.872190
+e321348686.926300
+r1
+xCompileC
+xbuild/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/main.m321348686#321348686#0(0"0(0#0#93"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/main.m8599094816#2769"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/UISegmentedControlSample.app/Dog.png Images/Dog.png
+s321348686.061967
+e321348686.095493
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UISegmentedControlSample.app/Dog.png
+xImages/Dog.png
+lSLF07#2@19"Copy Images/Dog.png321348686#321348686#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Dog.png8606806912#619"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Dog.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UISegmentedControlSample.app/Elephant.png Images/Elephant.png
+s321348686.059374
+e321348686.094871
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UISegmentedControlSample.app/Elephant.png
+xImages/Elephant.png
+lSLF07#2@24"Copy Images/Elephant.png321348686#321348686#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Elephant.png8607055296#624"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Elephant.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app0#
+
+CCpResource build/Debug-iphonesimulator/UISegmentedControlSample.app/Lion.png Images/Lion.png
+s321348686.060428
+e321348686.094174
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UISegmentedControlSample.app/Lion.png
+xImages/Lion.png
+lSLF07#2@20"Copy Images/Lion.png321348686#321348686#0(0"0(0#0#102"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Lion.png8606878496#620"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Lion.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app0#
+
+CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample
+s321348687.415865
+e321348687.451023
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample
+lSLF07#2@160"GenerateDSYMFile build/Debug-iphonesimulator/UISegmentedControlSample.app.dSYM build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample321348687#321348687#0(0"0(0#0#168"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample8606846048#578"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app.dSYM0#
+
+CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample normal i386
+s321348687.386864
+e321348687.415752
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample
+xnormal
+xi386
+lSLF07#2@173"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample321348687#321348687#0(0"0(0#0#0"8604389728#1225"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/Objects-normal/i386/UISegmentedControlSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/UISegmentedControlSample0#
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/Info.plist UISegmentedControlSample-Info.plist
+s321348686.046267
+e321348686.059266
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/Info.plist
+xUISegmentedControlSample-Info.plist
+lSLF07#2@43"Process UISegmentedControlSample-Info.plist321348686#321348686#0(0"0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/UISegmentedControlSample-Info.plist8603671712#674"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UISegmentedControlSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch.gch UISegmentedControlSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321348686.095623
+e321348686.871899
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch.gch
+xUISegmentedControlSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile UISegmentedControlSample_Prefix.pch321348686#321348686#0(0"0(0#0#122"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/UISegmentedControlSample_Prefix.pch8604367584#2596"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/UISegmentedControlSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/UISegmentedControlSample.build/Debug-iphonesimulator/UISegmentedControlSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/UISegmentedControlSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UISegmentedControlSample_Prefix-cllhblnhbzouwpezbjpohuufedzs/UISegmentedControlSample_Prefix.pch.gch0#
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app
+s321348687.451114
+e321348687.520214
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app
+lSLF07#2@149"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app321348687#321348687#0(0"0(0#0#0"8600106976#391"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug-iphonesimulator/UISegmentedControlSample.app0#
+

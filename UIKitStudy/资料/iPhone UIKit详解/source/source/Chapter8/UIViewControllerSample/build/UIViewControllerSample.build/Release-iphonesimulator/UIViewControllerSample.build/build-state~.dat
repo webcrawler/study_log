@@ -1,0 +1,925 @@
+TUIViewControllerSample
+v7
+r0
+t341406733.485106
+cCheck dependencies
+cProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Info.plist" UIViewControllerSample-Info.plist
+cCpResource build/Release-iphonesimulator/UIViewControllerSample.app/face.jpg Images/face.jpg
+cCpResource build/Release-iphonesimulator/UIViewControllerSample.app/smile.png Images/smile.png
+cCpResource build/Release-iphonesimulator/UIViewControllerSample.app/town.jpg Images/town.jpg
+cCpResource build/Release-iphonesimulator/UIViewControllerSample.app/dog.jpg Images/dog.jpg
+cCopyStringsFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCopyStringsFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Japanese.lproj/InfoPlist.strings" Japanese.lproj/InfoPlist.strings
+cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch.gch UIViewControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/main.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/UIViewControllerSampleAppDelegate.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/UIViewControllerSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/RootViewController.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForNavigation.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForNavigation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForModal.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForModal.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTabBar.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbar.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbar.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreen.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreenWithTransparent.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotate.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarSystemItem.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarSystemItem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForStatusBarColor.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForStatusBarColor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndAutoresizing.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndAutoresizing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndFullScreen.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateManual.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateManual.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarWithSpace.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarWithSpace.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarButtonWithTitle.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarButtonWithTitle.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForCustomBarButton.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForCustomBarButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTitleView.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTitleView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForObserving.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForObserving.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarColor.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarColor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample" normal i386
+cGenerateDSYMFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app.dSYM" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample"
+cTouch "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D7CB5A60000000000000132
+t1300018598
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch.gch
+t1319713931
+s14875664
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/RootViewController.h
+c000000004E9D977E00000000000000BC
+t1318950782
+s188
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/RootViewController.m
+c000000004E9D97820000000000000D07
+t1318950786
+s3335
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarButtonWithTitle.h
+c000000004E9D924B00000000000000A7
+t1318949451
+s167
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarButtonWithTitle.m
+c000000004E9D92470000000000000AA4
+t1318949447
+s2724
+i"SampleForBarButtonWithTitle.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarColor.h
+c000000004E9D95A900000000000000A2
+t1318950313
+s162
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarColor.m
+c000000004E9D95EA00000000000005F9
+t1318950378
+s1529
+i"SampleForBarColor.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForCustomBarButton.h
+c000000004E9D925900000000000000A1
+t1318949465
+s161
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForCustomBarButton.m
+c000000004E9D92950000000000000636
+t1318949525
+s1590
+i"SampleForCustomBarButton.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.h
+c000000004E9D8CD400000000000000B9
+t1318948052
+s185
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m
+c000000004E9D8CCF00000000000006A5
+t1318948047
+s1701
+i"SampleForFullScreen.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.h
+c000000004E9D8CDC00000000000000D7
+t1318948060
+s215
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m
+c000000004E9D8D940000000000000782
+t1318948244
+s1922
+i"SampleForFullScreenWithTransparent.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForModal.h
+c000000004E9D8B7000000000000000FE
+t1318947696
+s254
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForModal.m
+c000000004E9D8C210000000000000773
+t1318947873
+s1907
+i"SampleForModal.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForNavigation.h
+c000000004E9D8C290000000000000098
+t1318947881
+s152
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForNavigation.m
+c000000004E9D8C840000000000000656
+t1318947972
+s1622
+i"SampleForNavigation.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForObserving.h
+c000000004E9D959E00000000000000D3
+t1318950302
+s211
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForObserving.m
+c000000004E9D959A00000000000007EB
+t1318950298
+s2027
+i"SampleForObserving.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotate.h
+c000000004B2383BE0000000000000092
+t1260618686
+s146
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotate.m
+c000000004B2383BE0000000000000369
+t1260618686
+s873
+i"SampleForRotate.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndAutoresizing.h
+c000000004E9D91C900000000000000D8
+t1318949321
+s216
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndAutoresizing.m
+c000000004E9D91C300000000000004BD
+t1318949315
+s1213
+i"SampleForRotateAndAutoresizing.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.h
+c000000004E9D8FEF00000000000000CC
+t1318948847
+s204
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m
+c000000004E9D91B700000000000009BC
+t1318949303
+s2492
+i"SampleForRotateAndFullScreen.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateManual.h
+c000000004E9D91D600000000000000E2
+t1318949334
+s226
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateManual.m
+c000000004E9D91CE0000000000000B88
+t1318949326
+s2952
+i"SampleForRotateManual.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForStatusBarColor.h
+c000000004E9D91AB000000000000009F
+t1318949291
+s159
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForStatusBarColor.m
+c000000004E9D91A7000000000000059B
+t1318949287
+s1435
+i"SampleForStatusBarColor.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.h
+c000000004E9D8CA6000000000000014F
+t1318948006
+s335
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m
+c000000004EA831E40000000000000DD9
+t1319645668
+s3545
+i"SampleForTabBar.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTitleView.h
+c000000004E9D929D00000000000000CC
+t1318949533
+s204
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTitleView.m
+c000000004E9D957F00000000000007B1
+t1318950271
+s1969
+i"SampleForTitleView.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbar.h
+c000000004E9D8CBA00000000000000CA
+t1318948026
+s202
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbar.m
+c000000004E9D97050000000000000D1C
+t1318950661
+s3356
+i"SampleForToolbar.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarSystemItem.h
+c000000004E9D8EC900000000000000A5
+t1318948553
+s165
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarSystemItem.m
+c000000004E9D8EBD0000000000000E44
+t1318948541
+s3652
+i"SampleForToolbarSystemItem.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarWithSpace.h
+c000000004E9D91FF00000000000000C5
+t1318949375
+s197
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarWithSpace.m
+c000000004E9D923E0000000000001185
+t1318949438
+s4485
+i"SampleForToolbarWithSpace.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/UIViewControllerSampleAppDelegate.h
+c000000004E9D978600000000000000FF
+t1318950790
+s255
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/UIViewControllerSampleAppDelegate.m
+c000000004E9D978B0000000000000309
+t1318950795
+s777
+i"UIViewControllerSampleAppDelegate.h"
+i"RootViewController.h"
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/English.lproj/InfoPlist.strings
+c000000004B2383BE000000000000012A
+t1260618686
+s298
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/dog.jpg
+c000000004B2383BE00000000000031DE
+t1260618686
+s12766
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/face.jpg
+c000000004B2383BE00000000000015B9
+t1260618686
+s5561
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/smile.png
+c000000004B2383BE00000000000002E7
+t1260618686
+s743
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/town.jpg
+c000000004B2383BE000000000006FBDA
+t1260618686
+s457690
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Japanese.lproj/InfoPlist.strings
+c000000004B2383BE000000000000012A
+t1260618686
+s298
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/UIViewControllerSample_Prefix.pch
+c000000004B2383BE00000000000000D5
+t1260618686
+s213
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app
+t1319713933
+s374
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app.dSYM
+t1319713933
+s102
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/English.lproj/InfoPlist.strings
+t1319713930
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Info.plist
+t1319713929
+s611
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Japanese.lproj/InfoPlist.strings
+t1319713930
+s42
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/PkgInfo
+t1319713929
+s8
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample
+t1319713933
+s75664
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/dog.jpg
+t1319713929
+s12766
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/face.jpg
+t1319713929
+s5561
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/smile.png
+t1319713929
+s743
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/town.jpg
+t1319713930
+s457690
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/RootViewController.o
+t1319713931
+s45404
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarButtonWithTitle.o
+t1319713932
+s38520
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarColor.o
+t1319713933
+s37172
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForCustomBarButton.o
+t1319713933
+s38704
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreen.o
+t1319713932
+s41692
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreenWithTransparent.o
+t1319713932
+s42492
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForModal.o
+t1319713932
+s40092
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForNavigation.o
+t1319713932
+s39200
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForObserving.o
+t1319713933
+s42904
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotate.o
+t1319713932
+s37188
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndAutoresizing.o
+t1319713932
+s39384
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndFullScreen.o
+t1319713932
+s43216
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateManual.o
+t1319713932
+s42500
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForStatusBarColor.o
+t1319713932
+s40452
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTabBar.o
+t1319713932
+s45348
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTitleView.o
+t1319713933
+s41480
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbar.o
+t1319713932
+s47396
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarSystemItem.o
+t1319713932
+s41480
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarWithSpace.o
+t1319713932
+s41728
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/UIViewControllerSample.LinkFileList
+c000000004EA93C8900000000000011BB
+t1319713929
+s4539
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/UIViewControllerSampleAppDelegate.o
+t1319713931
+s46880
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/main.o
+t1319713931
+s6580
+
+N/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/main.m
+c000000004B2383BE0000000000000193
+t1260618686
+s403
+i<UIKit/UIKit.h>
+
+NUIViewControllerSample-Info.plist
+c000000004EA93B5D000000000000033E
+t1319713629
+s830
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341406729#341406729#0(0"0(0#1#0"8618790784#0"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/RootViewController.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406731.799509
+e341406731.939313
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/RootViewController.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@120"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/RootViewController.m341406731#341406731#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#112"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/RootViewController.m8618692800#2843"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/RootViewController.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarButtonWithTitle.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarButtonWithTitle.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.877423
+e341406732.989609
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarButtonWithTitle.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarButtonWithTitle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@129"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarButtonWithTitle.m341406732#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#121"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarButtonWithTitle.m8618980320#2861"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarButtonWithTitle.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarButtonWithTitle.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarColor.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarColor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406733.151541
+e341406733.298013
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarColor.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarColor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@119"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarColor.m341406733#341406733#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#111"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarColor.m8604296224#2841"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForBarColor.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForBarColor.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForCustomBarButton.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForCustomBarButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.930343
+e341406733.069848
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForCustomBarButton.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForCustomBarButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@126"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForCustomBarButton.m341406732#341406733#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#118"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForCustomBarButton.m8610821024#2855"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForCustomBarButton.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForCustomBarButton.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreen.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.193309
+e341406732.342891
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreen.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+o/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m: In function '-[SampleForFullScreen touchesEnded:withEvent:]':
+o/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m:36: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m341406732#341406732#0(660"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m: In function '-[SampleForFullScreen touchesEnded:withEvent:]':/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m:36: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)1(22@212"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)341406732#320#340#0(6@113"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m340640847#36#0#36#0#33"'*' is deprecated (declared at *)0(0#0#113"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m8619006144#2845"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreen.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreen.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreenWithTransparent.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.223182
+e341406732.386133
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreenWithTransparent.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+o/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m: In function '-[SampleForFullScreenWithTransparent touchesEnded:withEvent:]':
+o/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m:52: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)
+lSLF07#2@136"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m341406732#341406732#0(705"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m: In function '-[SampleForFullScreenWithTransparent touchesEnded:withEvent:]':/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m:52: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)1(22@212"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)341406732#350#355#0(6@128"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m340641044#52#0#52#0#33"'*' is deprecated (declared at *)0(0#0#128"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m8618578272#2875"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForFullScreenWithTransparent.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForFullScreenWithTransparent.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForModal.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForModal.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406731.939430
+e341406732.074572
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForModal.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForModal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@116"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForModal.m341406731#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#108"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForModal.m8619363808#2835"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForModal.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForModal.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForNavigation.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForNavigation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406731.881369
+e341406732.012629
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForNavigation.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForNavigation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@121"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForNavigation.m341406731#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#113"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForNavigation.m8608625120#2845"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForNavigation.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForNavigation.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForObserving.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForObserving.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406733.069973
+e341406733.263459
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForObserving.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForObserving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@120"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForObserving.m341406733#341406733#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#112"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForObserving.m8618162976#2843"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForObserving.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForObserving.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotate.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.342990
+e341406732.490007
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotate.m341406732#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotate.m8618794816#2837"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotate.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotate.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndAutoresizing.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndAutoresizing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.550866
+e341406732.715018
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndAutoresizing.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndAutoresizing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@132"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndAutoresizing.m341406732#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#124"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndAutoresizing.m8609662304#2867"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndAutoresizing.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndAutoresizing.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndFullScreen.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.613640
+e341406732.768285
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndFullScreen.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+o/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m: In function '-[SampleForRotateAndFullScreen touchesEnded:withEvent:]':
+o/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m:56: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)
+lSLF07#2@130"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m341406732#341406732#0(687"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m: In function '-[SampleForRotateAndFullScreen touchesEnded:withEvent:]':/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m:56: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)1(22@212"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)341406732#338#349#0(6@122"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m340642103#56#0#56#0#33"'*' is deprecated (declared at *)0(0#0#122"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m8604397920#2863"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateAndFullScreen.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateAndFullScreen.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateManual.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateManual.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.715126
+e341406732.877318
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateManual.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateManual.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@123"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateManual.m341406732#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateManual.m8619388032#2849"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForRotateManual.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForRotateManual.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForStatusBarColor.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForStatusBarColor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.490156
+e341406732.613526
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForStatusBarColor.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForStatusBarColor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@125"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForStatusBarColor.m341406732#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#117"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForStatusBarColor.m8604410560#2853"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForStatusBarColor.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForStatusBarColor.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTabBar.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.012738
+e341406732.193198
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTabBar.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m341406732#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m8609484128#2837"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTabBar.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTabBar.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTitleView.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTitleView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.989722
+e341406733.151434
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTitleView.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTitleView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@120"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTitleView.m341406732#341406733#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#112"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTitleView.m8609058112#2843"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForTitleView.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForTitleView.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbar.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbar.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.074682
+e341406732.223056
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbar.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@118"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbar.m341406732#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#110"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbar.m8610073184#2839"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbar.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbar.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarSystemItem.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarSystemItem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.386285
+e341406732.550748
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarSystemItem.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarSystemItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@128"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarSystemItem.m341406732#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#120"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarSystemItem.m8610852192#2859"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarSystemItem.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarSystemItem.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarWithSpace.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarWithSpace.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406732.768393
+e341406732.930228
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarWithSpace.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarWithSpace.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@127"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarWithSpace.m341406732#341406732#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#119"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarWithSpace.m8618228864#2857"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/SampleForToolbarWithSpace.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/SampleForToolbarWithSpace.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/UIViewControllerSampleAppDelegate.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/UIViewControllerSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406731.721572
+e341406731.881252
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/UIViewControllerSampleAppDelegate.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/UIViewControllerSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@135"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/UIViewControllerSampleAppDelegate.m341406731#341406731#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#127"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/UIViewControllerSampleAppDelegate.m8604582784#2873"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Classes/UIViewControllerSampleAppDelegate.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/UIViewControllerSampleAppDelegate.o"0#
+
+CCompileC build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/main.o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406731.719858
+e341406731.799393
+r1
+xCompileC
+xbuild/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/main.o
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@98"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/main.m341406731#341406731#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#90"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/main.m8604382656#2807"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/main.m" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/main.o"0#
+
+CCopyStringsFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s341406729.867459
+e341406730.441926
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings341406729#341406730#0(0"0(0#0#115"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/English.lproj/InfoPlist.strings8618059520#605"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/InfoPlist.strings --outdir "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/English.lproj"0#
+
+CCopyStringsFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Japanese.lproj/InfoPlist.strings" Japanese.lproj/InfoPlist.strings
+s341406730.072834
+e341406730.439546
+r1
+xCopyStringsFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Japanese.lproj/InfoPlist.strings
+xJapanese.lproj/InfoPlist.strings
+oJapanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@37"Copy Japanese.lproj/InfoPlist.strings341406730#341406730#0(134"Japanese.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#116"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Japanese.lproj/InfoPlist.strings8609078848#606"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Japanese.lproj/InfoPlist.strings --outdir "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Japanese.lproj"0#
+
+CCpResource build/Release-iphonesimulator/UIViewControllerSample.app/dog.jpg Images/dog.jpg
+s341406729.864998
+e341406729.955712
+r1
+xCpResource
+xbuild/Release-iphonesimulator/UIViewControllerSample.app/dog.jpg
+xImages/dog.jpg
+lSLF07#2@19"Copy Images/dog.jpg341406729#341406729#0(0"0(0#0#98"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/dog.jpg8618477408#651"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/dog.jpg" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app"0#
+
+CCpResource build/Release-iphonesimulator/UIViewControllerSample.app/face.jpg Images/face.jpg
+s341406729.862901
+e341406729.955957
+r1
+xCpResource
+xbuild/Release-iphonesimulator/UIViewControllerSample.app/face.jpg
+xImages/face.jpg
+lSLF07#2@20"Copy Images/face.jpg341406729#341406729#0(0"0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/face.jpg8619243264#652"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/face.jpg" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app"0#
+
+CCpResource build/Release-iphonesimulator/UIViewControllerSample.app/smile.png Images/smile.png
+s341406729.863658
+e341406729.955522
+r1
+xCpResource
+xbuild/Release-iphonesimulator/UIViewControllerSample.app/smile.png
+xImages/smile.png
+lSLF07#2@21"Copy Images/smile.png341406729#341406729#0(0"0(0#0#100"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/smile.png8618894048#653"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/smile.png" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app"0#
+
+CCpResource build/Release-iphonesimulator/UIViewControllerSample.app/town.jpg Images/town.jpg
+s341406729.864332
+e341406730.072707
+r1
+xCpResource
+xbuild/Release-iphonesimulator/UIViewControllerSample.app/town.jpg
+xImages/town.jpg
+lSLF07#2@20"Copy Images/town.jpg341406729#341406730#0(0"0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/town.jpg8618772512#652"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/Images/town.jpg" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app"0#
+
+CGenerateDSYMFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app.dSYM" "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample"
+s341406733.370425
+e341406733.481305
+r1
+xGenerateDSYMFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app.dSYM
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample
+lSLF07#2@158"GenerateDSYMFile build/Release-iphonesimulator/UIViewControllerSample.app.dSYM build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample341406733#341406733#0(0"0(0#0#163"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample8609944480#573"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample" -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app.dSYM"0#
+
+CLd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample" normal i386
+s341406733.298257
+e341406733.370298
+r1
+xLd
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample
+xnormal
+xi386
+lSLF07#2@168"Link /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample341406733#341406733#0(0"0(0#0#0"8618485920#1218"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" -filelist "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/Objects-normal/i386/UIViewControllerSample.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/UIViewControllerSample"0#
+
+CProcessInfoPlistFile "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Info.plist" UIViewControllerSample-Info.plist
+s341406729.846527
+e341406729.862805
+r1
+xProcessInfoPlistFile
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Info.plist
+xUIViewControllerSample-Info.plist
+lSLF07#2@41"Process UIViewControllerSample-Info.plist341406729#341406729#0(0"0(0#0#117"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/UIViewControllerSample-Info.plist8608911776#669"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIViewControllerSample-Info.plist -genpkginfo "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app/Info.plist"0#
+
+CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch.gch UIViewControllerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341406730.442085
+e341406731.719424
+r1
+xProcessPCH
+x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch.gch
+xUIViewControllerSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@44"Precompile UIViewControllerSample_Prefix.pch341406730#341406731#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#117"/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/UIViewControllerSample_Prefix.pch8619166496#2635"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-generated-files.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-own-target-headers.hmap" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-all-target-headers.hmap" -iquote "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/UIViewControllerSample-project-headers.hmap" "-F/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/include" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources/i386" "-I/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/UIViewControllerSample.build/Release-iphonesimulator/UIViewControllerSample.build/DerivedSources" -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/UIViewControllerSample_Prefix.pch" -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerSample_Prefix-hbjgxxqyurvqqyfttgifugunsxlf/UIViewControllerSample_Prefix.pch.gch0#
+
+CTouch "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app"
+s341406733.481429
+e341406733.485051
+r1
+xTouch
+x/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app
+lSLF07#2@146"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app341406733#341406733#0(0"0(0#0#0"8618370528#389"    cd "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/wang/sample/iphone-uikit-sample/chinese/Chapter3 & Chapter4/UIViewControllerSample/build/Release-iphonesimulator/UIViewControllerSample.app"0#
+

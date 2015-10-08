@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'GraphicsSample' target in the 'GraphicsSample' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

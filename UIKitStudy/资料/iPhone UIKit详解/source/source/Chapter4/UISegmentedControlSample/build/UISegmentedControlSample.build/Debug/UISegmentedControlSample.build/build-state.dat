@@ -1,0 +1,63 @@
+TUISegmentedControlSample
+v7
+r1
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Dog.png
+c000000004B2383BE000000000000051F
+t1260618686
+s1311
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Elephant.png
+c000000004B2383BE0000000000000765
+t1260618686
+s1893
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/Images/Lion.png
+c000000004B2383BE0000000000000518
+t1260618686
+s1304
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug/UISegmentedControlSample.app
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug/UISegmentedControlSample.app/Contents/Info.plist
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug/UISegmentedControlSample.app/Contents/PkgInfo
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug/UISegmentedControlSample.app/Contents/Resources/Dog.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug/UISegmentedControlSample.app/Contents/Resources/Elephant.png
+t2
+s0
+
+N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug/UISegmentedControlSample.app/Contents/Resources/Lion.png
+t2
+s0
+
+NUISegmentedControlSample-Info.plist
+c000000004B2383BE0000000000000356
+t1260618686
+s854
+
+CCpResource build/Debug/UISegmentedControlSample.app/Contents/Resources/Dog.png Images/Dog.png
+r0
+
+CCpResource build/Debug/UISegmentedControlSample.app/Contents/Resources/Elephant.png Images/Elephant.png
+r0
+
+CCpResource build/Debug/UISegmentedControlSample.app/Contents/Resources/Lion.png Images/Lion.png
+r0
+
+CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug/UISegmentedControlSample.app/Contents/Info.plist UISegmentedControlSample-Info.plist
+r0
+
+CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter10/UISegmentedControlSample/build/Debug/UISegmentedControlSample.app
+r0
+
