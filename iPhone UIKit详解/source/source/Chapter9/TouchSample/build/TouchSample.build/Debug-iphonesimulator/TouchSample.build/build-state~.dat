@@ -1,752 +1,0 @@
-TTouchSample
-v7
-r0
-t321120482.262070
-cCheck dependencies
-cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/Info.plist TouchSample-Info.plist
-cCpResource build/Debug-iphonesimulator/TouchSample.app/chara1.png Images/chara1.png
-cCpResource build/Debug-iphonesimulator/TouchSample.app/chara2.png Images/chara2.png
-cCpResource build/Debug-iphonesimulator/TouchSample.app/dog.jpg Images/dog.jpg
-cCpResource build/Debug-iphonesimulator/TouchSample.app/metal.png Images/metal.png
-cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch.gch TouchSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/TouchSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/TouchSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForButton.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesBegan.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesBegan.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesTheLabel.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesTheLabel.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForResponderChain.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForResponderChain.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlider.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlider.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTap.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTripleTap.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTripleTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDrag.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDrag.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlide.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlide.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForFlick.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForFlick.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTouch.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleSlide.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleSlide.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForPinch.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForPinch.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForMotion.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForMotion.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForAccelerometer.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForAccelerometer.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample normal i386
-cGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample
-cTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
-c000000004C65F6640000000000000132
-t1281750628
-s306
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BFDFE39000000000027C7D0
-t1274936889
-s2607056
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BFDFE7C000000000029D5D0
-t1274936956
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BFDFE6E0000000000001466
-t1274936942
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C0470BB00000000000009CD
-t1275359419
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C0471620000000001D47210
-t1275359586
-s30700048
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h
-c000000004A5C14A000000000000004F1
-t1247548576
-s1265
-
-N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch.gch
-t1299427680
-s15232016
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/RootViewController.h
-c000000004B2383BE00000000000000BE
-t1260618686
-s190
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/RootViewController.m
-c000000004B2383BE0000000000000BBB
-t1260618686
-s3003
-i"RootViewController.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForAccelerometer.h
-c000000004B2383BE0000000000000189
-t1260618686
-s393
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForAccelerometer.m
-c000000004B2383BE0000000000000CD1
-t1260618686
-s3281
-i"SampleForAccelerometer.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForButton.h
-c000000004B2383BE00000000000000A7
-t1260618686
-s167
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForButton.m
-c000000004B2383BE0000000000000773
-t1260618686
-s1907
-i"SampleForButton.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleSlide.h
-c000000004B2383BE00000000000000BD
-t1260618686
-s189
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleSlide.m
-c000000004B2383BE0000000000000640
-t1260618686
-s1600
-i"SampleForDoubleSlide.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTap.h
-c000000004B2383BE00000000000000BE
-t1260618686
-s190
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTap.m
-c000000004B2383BE0000000000000744
-t1260618686
-s1860
-i"SampleForDoubleTap.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTouch.h
-c000000004B2383BE000000000000009B
-t1260618686
-s155
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTouch.m
-c000000004B2383BE00000000000003A7
-t1260618686
-s935
-i"SampleForDoubleTouch.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDrag.h
-c000000004B2383BE00000000000000E3
-t1260618686
-s227
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDrag.m
-c000000004B2383BE0000000000000D04
-t1260618686
-s3332
-i"SampleForDrag.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForFlick.h
-c000000004B2383BE00000000000000D7
-t1260618686
-s215
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForFlick.m
-c000000004B2383BE0000000000000847
-t1260618686
-s2119
-i"SampleForFlick.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForMotion.h
-c000000004B2383BE00000000000000BB
-t1260618686
-s187
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForMotion.m
-c000000004B2383BE000000000000051D
-t1260618686
-s1309
-i"SampleForMotion.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForPinch.h
-c000000004B2383BE00000000000000B9
-t1260618686
-s185
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForPinch.m
-c000000004B2383BE0000000000000ABE
-t1260618686
-s2750
-i"SampleForPinch.h"
-i<math.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForResponderChain.h
-c000000004B2383BE00000000000000A1
-t1260618686
-s161
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForResponderChain.m
-c000000004B2383BE0000000000000BF6
-t1260618686
-s3062
-i"SampleForResponderChain.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlide.h
-c000000004B2383BE0000000000000159
-t1260618686
-s345
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlide.m
-c000000004B2383BE0000000000000ACC
-t1260618686
-s2764
-i"SampleForSlide.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlider.h
-c000000004B2383BE00000000000000B9
-t1260618686
-s185
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlider.m
-c000000004B2383BE0000000000000606
-t1260618686
-s1542
-i"SampleForSlider.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesBegan.h
-c000000004B2383BE000000000000009D
-t1260618686
-s157
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesBegan.m
-c000000004B2383BE000000000000037A
-t1260618686
-s890
-i"SampleForTouchesBegan.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesTheLabel.h
-c000000004B2383BE00000000000000A3
-t1260618686
-s163
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesTheLabel.m
-c000000004B2383BE0000000000000777
-t1260618686
-s1911
-i"SampleForTouchesTheLabel.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTripleTap.h
-c000000004B2383BE00000000000000D6
-t1260618686
-s214
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTripleTap.m
-c000000004B2383BE000000000000083E
-t1260618686
-s2110
-i"SampleForTripleTap.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/TouchSampleAppDelegate.h
-c000000004B2383BE0000000000000133
-t1260618686
-s307
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/TouchSampleAppDelegate.m
-c000000004B2383BE00000000000003A0
-t1260618686
-s928
-i"TouchSampleAppDelegate.h"
-i"RootViewController.h"
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/chara1.png
-c000000004B2383BE0000000000001E76
-t1260618686
-s7798
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/chara2.png
-c000000004B2383BE0000000000001E08
-t1260618686
-s7688
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/dog.jpg
-c000000004B2383BE00000000000031DE
-t1260618686
-s12766
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/metal.png
-c000000004B2383BE0000000000001623
-t1260618686
-s5667
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/TouchSample_Prefix.pch
-c000000004B2383BE00000000000000BF
-t1260618686
-s191
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app
-t1299427682
-s306
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app.dSYM
-t1299427682
-s102
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/Info.plist
-t1299427679
-s574
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/PkgInfo
-t1299427679
-s8
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample
-t1299427682
-s67128
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/chara1.png
-t1299427679
-s7798
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/chara2.png
-t1299427679
-s7688
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/dog.jpg
-t1299427679
-s12766
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/metal.png
-t1299427679
-s5667
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/RootViewController.o
-t1299427681
-s45852
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForAccelerometer.o
-t1299427681
-s45344
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForButton.o
-t1299427681
-s45020
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleSlide.o
-t1299427681
-s42136
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTap.o
-t1299427681
-s43352
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTouch.o
-t1299427681
-s41272
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDrag.o
-t1299427681
-s42488
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForFlick.o
-t1299427681
-s44692
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForMotion.o
-t1299427681
-s44700
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForPinch.o
-t1299427681
-s44056
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForResponderChain.o
-t1299427681
-s45844
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlide.o
-t1299427681
-s43108
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlider.o
-t1299427681
-s40252
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesBegan.o
-t1299427681
-s40760
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesTheLabel.o
-t1299427681
-s43960
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTripleTap.o
-t1299427681
-s44568
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/TouchSample.LinkFileList
-c000000004D73B15F0000000000000C76
-t1299427679
-s3190
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/TouchSampleAppDelegate.o
-t1299427680
-s47808
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/main.o
-t1299427680
-s6556
-
-N/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/main.m
-c000000004B2383BE000000000000017D
-t1260618686
-s381
-i<UIKit/UIKit.h>
-
-NTouchSample-Info.plist
-c000000004B2383BE0000000000000356
-t1260618686
-s854
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies321120479#321120479#0(0"0(0#1#0"8604782400#0"0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120480.916153
-e321120481.023777
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/RootViewController.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/RootViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/RootViewController.m321120480#321120481#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/RootViewController.m8605240000#2391"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/RootViewController.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForAccelerometer.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForAccelerometer.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.626251
-e321120481.720107
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForAccelerometer.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForAccelerometer.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@113"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForAccelerometer.m321120481#321120481#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForAccelerometer.m8609140000#2399"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForAccelerometer.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForAccelerometer.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForButton.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120480.946053
-e321120481.044629
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForButton.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForButton.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForButton.m321120480#321120481#0(0"0(0#0#98"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForButton.m8609717504#2385"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForButton.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForButton.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleSlide.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleSlide.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.506416
-e321120481.603156
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleSlide.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleSlide.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@111"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleSlide.m321120481#321120481#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleSlide.m8609825632#2395"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleSlide.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleSlide.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTap.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.205613
-e321120481.313225
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTap.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTap.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTap.m321120481#321120481#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTap.m8605376192#2391"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTap.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTap.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTouch.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.406336
-e321120481.506295
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTouch.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTouch.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@111"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTouch.m321120481#321120481#0(0"0(0#0#103"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTouch.m8608594784#2395"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDoubleTouch.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDoubleTouch.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDrag.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDrag.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.308948
-e321120481.406228
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDrag.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDrag.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@104"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDrag.m321120481#321120481#0(0"0(0#0#96"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDrag.m8609585504#2381"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForDrag.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForDrag.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForFlick.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForFlick.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.396988
-e321120481.525229
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForFlick.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForFlick.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@105"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForFlick.m321120481#321120481#0(0"0(0#0#97"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForFlick.m8608957920#2383"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForFlick.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForFlick.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForMotion.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForMotion.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.603262
-e321120481.683778
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForMotion.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForMotion.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForMotion.m321120481#321120481#0(0"0(0#0#98"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForMotion.m8608400480#2385"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForMotion.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForMotion.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForPinch.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForPinch.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.525331
-e321120481.626144
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForPinch.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForPinch.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@105"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForPinch.m321120481#321120481#0(0"0(0#0#97"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForPinch.m8609455904#2383"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForPinch.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForPinch.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForResponderChain.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForResponderChain.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.119278
-e321120481.205489
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForResponderChain.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForResponderChain.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@114"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForResponderChain.m321120481#321120481#0(0"0(0#0#106"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForResponderChain.m8608628800#2401"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForResponderChain.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForResponderChain.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlide.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlide.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.313325
-e321120481.396883
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlide.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlide.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@105"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlide.m321120481#321120481#0(0"0(0#0#97"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlide.m8609259584#2383"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlide.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlide.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlider.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlider.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.136254
-e321120481.219019
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlider.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlider.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlider.m321120481#321120481#0(0"0(0#0#98"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlider.m8608430240#2385"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForSlider.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForSlider.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesBegan.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesBegan.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.023888
-e321120481.119170
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesBegan.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesBegan.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@112"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesBegan.m321120481#321120481#0(0"0(0#0#104"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesBegan.m8609511040#2397"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesBegan.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesBegan.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesTheLabel.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesTheLabel.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.044727
-e321120481.136142
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesTheLabel.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesTheLabel.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@115"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesTheLabel.m321120481#321120481#0(0"0(0#0#107"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesTheLabel.m8609126048#2403"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTouchesTheLabel.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTouchesTheLabel.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTripleTap.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTripleTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120481.219122
-e321120481.308842
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTripleTap.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTripleTap.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@109"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTripleTap.m321120481#321120481#0(0"0(0#0#101"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTripleTap.m8600697088#2391"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/SampleForTripleTap.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/SampleForTripleTap.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/TouchSampleAppDelegate.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/TouchSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120480.792722
-e321120480.945950
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/TouchSampleAppDelegate.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/TouchSampleAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@113"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/TouchSampleAppDelegate.m321120480#321120480#0(0"0(0#0#105"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/TouchSampleAppDelegate.m8608440864#2399"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Classes/TouchSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/TouchSampleAppDelegate.o0#
-
-CCompileC build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120480.791130
-e321120480.916031
-r1
-xCompileC
-xbuild/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/main.o
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Compile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/main.m321120480#321120480#0(0"0(0#0#79"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/main.m8608632736#2355"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/main.m -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/main.o0#
-
-CCpResource build/Debug-iphonesimulator/TouchSample.app/chara1.png Images/chara1.png
-s321120479.166387
-e321120479.262148
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/TouchSample.app/chara1.png
-xImages/chara1.png
-lSLF07#2@22"Copy Images/chara1.png321120479#321120479#0(0"0(0#0#90"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/chara1.png8609490784#567"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/chara1.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app0#
-
-CCpResource build/Debug-iphonesimulator/TouchSample.app/chara2.png Images/chara2.png
-s321120479.202177
-e321120479.261498
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/TouchSample.app/chara2.png
-xImages/chara2.png
-lSLF07#2@22"Copy Images/chara2.png321120479#321120479#0(0"0(0#0#90"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/chara2.png8609397536#567"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/chara2.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app0#
-
-CCpResource build/Debug-iphonesimulator/TouchSample.app/dog.jpg Images/dog.jpg
-s321120479.203559
-e321120479.262318
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/TouchSample.app/dog.jpg
-xImages/dog.jpg
-lSLF07#2@19"Copy Images/dog.jpg321120479#321120479#0(0"0(0#0#87"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/dog.jpg8609272224#564"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/dog.jpg /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app0#
-
-CCpResource build/Debug-iphonesimulator/TouchSample.app/metal.png Images/metal.png
-s321120479.204319
-e321120479.261742
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/TouchSample.app/metal.png
-xImages/metal.png
-lSLF07#2@21"Copy Images/metal.png321120479#321120479#0(0"0(0#0#89"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/metal.png8609197600#566"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/Images/metal.png /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app0#
-
-CGenerateDSYMFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app.dSYM /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample
-s321120482.082191
-e321120482.245349
-r1
-xGenerateDSYMFile
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app.dSYM
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample
-lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/TouchSample.app.dSYM build/Debug-iphonesimulator/TouchSample.app/TouchSample321120482#321120482#0(0"0(0#0#128"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample8605298432#497"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app.dSYM0#
-
-CLd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample normal i386
-s321120481.720209
-e321120482.082071
-r1
-xLd
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample
-xnormal
-xi386
-lSLF07#2@133"Link /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample321120481#321120482#0(0"0(0#0#0"8608751616#1090"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/Objects-normal/i386/TouchSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/TouchSample0#
-
-CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/Info.plist TouchSample-Info.plist
-s321120479.112583
-e321120479.166288
-r1
-xProcessInfoPlistFile
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/Info.plist
-xTouchSample-Info.plist
-lSLF07#2@30"Process TouchSample-Info.plist321120479#321120479#0(0"0(0#0#95"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/TouchSample-Info.plist8610258432#593"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TouchSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app/Info.plist0#
-
-CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch.gch TouchSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s321120479.262456
-e321120480.790660
-r1
-xProcessPCH
-x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch.gch
-xTouchSample_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile TouchSample_Prefix.pch321120479#321120480#0(0"0(0#0#95"/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/TouchSample_Prefix.pch8609135616#2209"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/TouchSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/TouchSample.build/Debug-iphonesimulator/TouchSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/TouchSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchSample_Prefix-bbpdvwnnnjgiazbmpxughioxbnlt/TouchSample_Prefix.pch.gch0#
-
-CTouch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app
-s321120482.245447
-e321120482.262015
-r1
-xTouch
-x/wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app
-lSLF07#2@122"Touch /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app321120482#321120482#0(0"0(0#0#0"8610389408#350"    cd /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/iphone-book-sample/Chapter6/TouchSample/build/Debug-iphonesimulator/TouchSample.app0#
-

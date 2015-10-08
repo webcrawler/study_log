@@ -1,388 +1,0 @@
-TUIDatePickerSample
-v7
-r0
-t348160013.076567
-cCheck dependencies
-cProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/Info.plist UIDatePickerSample-Info.plist
-cProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch.gch UIDatePickerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/UIDatePickerSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/UIDatePickerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePicker.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePickerMode.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePickerMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForMinuteInterval.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForMinuteInterval.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForSetDate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForSetDate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForCountDownTimer.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForCountDownTimer.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample normal i386
-cGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample
-cTouch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
-c000000004D7CB5A60000000000000132
-t1300018598
-s306
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BFDFE39000000000027C7D0
-t1274936889
-s2607056
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BFDFE7C000000000029D5D0
-t1274936956
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BFDFE6E0000000000001466
-t1274936942
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C0470BB00000000000009CD
-t1275359419
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C0471620000000001D47210
-t1275359586
-s30700048
-
-N/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch.gch
-t1326467211
-s14875664
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/RootViewController.h
-c000000004F0925C900000000000000BC
-t1325999561
-s188
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/RootViewController.m
-c000000004F092A590000000000000A03
-t1326000729
-s2563
-i"RootViewController.h"
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForCountDownTimer.h
-c000000004F0925AC00000000000000DD
-t1325999532
-s221
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForCountDownTimer.m
-c000000004F09289800000000000005A1
-t1326000280
-s1441
-i"SampleForCountDownTimer.h"
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePicker.h
-c000000004F0925D200000000000000C2
-t1325999570
-s194
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePicker.m
-c000000004F092A6A000000000000059B
-t1326000746
-s1435
-i"SampleForDatePicker.h"
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePickerMode.h
-c000000004F0925C000000000000000CA
-t1325999552
-s202
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePickerMode.m
-c000000004F092A4B000000000000039F
-t1326000715
-s927
-i"SampleForDatePickerMode.h"
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForMinuteInterval.h
-c000000004F0925B9000000000000009F
-t1325999545
-s159
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForMinuteInterval.m
-c000000004F0925BC00000000000001D6
-t1325999548
-s470
-i"SampleForMinuteInterval.h"
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForSetDate.h
-c000000004F0925B100000000000000BC
-t1325999537
-s188
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForSetDate.m
-c000000004F092A3C000000000000037A
-t1326000700
-s890
-i"SampleForSetDate.h"
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/UIDatePickerSampleAppDelegate.h
-c000000004F0925D800000000000000F6
-t1325999576
-s246
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/UIDatePickerSampleAppDelegate.m
-c000000004F0925DD00000000000002CB
-t1325999581
-s715
-i"UIDatePickerSampleAppDelegate.h"
-i"RootViewController.h"
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/UIDatePickerSample_Prefix.pch
-c000000004B2383BE00000000000000CD
-t1260618686
-s205
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app
-t1326467213
-s170
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app.dSYM
-t1326467213
-s102
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/Info.plist
-t1326467210
-s603
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/PkgInfo
-t1326467210
-s8
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample
-t1326467212
-s27368
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/RootViewController.o
-t1326467212
-s44444
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForCountDownTimer.o
-t1326467212
-s39292
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePicker.o
-t1326467212
-s45824
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePickerMode.o
-t1326467212
-s38984
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForMinuteInterval.o
-t1326467212
-s35764
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForSetDate.o
-t1326467212
-s38832
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/UIDatePickerSample.LinkFileList
-c000000004F10488A0000000000000603
-t1326467210
-s1539
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/UIDatePickerSampleAppDelegate.o
-t1326467212
-s46644
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/main.o
-t1326467212
-s6548
-
-N/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/main.m
-c000000004B2383BE000000000000018B
-t1260618686
-s395
-i<UIKit/UIKit.h>
-
-NUIDatePickerSample-Info.plist
-c000000004F1047BE0000000000000342
-t1326467006
-s834
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies348160010#348160010#0(0"0(0#1#0"8617675904#0"0#
-
-CCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/RootViewController.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s348160012.029553
-e348160012.229171
-r1
-xCompileC
-xbuild/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/RootViewController.o
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/RootViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@106"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/RootViewController.m348160012#348160012#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#98"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/RootViewController.m8604408352#2587"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/RootViewController.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/RootViewController.o0#
-
-CCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForCountDownTimer.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForCountDownTimer.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s348160012.350896
-e348160012.472079
-r1
-xCompileC
-xbuild/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForCountDownTimer.o
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForCountDownTimer.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@111"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForCountDownTimer.m348160012#348160012#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#103"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForCountDownTimer.m8618063200#2597"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForCountDownTimer.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForCountDownTimer.o0#
-
-CCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePicker.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s348160012.080123
-e348160012.249366
-r1
-xCompileC
-xbuild/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePicker.o
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePicker.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@107"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePicker.m348160012#348160012#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePicker.m8602133888#2589"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePicker.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePicker.o0#
-
-CCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePickerMode.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePickerMode.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s348160012.229269
-e348160012.350790
-r1
-xCompileC
-xbuild/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePickerMode.o
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePickerMode.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@111"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePickerMode.m348160012#348160012#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#103"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePickerMode.m8618894048#2597"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForDatePickerMode.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForDatePickerMode.o0#
-
-CCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForMinuteInterval.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForMinuteInterval.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s348160012.249473
-e348160012.326816
-r1
-xCompileC
-xbuild/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForMinuteInterval.o
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForMinuteInterval.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@111"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForMinuteInterval.m348160012#348160012#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#103"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForMinuteInterval.m8618593568#2597"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForMinuteInterval.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForMinuteInterval.o0#
-
-CCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForSetDate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForSetDate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s348160012.326937
-e348160012.454959
-r1
-xCompileC
-xbuild/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForSetDate.o
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForSetDate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@104"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForSetDate.m348160012#348160012#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#96"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForSetDate.m8618297216#2583"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/SampleForSetDate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/SampleForSetDate.o0#
-
-CCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/UIDatePickerSampleAppDelegate.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/UIDatePickerSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s348160011.865734
-e348160012.080003
-r1
-xCompileC
-xbuild/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/UIDatePickerSampleAppDelegate.o
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/UIDatePickerSampleAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@117"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/UIDatePickerSampleAppDelegate.m348160011#348160012#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#109"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/UIDatePickerSampleAppDelegate.m8613967712#2609"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/Classes/UIDatePickerSampleAppDelegate.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/UIDatePickerSampleAppDelegate.o0#
-
-CCompileC build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/main.o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s348160011.863935
-e348160012.029420
-r1
-xCompileC
-xbuild/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/main.o
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@84"Compile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/main.m348160011#348160012#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#76"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/main.m8614587712#2551"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources -include /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/main.m -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/main.o0#
-
-CGenerateDSYMFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app.dSYM /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample
-s348160012.969758
-e348160013.052049
-r1
-xGenerateDSYMFile
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app.dSYM
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample
-lSLF07#2@146"GenerateDSYMFile build/Release-iphonesimulator/UIDatePickerSample.app.dSYM build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample348160012#348160013#0(0"0(0#0#141"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample8619050688#513"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app.dSYM0#
-
-CLd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample normal i386
-s348160012.472179
-e348160012.969631
-r1
-xLd
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample
-xnormal
-xi386
-lSLF07#2@146"Link /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample348160012#348160012#0(0"0(0#0#0"8617661216#1118"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -filelist /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/Objects-normal/i386/UIDatePickerSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/UIDatePickerSample0#
-
-CProcessInfoPlistFile /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/Info.plist UIDatePickerSample-Info.plist
-s348160010.426509
-e348160010.470768
-r1
-xProcessInfoPlistFile
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/Info.plist
-xUIDatePickerSample-Info.plist
-lSLF07#2@37"Process UIDatePickerSample-Info.plist348160010#348160010#0(0"0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/UIDatePickerSample-Info.plist8618862144#609"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIDatePickerSample-Info.plist -genpkginfo /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app/Info.plist0#
-
-CProcessPCH /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch.gch UIDatePickerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s348160010.470886
-e348160011.863668
-r1
-xProcessPCH
-x/var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch.gch
-xUIDatePickerSample_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@40"Precompile UIDatePickerSample_Prefix.pch348160010#348160011#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#99"/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/UIDatePickerSample_Prefix.pch8618197984#2399"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-generated-files.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-own-target-headers.hmap -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-all-target-headers.hmap -iquote /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/UIDatePickerSample-project-headers.hmap -F/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/include -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources/i386 -I/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/UIDatePickerSample.build/Release-iphonesimulator/UIDatePickerSample.build/DerivedSources -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/UIDatePickerSample_Prefix.pch -o /var/folders/pG/pG00W+-wFuSLuzqmEN20iE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIDatePickerSample_Prefix-aftiimlooyrrdhbkipfxvplodfmc/UIDatePickerSample_Prefix.pch.gch0#
-
-CTouch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app
-s348160013.052149
-e348160013.076513
-r1
-xTouch
-x/wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app
-lSLF07#2@128"Touch /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app348160013#348160013#0(0"0(0#0#0"8617703552#353"    cd /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /wang/sample/iphone-uikit-sample/chinese/Chapter10/UIDatePickerSample/build/Release-iphonesimulator/UIDatePickerSample.app0#
-
