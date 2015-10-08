@@ -313,7 +313,35 @@ int main(int argc, const char * argv[])
 看起来很简单吧，我们只需要记住简单的语法规则就好，另外，需要注意的是如果speak方法是在men类中本身就有的，那么类别中的speak方法会
 覆盖men中的speak方法，有点儿像重写，而且类别只能添加方法，不能添加属性变量。
 
-16. 
+16. UIKit学习
+1.                                             ViewController:
+[self.view addSubview:控件实例];
+实现画面的切换 [self.view.window sendSubviewToBack:self.view];
+
+将两个画面(UIView)追加到UIWindow中:
+// 初始化Window
+CGRect bounds = [[UIScreen mainScreen] bounds]; window _ = [[UIWindow alloc] initWithFrame:bounds];
+// 创建ViewController1与ViewController2
+// 并将其画面(view)追加到Window中
+viewController1 _ = [[ViewController1 alloc] init];
+viewController2 _ = [[ViewController2 alloc] init];
+[window _ addSubview:viewController1 _ .view];
+[window _ addSubview:viewController2 _ .view];
+// ViewController1放在前面显示
+[window _ bringSubviewToFront:viewController1 _ .view];
+
+2. 模态框
+// dialog 继承UIViewController
+[self presentModalViewController:dialog animated:YES];
+// 关闭模态UIViewController
+[self dismissModalViewControllerAnimationed:YES];
+
+3. UIWindow 一般一个，有3个windowLevel。
+
+4. UIView tag [self.window.viewWithTag:100]; // 循环遍历tag为100的view
+   属性：contentMode
+
+5.
 
 
 
