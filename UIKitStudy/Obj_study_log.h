@@ -339,9 +339,15 @@ viewController2 _ = [[ViewController2 alloc] init];
 3. UIWindow 一般一个，有3个windowLevel。
 
 4. UIView tag [self.window.viewWithTag:100]; // 循环遍历tag为100的view
-   属性：contentMode
+属性：contentMode
 
-5.
+5. UIView动画
+[UIView beginAnimations:nil context:NULL];
+[UIView setAnimationDuration:5];
+.....
+[UIView commitAnimations];
+
+
 
 
 
