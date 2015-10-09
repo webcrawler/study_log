@@ -338,7 +338,7 @@ viewController2 _ = [[ViewController2 alloc] init];
 
 3. UIWindow 一般一个，有3个windowLevel。
 
-4. UIView tag [self.window.viewWithTag:100]; // 循环遍历tag为100的view
+4. UIView tag [self.window.viewWithTag:100]; // 循环遍历(子控件)tag为100的view
 属性：contentMode
 
 5. UIView动画
@@ -346,6 +346,53 @@ viewController2 _ = [[ViewController2 alloc] init];
 [UIView setAnimationDuration:5];
 .....
 [UIView commitAnimations];
+
+6. 视图控制器 UIViewController
+UIWindow->UIViewController->UIView....
+UIViewController装载 loadView -> viewDidLoad
+UIViewController出现与消失 viewWillAppear viewDidAppear, viewWillDisappear viewDidisappear
+UIViewController卸载 （6.0以前）viewWillUnLoad viewDidUnLoad 方法内做了 self.view = nil;
+(6.0以后用didReceiveMemoryWarning) 方法内需要手动：
+if（[self.view window] == nil）
+{
+    self.view = nil;
+}
+
+7. ios设备方向
+
+// This method is deprecated on ios6
+// 设备方向为竖放时 画面转动
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
+return UIInterfaceOrientationIsPortrait( interfaceOrientation ); // 竖屏才旋转画面
+// return UIInterfaceOrientationIsLandscape( interfaceOrientation ); // 横屏才旋转画面
+}
+
+// 6.0以后对上面方法功能做了拆分，如下2方法
+// For ios6, use supportedInterfaceOrientations & shouldAutorotate instead
+- (NSUInteger) supportedInterfaceOrientations{
+#ifdef __IPHONE_6_0
+return UIInterfaceOrientationMaskAll; // 所有方向
+#endif
+}
+
+// ios6
+- (BOOL) shouldAutorotate {
+return YES;
+}
+
+相应在target工程设置选择设备方向上下(portrait, upside down)或者左右(labdscape left, landscape right)
+
+8. 消息通知
+[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(changexxxFunc) name:@"changexx" object: nil]
+[[NSNotificationCenter defaultCenter] postNotificationName:@"changexx" object: _textFile.text]
+- (void)changexxxFunc:(NSNotification*)noyification
+{
+id text = notification.object
+}
+[[NSNotificationCenter defaultCenter] removeObserver:self name:@"changexx" object: nil]
+
+9. 
+
 
 
 
