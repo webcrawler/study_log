@@ -395,6 +395,10 @@ id text = notification.object
 
 10. cocos2d-x 显示ios弹窗，见demo MyUIView
 
+11. UIAlertView UIActionVIew  delegate 见demo UIAlertView
+
+
+
 
 
 
