@@ -40,7 +40,7 @@
     UIViewController* viewController2 = [[ViewController2 alloc] init];
     
     [self.window addSubview:viewController1.view];
-    [self.window addSubview:viewController2.view];
+    //[self.window addSubview:viewController2.view];
     // viewcontroller1 放前面
     [self.window bringSubviewToFront:viewController1.view];
     

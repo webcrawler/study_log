@@ -393,6 +393,8 @@ id text = notification.object
 
 9. storyboard
 
+10. cocos2d-x 显示ios弹窗，见demo MyUIView
+
 
 
 
