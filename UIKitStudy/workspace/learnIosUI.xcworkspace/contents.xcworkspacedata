@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:UISegmentedControl/UISegmentedControl.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:UISlider/UISlider.xcodeproj">
    </FileRef>
    <FileRef
