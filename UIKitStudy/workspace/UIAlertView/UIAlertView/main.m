@@ -1,6 +1,6 @@
 //
 //  main.m
-//  UIKit
+//  UIAlertView
 //
 //  Created by admin on 15/10/10.
 //  Copyright © 2015年 MyObjC. All rights reserved.
