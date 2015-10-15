@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:UIPageControl/UIPageControl.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:UISegmentedControl/UISegmentedControl.xcodeproj">
    </FileRef>
    <FileRef
