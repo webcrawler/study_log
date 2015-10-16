@@ -265,6 +265,8 @@ export PATH=$ANT_ROOT:$PATH
 passphrase。不输入也可以。输入之后，提交的时候要输入这个passphrase
 完成后在 ~/.ssh/ 会生成2个文件。id_rsa 和 id_rsa.pub。前者是私钥，注意保管，后者是公钥。
 目录：/Users/admin/.ssh/id_rsa.pub，打开拷贝里面公钥，登录gitlab: Profile Settings => SSH-/Keys => Add SSH key。
+测试：$ ssh -T git@github.com  如果出现错误提示：Permission denied (publickey) 因为新生成的key不能加入ssh就会导致连接不上github，输入以下命令：
+先输入$ ssh-agent，再输入$ ssh-add ~/.ssh/id_rsa，这样就可以了
 2. git clone git@192.168.1.22:xx/xx.git
 3. SourceTree 添加文件夹
 
@@ -389,6 +391,36 @@ public int getNetworkStatus(Context context)
 
 10. xcodebuild, xcrun 命令行编译打包ipa
 xcodebuild -scheme 'maze2.0.0 iOS' -destination 'platform=iphonesimulator,name=iPhone 6 Plus' -derivedDataPath build
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
