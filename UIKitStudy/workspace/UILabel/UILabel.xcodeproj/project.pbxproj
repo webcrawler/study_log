@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8410BAD11BDB2C57000E46BB /* UINavigationController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UINavigationController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8438D9CD1BCF86A200967B0A /* UILabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UILabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8438D9D11BCF86A300967B0A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8438D9D31BCF86A300967B0A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -29,6 +30,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		8410BACE1BDB2C57000E46BB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8438D9CA1BCF86A200967B0A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -51,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8438D9CD1BCF86A200967B0A /* UILabel.app */,
+				8410BAD11BDB2C57000E46BB /* UINavigationController.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -82,6 +91,23 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		8410BAD01BDB2C57000E46BB /* UINavigationController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8410BAE71BDB2C57000E46BB /* Build configuration list for PBXNativeTarget "UINavigationController" */;
+			buildPhases = (
+				8410BACD1BDB2C57000E46BB /* Sources */,
+				8410BACE1BDB2C57000E46BB /* Frameworks */,
+				8410BACF1BDB2C57000E46BB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UINavigationController;
+			productName = UINavigationController;
+			productReference = 8410BAD11BDB2C57000E46BB /* UINavigationController.app */;
+			productType = "com.apple.product-type.application";
+		};
 		8438D9CC1BCF86A200967B0A /* UILabel */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8438D9E41BCF86A300967B0A /* Build configuration list for PBXNativeTarget "UILabel" */;
@@ -108,6 +134,9 @@
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = MyObjC;
 				TargetAttributes = {
+					8410BAD01BDB2C57000E46BB = {
+						CreatedOnToolsVersion = 7.0;
+					};
 					8438D9CC1BCF86A200967B0A = {
 						CreatedOnToolsVersion = 7.0;
 					};
@@ -127,11 +156,19 @@
 			projectRoot = "";
 			targets = (
 				8438D9CC1BCF86A200967B0A /* UILabel */,
+				8410BAD01BDB2C57000E46BB /* UINavigationController */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		8410BACF1BDB2C57000E46BB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8438D9CB1BCF86A200967B0A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -145,6 +182,13 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		8410BACD1BDB2C57000E46BB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8438D9C91BCF86A200967B0A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -177,6 +221,28 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		8410BAE51BDB2C57000E46BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = UINavigationController/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MyObjC.UINavigationController;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8410BAE61BDB2C57000E46BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = UINavigationController/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MyObjC.UINavigationController;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		8438D9E21BCF86A300967B0A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -284,6 +350,14 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		8410BAE71BDB2C57000E46BB /* Build configuration list for PBXNativeTarget "UINavigationController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8410BAE51BDB2C57000E46BB /* Debug */,
+				8410BAE61BDB2C57000E46BB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		8438D9C81BCF86A100967B0A /* Build configuration list for PBXProject "UILabel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -300,6 +374,7 @@
 				8438D9E61BCF86A300967B0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
