@@ -397,7 +397,15 @@ xcodebuild -scheme 'maze2.0.0 iOS' -destination 'platform=iphonesimulator,name=i
 简单的说乱码的出现是因为：编码和解码时用了不同或者不兼容的字符集。
 http://cenalulu.github.io/linux/character-encoding/
 
-12.
+12. .dSYM(debugging SYMbols)又称为调试符号表，是苹果为了方便调试和定位问题而使用的一种调试方案，本质上使用的是起源于贝尔实验室的DWARF（Debugging With Attributed Record Formats），其在.xcarchive目录中的层次结构为：
+.xcarchive
+--dSYMs
+|--Your.app.dSYM
+|--Contents
+|--Resources
+|--DWARF
+
+13. 
 
 
 

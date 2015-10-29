@@ -4,20 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>UILabel.xcscheme</key>
+		<key>UIToolBar.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>13</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8410BAD01BDB2C57000E46BB</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>8438D9CC1BCF86A200967B0A</key>
+		<key>84FA07B91BE2017E004A9C95</key>
 		<dict>
 			<key>primary</key>
 			<true/>

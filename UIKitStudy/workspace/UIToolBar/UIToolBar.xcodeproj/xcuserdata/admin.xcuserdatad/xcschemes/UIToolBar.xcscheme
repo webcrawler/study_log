@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8410BAD01BDB2C57000E46BB"
-               BuildableName = "UINavigationController.app"
-               BlueprintName = "UINavigationController"
-               ReferencedContainer = "container:UILabel.xcodeproj">
+               BlueprintIdentifier = "84FA07B91BE2017E004A9C95"
+               BuildableName = "UIToolBar.app"
+               BlueprintName = "UIToolBar"
+               ReferencedContainer = "container:UIToolBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8410BAD01BDB2C57000E46BB"
-            BuildableName = "UINavigationController.app"
-            BlueprintName = "UINavigationController"
-            ReferencedContainer = "container:UILabel.xcodeproj">
+            BlueprintIdentifier = "84FA07B91BE2017E004A9C95"
+            BuildableName = "UIToolBar.app"
+            BlueprintName = "UIToolBar"
+            ReferencedContainer = "container:UIToolBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8410BAD01BDB2C57000E46BB"
-            BuildableName = "UINavigationController.app"
-            BlueprintName = "UINavigationController"
-            ReferencedContainer = "container:UILabel.xcodeproj">
+            BlueprintIdentifier = "84FA07B91BE2017E004A9C95"
+            BuildableName = "UIToolBar.app"
+            BlueprintName = "UIToolBar"
+            ReferencedContainer = "container:UIToolBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8410BAD01BDB2C57000E46BB"
-            BuildableName = "UINavigationController.app"
-            BlueprintName = "UINavigationController"
-            ReferencedContainer = "container:UILabel.xcodeproj">
+            BlueprintIdentifier = "84FA07B91BE2017E004A9C95"
+            BuildableName = "UIToolBar.app"
+            BlueprintName = "UIToolBar"
+            ReferencedContainer = "container:UIToolBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

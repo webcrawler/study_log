@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:UIToolBar/UIToolBar.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UINavigationItem/UINavigationItem.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:UINavigationController/UINavigationController.xcodeproj">
    </FileRef>
    <FileRef
