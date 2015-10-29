@@ -392,7 +392,11 @@ public int getNetworkStatus(Context context)
 10. xcodebuild, xcrun 命令行编译打包ipa
 xcodebuild -scheme 'maze2.0.0 iOS' -destination 'platform=iphonesimulator,name=iPhone 6 Plus' -derivedDataPath build
 
+11. 十分钟搞清字符集和字符编码:
+小伙伴QQ上传过来的文件，在我们本地打开又乱码了。于是为了实现转换标准，各种字符集标准就出现了。简单的说字符集就规定了某个文字对应的二进制数字存放方式（编码）和某串二进制数值代表了哪个文字（解码）的转换关系。
+简单的说乱码的出现是因为：编码和解码时用了不同或者不兼容的字符集。
 
+12.
 
 
 
