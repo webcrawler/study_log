@@ -13,7 +13,6 @@
 #define XCODE_COLORS_RESET_FG  XCODE_COLORS_ESCAPE @"fg;" // Clear any foreground color
 #define XCODE_COLORS_RESET_BG  XCODE_COLORS_ESCAPE @"bg;" // Clear any background color
 #define XCODE_COLORS_RESET     XCODE_COLORS_ESCAPE @";"   // Clear any foreground or background color
-
 #define LogBlue(frmt, ...) NSLog((XCODE_COLORS_ESCAPE @"fg0,0,255;" frmt XCODE_COLORS_RESET), ##__VA_ARGS__)
 #define LogRed(frmt, ...) NSLog((XCODE_COLORS_ESCAPE @"fg255,0,0;" frmt XCODE_COLORS_RESET), ##__VA_ARGS__)
 
@@ -43,12 +42,12 @@
     
     
     
-    setenv("XcodeColors", "YES", 0);
-    char *xcode_colors = getenv("XcodeColors");
-    if (xcode_colors && (strcmp(xcode_colors, "YES") == 0))
-    {
-        NSLog(@"// XcodeColors is installed and enabled!");
-    }
+//    setenv("XcodeColors", "YES", 0);
+//    char *xcode_colors = getenv("XcodeColors");
+//    if (xcode_colors && (strcmp(xcode_colors, "YES") == 0))
+//    {
+//        NSLog(@"// XcodeColors is installed and enabled!");
+//    }
  
     NSLog(@"After building the XcodeColors plugin for the first time, you MUST RESTART XCODE.");
     NSLog(@"If you still don't see colors below, please consult the README.");
