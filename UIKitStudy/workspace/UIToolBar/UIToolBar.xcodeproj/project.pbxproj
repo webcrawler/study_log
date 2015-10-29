@@ -304,6 +304,7 @@
 				84FA07D31BE2017E004A9C95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

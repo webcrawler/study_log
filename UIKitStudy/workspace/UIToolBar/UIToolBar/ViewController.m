@@ -17,6 +17,7 @@
 
 - (void) loadView
 {
+
     UIView* baseView = [[UIView alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     baseView.backgroundColor = [UIColor purpleColor];
     self.view = baseView;
