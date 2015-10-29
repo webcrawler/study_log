@@ -416,12 +416,12 @@ http://cenalulu.github.io/linux/character-encoding/
 #define LogRed(frmt, ...) NSLog((XCODE_COLORS_ESCAPE @"fg255,0,0;" frmt XCODE_COLORS_RESET), ##__VA_ARGS__)
 
 调用:
-setenv("XcodeColors", "YES", 0);
-char *xcode_colors = getenv("XcodeColors");
-if (xcode_colors && (strcmp(xcode_colors, "YES") == 0))
-{
-    NSLog(@"// XcodeColors is installed and enabled!");
-}
+//setenv("XcodeColors", "YES", 0);
+//char *xcode_colors = getenv("XcodeColors");
+//if (xcode_colors && (strcmp(xcode_colors, "YES") == 0))
+//{
+//    NSLog(@"// XcodeColors is installed and enabled!");
+//}
 
 NSLog(@"After building the XcodeColors plugin for the first time, you MUST RESTART XCODE.");
 NSLog(@"If you still don't see colors below, please consult the README.");
@@ -435,8 +435,13 @@ NSLog(XCODE_COLORS_ESCAPE @"fg0,0,255;"
 NSLog(XCODE_COLORS_ESCAPE @"fg209,57,168;" @"You can supply your own RGB values!" XCODE_COLORS_RESET);
 LogBlue(@"Blue text via macro");
 
+14 xcode 命令行打包ipa:
+target里的building setting -> code signing Resources rules path 加 $(SDKROOT)/ResourceRules.plist
 
-
+xcodebuild -target XcodeXcrun clean
+xcodebuild -target XcodeXcrun CODE_SIGN_IDENTITY="iPhone Distribution: xxxxx"  (钥匙串查看)
+xcrun -sdk iphoneos packageapplication -v /Users/admin/Desktop/XcodeXcrun/build/Release-iphoneos/XcodeXcrun.app -o /Users/admin/Desktop/123/1.ipa --sign "iPhone Distribution: xxxxx" --embed /Users/admin/Desktop/xxxx.mobileprovision
+(越狱设备上安装就不需要sign embed喽)
 
 
 
