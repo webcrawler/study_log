@@ -443,6 +443,40 @@ xcodebuild -target XcodeXcrun CODE_SIGN_IDENTITY="iPhone Distribution: xxxxx"  (
 xcrun -sdk iphoneos packageapplication -v /Users/admin/Desktop/XcodeXcrun/build/Release-iphoneos/XcodeXcrun.app -o /Users/admin/Desktop/123/1.ipa --sign "iPhone Distribution: xxxxx" --embed /Users/admin/Desktop/xxxx.mobileprovision
 (越狱设备上安装就不需要sign embed喽)
 
+15. xcode 代码git管理 ：
+source control - > xxx_starter->configure xxx_starter->remote
+安装最新jdk http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+设置环境变量：open  /Library/Java/JavaVirtualMachines/  看到安装的jdk ：/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home
+open ~/.bash_profile  -> export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home
+
+Jenkins安装：
+从http://mirrors.jenkins-ci.org/war/latest/jenkins.war下载Jenkins War文件。打开一个终端窗口，运行以下命令：
+nohup java -jar ~/Downloads/jenkins.war --httpPort=8081 --ajp13Port=8010 >/tmp/jenkins.log 2>&1 &
+为启动Jenkins创建一个别名： open ~/.bash_profile  -> 加入: alias jenkins="nohup java -jar ~/jenkins.war --httpPort=8081 --ajp13Port=8010 > /tmp/jenkins.log 2>&1 &"
+终端执行 jenkins 启动
+访问: http://localhost:8081/
+系统管理-> 插件 -> 搜索"GIT plugin"安装
+创建项目-> Item名称 ->选择构建一个自由风格的软件项目 ->项目名称->源码管理 选择git ->Repository URL -> git@github.com:webcrawler/test.git-> 构建->execute shell填写：
+if [ -d "${WORKSPACE}/builds" ]; then rm -rf ${WORKSPACE}/builds; fi;
+mkdir ${WORKSPACE}/builds
+xcodebuild -project ${WORKSPACE}/${JOB_NAME}/proj.ios_mac/${JOB_NAME}.xcodeproj -scheme "${JOB_NAME} iOS" archive -archivePath ${WORKSPACE}/builds/archive DEBUG_INFORMATION_FORMAT="dwarf"
+xcodebuild -exportArchive -exportFormat IPA -archivePath ${WORKSPACE}/builds/archive.xcarchive -exportPath ${WORKSPACE}/builds/${JOB_NAME}.ipa -exportProvisioningProfile 'XC Ad Hoc: com.737.batteryrun2.cn'
+增加构建后操作步骤-> archive the artifacts -> 输入 builds/*.*
+                                               
+                                               
+
+                                               
+
+
+
+
+
+
+
+
+
+
+
 
 
 
