@@ -461,15 +461,21 @@ if [ -d "${WORKSPACE}/builds" ]; then rm -rf ${WORKSPACE}/builds; fi;
 mkdir ${WORKSPACE}/builds
 xcodebuild -project ${WORKSPACE}/${JOB_NAME}/proj.ios_mac/${JOB_NAME}.xcodeproj -scheme "${JOB_NAME} iOS" archive -archivePath ${WORKSPACE}/builds/archive DEBUG_INFORMATION_FORMAT="dwarf"
 xcodebuild -exportArchive -exportFormat IPA -archivePath ${WORKSPACE}/builds/archive.xcarchive -exportPath ${WORKSPACE}/builds/${JOB_NAME}.ipa -exportProvisioningProfile 'XC Ad Hoc: com.737.batteryrun2.cn'
-增加构建后操作步骤-> archive the artifacts -> 输入 builds/*.*
+增加构建后操作步骤-> archive the artifacts -> 输入: "builds/*.*" (去掉引号)
+
+16. Travis CI (该服务可以为你的GitHub项目提供持续集成的支持) https://travis-ci.org/
+GitHub 项目与 Travis 链接上
+在项目根目录创建一个名叫 .travis.yml文件
+假如项目为ios工程 写入内容:language: objective-c
+http://objccn.io/issue-6-5/, http://docs.travis-ci.com/user/getting-started/
+
+17.
+
+                                                
                                                
                                                
-
                                                
-
-
-
-
+                                    
 
 
 
