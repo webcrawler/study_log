@@ -300,6 +300,7 @@
 				8410BB561BDB3214000E46BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
