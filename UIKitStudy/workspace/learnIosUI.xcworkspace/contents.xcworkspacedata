@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CustomNavigationBar/CustomNavigationBar.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:UINavigationDelegate/UINavigationDelegate.xcodeproj">
    </FileRef>
    <FileRef
