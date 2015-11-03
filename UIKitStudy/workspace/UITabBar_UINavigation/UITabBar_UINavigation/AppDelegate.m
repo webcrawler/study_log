@@ -34,6 +34,11 @@
     // 创建UITabBarItem 赋值给相应地子视图控制器
     UITabBarItem* homeItem = [[UITabBarItem alloc] initWithTitle:@"消息" image:[UIImage imageNamed:@"123"] tag:3];
     vec1.tabBarItem = homeItem;
+    
+    // xxx ppp
+    UINavigationController* navigation = [[UINavigationController alloc] initWithRootViewController:vec1];
+    
+    
 //    vec1.title = @"首页";
 //    vec1.view.backgroundColor = [UIColor redColor];
     
@@ -55,7 +60,7 @@
 //    vec5.title = @"设置";
 //    vec5.view.backgroundColor = [UIColor orangeColor];
     
-    NSArray* viewArr = @[vec1, vec2, vec3, vec4];
+    NSArray* viewArr = @[navigation, vec2, vec3, vec4];
     
     // 分栏视图控制器
     UITabBarController* tabBar = [[UITabBarController alloc] init];
