@@ -470,7 +470,10 @@ GitHub 项目与 Travis 链接上
 http://objccn.io/issue-6-5/, http://docs.travis-ci.com/user/getting-started/
 
 17.
-
+dynamic_cast: 通常在基类和派生类之间转换时使用,run-time cast
+const_cast: 主要针对const和volatile的转换.
+static_cast: 一般的转换，no run-time check.通常，如果你不知道该用哪个，就用这个。
+reinterpret_cast: 用于进行没有任何关联之间的转换，比如一个字符指针转换为一个整形数。
                                                 
                                                
                                                
