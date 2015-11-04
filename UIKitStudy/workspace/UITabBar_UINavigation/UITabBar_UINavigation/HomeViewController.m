@@ -22,7 +22,7 @@
         self.title = @"首页";
         NSLog(@"%s", __FUNCTION__ );
     }
-    return self;
+    return self; 
 }
 
 - (void) loadView
