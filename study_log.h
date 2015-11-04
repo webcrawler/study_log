@@ -438,10 +438,34 @@ LogBlue(@"Blue text via macro");
 14 xcode 命令行打包ipa:
 target里的building setting -> code signing Resources rules path 加 $(SDKROOT)/ResourceRules.plist
 
-xcodebuild -target XcodeXcrun clean
-xcodebuild -target XcodeXcrun CODE_SIGN_IDENTITY="iPhone Distribution: xxxxx"  (钥匙串查看)
-xcrun -sdk iphoneos packageapplication -v /Users/admin/Desktop/XcodeXcrun/build/Release-iphoneos/XcodeXcrun.app -o /Users/admin/Desktop/123/1.ipa --sign "iPhone Distribution: xxxxx" --embed /Users/admin/Desktop/xxxx.mobileprovision
+#!/bin/bash
+security unlock-keychain -p " " ~/Library/Keychains/login.keychain
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+rm -rf "$DIR/build"
+rm -rf "$DIR/sshTest.ipa"
+cd $DIR
+xcodebuild -target sshTest clean
+xcodebuild -target sshTest CODE_SIGN_IDENTITY="iPhone Distribution: xxx"
+xcrun -sdk iphoneos packageapplication -v /Users/admin/Documents/sshTest/build/Release-iphoneos/sshTest.app \
+-o /Users/admin/Documents/sshTest/sshTest.ipa --sign "iPhone Distribution: xxx" \
+--embed "/Users/admin/Documents/xxx.mobileprovision"
+
 (越狱设备上安装就不需要sign embed喽)
+问题：ResourceRules.plist: cannot read resources
+解决：code signing -> code signing resource rules path 加 $(SDKROOT)/ResourceRules.plist
+
+windows上通过ssh操作mac命令：
+问题： "User interaction is not allowed"
+解决:
+shell加 security unlock-keychain -p " " ~/Library/Keychains/login.keychain
+// 查看目录
+security list-keychains
+// 解锁 密码~
+security unlock ~/Library/Keychains/login.keychain
+// 设置有效期1小时
+security set-keychain-settings -t 3600 -l ~/Library/Keychains/login.keychain
+// 查看
+security show-keychain-info ~/Library/Keychains/login.keychain
 
 15. xcode 代码git管理 ：
 source control - > xxx_starter->configure xxx_starter->remote
@@ -475,8 +499,13 @@ const_cast: 主要针对const和volatile的转换.
 static_cast: 一般的转换，no run-time check.通常，如果你不知道该用哪个，就用这个。
 reinterpret_cast: 用于进行没有任何关联之间的转换，比如一个字符指针转换为一个整形数。
 
-18.
-                                                
+18. 在linux下执行sh文件时提示下面信息：
+-bash: ./xx.sh: Permission denied
+解决：进入改目录，然后
+chmod 777 xx.sh
+
+
+
                                                
                                                
                                                
