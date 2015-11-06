@@ -111,6 +111,17 @@ void MyClass::scriptTest()
 2. adb logcat > foo.txt    保存在当前目录
 ndk-stack -sym /Users/admin/Documents/git/BatteryClient/Maze2.0.0/proj.android/obj/local/armeabi  -dump /Users/admin/Documents/log17.txt
 
+addr2line命令获取代码行数：
+ndk-stack是通过addr2line来获取代码位置的, 下面使用addr2line查找代码位置:
+bash_profile加 export PATH=$PATH:/Users/admin/Documents/game/android-ndk-r9d/toolchains/arm-linux-androideabi-4.6/prebuilt/darwin-x86_64/bin
+命令：arm-linux-androideabi-addr2line -e /Users/admin/Documents/git/BatteryClient/Maze2.0.0/proj.android/obj/local/armeabi/libcocos2dcpp.so 00c0489b
+(00c0489b 在log backtrace: #xxx pc xxxxxx )
+( backtrace: #00  pc 00c0489b  /data/app-lib/com.feiyu.BatteryRun-1/libcocos2dcpp.so )
+
+objdump获取函数信息：
+导出函数表:
+arm-linux-androideabi-addr2line -f -e /Users/admin/Documents/git/BatteryClient/Maze2.0.0/proj.android/obj/local/armeabi/libcocos2dcpp.so 00c0489b
+
 3.现在的SourceTree版本解决这个真的是太方便了
 请看到右边 External Diff 模块 最下面有四个按钮
 Stage Hunk 和 Discard Hunk
@@ -504,7 +515,7 @@ reinterpret_cast: 用于进行没有任何关联之间的转换，比如一个�
 解决：进入改目录，然后
 chmod 777 xx.sh
 
-
+19.
 
                                                
                                                
