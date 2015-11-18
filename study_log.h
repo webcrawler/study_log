@@ -515,7 +515,7 @@ reinterpret_cast: 用于进行没有任何关联之间的转换，比如一个�
 解决：进入改目录，然后
 chmod 777 xx.sh
 
-19.
+19. 编译平台和运行平台
 Deployment Target
 指的是你的APP能支持的最低系统版本，如要支持iOS6以上，就设置成iOS6即可。
 Base SDK
@@ -548,9 +548,15 @@ if ([UIDevice currentDevice].systemVersion.floatValue > 5.0f)
 }
 #endif
 
+20. Errors running builder 'Scanner Configuration Builder' on project 'xx proj'. java.lang.NullPointerException
+proj.android下面的 ".cproject"文件
+fix: 更新sdk
                                                
-                                               
-                                    
+21. eclipse 卡在
+解决：关闭eclipse, 进入 /Users/admin/.android 删除cache目录和ddms.cfg文件 打开eclipse
+
+22. cocos2d-x 项目 eclipse打开报错：An error has occurred. See error log for more details. java.lang.NullPointerException
+fix: 打开proj.android下面的 ".cproject"文件 删除最后一个cconfiguration
 
 
 
