@@ -559,7 +559,67 @@ fix: 更新sdk
 fix: 打开proj.android下面的 ".cproject"文件 删除最后一个cconfiguration
 
 
+23. test:
+1.查看xcode的版本号和build版本
+$ xcodebuild -version
 
+2.显示当前系统的sdk、及其版本
+$ xcodebuild -showsdks
+
+3.显示工程项目信息
+先cd到工程目录下（有＊.xcodeproj的目录，比如MakeFileTest.xcodeproj），然后输入命令
+$ xcodebuild -list
+
+查看帮助：$ xcodebuild -help，或者随便输入一个不存在的选项：$ xcodebuild -fuck
+查看用法：$ xcodebuild -usage
+查看已安装 sdk 列表：$ xcodebuild -showsdks
+查看当前 Xcode 版本：$ xcodebuild -version
+查看 xcodebuild 目录：$ xcode-select -print-path
+查看项目配置(先cd到项目目录)：$ xcodebuild -showBuildSettings
+编译项目：$ xcodebuild
+
+24. 接入umeng分享出现问题：Unable to execute dex: Multiple dex files define Lcom/sina/sso/RemoteSSO
+解决：umeng自带的sina weibo 和之前项目接入的sina weibo jar冲突了，把新引入的 com.sina.sso 下的RemoteSSO.aidi删除即可
+
+25. 使用umeng自带的cocos2dx demo接入 一直没有图片分享 只有文字
+解决：demo里面的文件CCUMSocialController.java下 方法getFileName 直接eturn fullname.split("/")[1]; 数组第2个了 导致返回的图片路径错了
+应该要去掉 "res/" 或者 "assert/" 后返回字符串, demo 只考虑 assert /res 直接目录下的图片资源了 没考虑里面还有可能是文件夹呢.
+
+26. 制作带签名的调试证书：
+1. 首先当然是先复制一份正式证书出来作为要修改为的临时调试证书。
+2. 修改keystore密码的命令(keytool为JDK带的命令行工具)：
+keytool -storepasswd -keystore my.keystore
+其中，my.keystore是复制出来的证书文件，执行后会提示输入证书的当前密码，和新密码以及重复新密码确认。这一步需要将密码改为android。
+3. 修改keystore的alias：
+keytool -changealias -keystore my.keystore -alias my_name -destalias androiddebugkey
+这一步中，my_name是证书中当前的alias，-destalias指定的是要修改为的alias，这里按规矩来，改为androiddebugkey！这个命令会先后提示输入keystore的密码和当前alias的密码。
+4. 修改alias的密码：
+keytool -keypasswd -keystore my.keystore -alias androiddebugkey
+这一步执行后会提示输入keystore密码，alias密码，然后提示输入新的alias密码，同样，按规矩来，改为android！
+以上几个操作执行后，my.keystore就是符合规矩的debug keystore了，接着在Eclipse的ADT设置中选中这个custom debug keystore即可。
+
+27. cocos2dx android 动态加载多个第三方so库：
+1. proj.android/jni 下创建prebuilt文件夹，把so库放到该文件夹下。
+2. 打开Android.mk文件，添加：
+
+LOCAL_PATH := $(call my-dir)
+
+// add so ！！！
+include $(CLEAR_VARS)
+#¼ÓÔØlibegamepay_dr2.so
+LOCAL_MODULE := egamepay_dr2
+LOCAL_SRC_FILES :=  prebuilt/libegamepay_dr2.so
+include $(PREBUILT_SHARED_LIBRARY)
+LOCAL_SHARED_LIBRARIES := $(LOCAL_PATH)/prebuilt/egamepay_dr2
+
+include $(CLEAR_VARS)
+#¼ÓÔØlibentryex.so
+LOCAL_MODULE := entryex
+LOCAL_SRC_FILES :=  prebuilt/libentryex.so
+include $(PREBUILT_SHARED_LIBRARY)
+LOCAL_SHARED_LIBRARIES := $(LOCAL_PATH)/prebuilt/entryex
+
+28.
 
 
 
