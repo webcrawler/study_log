@@ -606,14 +606,14 @@ LOCAL_PATH := $(call my-dir)
 
 // add so ！！！
 include $(CLEAR_VARS)
-#¼ÓÔØlibegamepay_dr2.so
+# libegamepay_dr2.so  $(TARGET_ARCH_ABI)/
 LOCAL_MODULE := egamepay_dr2
 LOCAL_SRC_FILES :=  prebuilt/libegamepay_dr2.so
 include $(PREBUILT_SHARED_LIBRARY)
 LOCAL_SHARED_LIBRARIES := $(LOCAL_PATH)/prebuilt/egamepay_dr2
 
 include $(CLEAR_VARS)
-#¼ÓÔØlibentryex.so
+# libentryex.so    $(TARGET_ARCH_ABI)/
 LOCAL_MODULE := entryex
 LOCAL_SRC_FILES :=  prebuilt/libentryex.so
 include $(PREBUILT_SHARED_LIBRARY)
