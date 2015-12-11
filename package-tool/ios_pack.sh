@@ -80,8 +80,8 @@ fi
 if test -e "$iapExportDir" 
 then
 	echo ""
-	echo "~~~~~~~~~~~~~~~~ success ~~~~~~~~~~~~~~~~~~~~~~"
-	echo "生成的文件路径: $iapExportDir"
+	echo -e "\033[35m~~~~~~~~~~~~~~~~ success ~~~~~~~~~~~~~~~~~~~~~~\033[0m"
+	echo -e "\033[35m生成的文件路径: "${iapExportDir}"\033[0m"
 else 
 	echo "生成失败! $iapExportDir 文件不存在!!!!!!"
 	exit 1
@@ -104,13 +104,13 @@ else
 fi
 
 ########### 信息 ############
-echo "项目名称: "${targetName}""
-echo "编译模式: "${buildConfig}""
-echo "打包时间: "${curTime}""
-echo "登陆用户: "${LOGNAME}""
-echo "登陆地址: "${loginIp}""
-echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo ""
+echo -e "\033[35m项目名称: "${targetName}" \033[0m"
+echo -e "\033[35m编译模式: "${buildConfig}" \033[0m"
+echo -e "\033[35m打包时间: "${curTime}" \033[0m"
+echo -e "\033[35m登陆用户: "${LOGNAME}" \033[0m"
+echo -e "\033[35m登陆地址: "${loginIp}" \033[0m"
+echo -e "\033[35m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo -e "\033[0m\033[0m"
 
 
 

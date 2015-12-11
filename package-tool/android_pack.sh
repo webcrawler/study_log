@@ -11,7 +11,7 @@ chmod 777 "$0"
 ########### 项目配置 ############
 targetName="shellIpaTest"  #target name
 projctDir="/Users/admin/Documents/shellIpaTest"  #项目目录(可选)
-buildConfig="Release"  #编译配置 Debug Release (可选)
+buildConfig="Debug"  #编译配置 Debug Release (可选)
 androidPlat=17 # android sdk 编译版本 (可选)
 apkOutputPath=""  # apk生成路径, 默认工程目录下 (可选)
 aotuInstall=""	#打包完,是否自动安装到设备上(true,false), 默认false (可选)
@@ -67,8 +67,8 @@ cp ${tmpApkFile} ${apkOutputFile}
 if test -e "${apkOutputFile}" 
 then
 	echo ""
-	echo "~~~~~~~~~~~~~~~~ success ~~~~~~~~~~~~~~~~~~~~~~"
-	echo "生成的apk文件路径: $apkOutputFile"
+	echo -e "\033[35m~~~~~~~~~~~~~~~~ success ~~~~~~~~~~~~~~~~~~~~~~\033[0m"
+	echo -e "\033[35m生成的apk文件路径: "${apkOutputFile}"\033[0m"
 else 
 	echo "生成apk失败! $apkOutputFile 文件不存在!!!!!!"
 	echo "请检查: $tmpApkFilePath 文件是否存在!!!!!"
@@ -92,13 +92,13 @@ else
 fi
 
 ########### 信息 ############
-echo "项目名称: "${targetName}""
-echo "编译模式: "${buildConfig}""
-echo "打包时间: "${curTime}""
-echo "登陆用户: "${LOGNAME}""
-echo "登陆地址: "${loginIp}""
-echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo ""
+echo -e "\033[35m项目名称: "${targetName}" \033[0m"
+echo -e "\033[35m编译模式: "${buildConfig}" \033[0m"
+echo -e "\033[35m打包时间: "${curTime}" \033[0m"
+echo -e "\033[35m登陆用户: "${LOGNAME}" \033[0m"
+echo -e "\033[35m登陆地址: "${loginIp}" \033[0m"
+echo -e "\033[35m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo -e "\033[0m\033[0m"
 
 ########### 安装到设备上 ############
 if [ "${aotuInstall}"x = "true"x ]
