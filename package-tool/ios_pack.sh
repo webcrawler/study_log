@@ -10,7 +10,7 @@ chmod 777 "$0"
 ########### 项目配置 ############
 targetName="shellIpaTest iOS"  #target name
 buildConfig="Release"  #编译配置 Debug Release
-projctDir=""  #项目目录(可选)
+projctDir="/Users/admin/Documents/shellIpaTest/proj.ios_mac"  #项目目录(可选)
 # codeSignIdentity="iPhone Distribution: Feiyu Co.,Ltd. (xxxx)"  #证书(可选)
 # provisionFile="/Users/admin/Documents/XC_Ad_Hoc_comxxxx.mobileprovision" #描述文件(可选)
 

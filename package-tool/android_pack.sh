@@ -14,6 +14,7 @@ projctDir="/Users/admin/Documents/shellIpaTest"  #项目目录(可选)
 buildConfig="Release"  #编译配置 Debug Release (可选)
 androidPlat=17 # android sdk 编译版本 (可选)
 apkOutputPath=""  # apk生成路径, 默认工程目录下 (可选)
+aotuInstall=""	#打包完,是否自动安装到设备上(true,false), 默认false (可选)
 
 ########### 目录名称初始化 ############
 if test ${#projctDir} -eq 0
@@ -99,7 +100,12 @@ echo "登陆地址: "${loginIp}""
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo ""
 
-
+########### 安装到设备上 ############
+if [ "${aotuInstall}"x = "true"x ]
+then
+	echo "安装中..."
+	adb install "$apkOutputFile"
+fi
 
 
 
