@@ -4,6 +4,8 @@
 chmod 777 "$0"
 
 ########### ReadMe ############
+# cocos2d-x android项目打包
+# 配置好android开发环境
 # android工程下 配置好ant.properties文件签名证书
 
 ########### 项目配置 ############
