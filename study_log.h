@@ -619,7 +619,14 @@ LOCAL_SRC_FILES :=  prebuilt/libentryex.so
 include $(PREBUILT_SHARED_LIBRARY)
 LOCAL_SHARED_LIBRARIES := $(LOCAL_PATH)/prebuilt/entryex
 
-28.
+28. android 下ant.properties文件签名证书配置：
+key.alias.password=123456
+key.store.password=123456
+key.store=/Users/admin/Documents/shellIpaTest/proj.android/mykey.keystore
+key.alias=fjut
+
+29.
+
 
 
 
