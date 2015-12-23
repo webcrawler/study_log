@@ -625,12 +625,18 @@ key.store.password=123456
 key.store=/Users/admin/Documents/shellIpaTest/proj.android/mykey.keystore
 key.alias=fjut
 
-29.
+29. mac 打开android sdk mananger: 终端进入/Users/admin/Documents/game/adt-bundle-mac-x86_64-20140624/sdk/tools
+    执行./android sdk
 
+30. mac解压:
+ndk$ chmod a+x android-ndk-r10c-darwin-x86_64.bin
+ndk$ ./android-ndk-r10c-darwin-x86_64.bin
 
+31. android 修改项目名称: /Users/admin/Documents/git/BatteryClient/Maze2.0.0/proj.android_feiyu/.project
+<projectDescription>
+<name>改名</name>
 
-
-
+32. 
 
 
 

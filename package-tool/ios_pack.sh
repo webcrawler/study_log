@@ -1,5 +1,5 @@
 #!/bin/bash
-# security unlock-keychain -p " " ~/Library/Keychains/login.keychain
+security unlock-keychain -p " " ~/Library/Keychains/login.keychain
 # 当前文件权限
 chmod 777 "$0"
 
