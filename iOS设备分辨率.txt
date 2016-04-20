@@ -5,6 +5,7 @@ iPhone/iPod Touch:
 16：9 Retina屏 4.0寸 640像素 x 1136像素 iPhone 5，5s, 5c, iPod Touch 5
 16: 9(类似) iphone6/iphone6s 4.7英寸 1334x750像素
 16: 9 iphone6 plus/iphone6s plus 5.5英寸 1920x1080像素
+16: 9 iphoneSE 4英寸 640x1136像素
 
 iPad: 
 4：3 普通屏 9.7寸 768像素 x 1024像素 iPad 1， iPad2，iPad mini(7.9寸)
