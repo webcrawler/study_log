@@ -668,7 +668,23 @@ MY_ALL_DIRS := $(call uniq,$(MY_ALL_DIRS))
 LOCAL_SRC_FILES  := $(MY_SRC_LIST)
 LOCAL_C_INCLUDES := $(MY_ALL_DIRS)
 
-33.
+33. "your hardware does not support this application " 
+unity android studio
+https://segmentfault.com/a/1190000005646078
+http://blog.csdn.net/justfwd/article/details/49308199
+https://github.com/googlesamples/android-ndk/blob/master/hello-jni/app/build.gradle
+build.gradle 加：
+productFlavors {  
+    fjut {  
+        ndk {  
+            abiFilters "armeabi-v7a"  
+            abiFilters "x86"  
+            abiFilters "armeabi"  
+        }  
+    }  
+}  
+指定支持架构。不指定默认所有，导致找不到对应目录的so文件
+
 
 
 
