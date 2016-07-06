@@ -673,7 +673,7 @@ unity android studio
 https://segmentfault.com/a/1190000005646078
 http://blog.csdn.net/justfwd/article/details/49308199
 https://github.com/googlesamples/android-ndk/blob/master/hello-jni/app/build.gradle
-build.gradle 加：
+build.gradle 指定支持架构。不指定默认所有，导致找不到对应目录的so文件, 加：
 productFlavors {  
     fjut {  
         ndk {  
@@ -683,7 +683,9 @@ productFlavors {
         }  
     }  
 }  
-指定支持架构。不指定默认所有，导致找不到对应目录的so文件
+当一个应用安装在设备上，只有该设备支持的CPU架构对应的.so文件会被安装。在x86设备上，libs/x86目录中如果存在.so文件的话，会被安装，如果不存在，
+则会选择armeabi-v7a中的.so文件，如果也不存在，则选择armeabi目录中的.so文件（因为x86设备也支持armeabi-v7a和armeabi）。
+
 
 
 
