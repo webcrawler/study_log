@@ -673,19 +673,39 @@ unity android studio
 https://segmentfault.com/a/1190000005646078
 http://blog.csdn.net/justfwd/article/details/49308199
 https://github.com/googlesamples/android-ndk/blob/master/hello-jni/app/build.gradle
-build.gradle 指定支持架构。不指定默认所有，导致找不到对应目录的so文件, 加：
+指定支持架构。不指定则默认支持所有架构（可以打出apk包解压查看lib目录），假如当前项目没有对应架构的so库，则打进apk的/lib/<abi>/lib<name>.so只有目录没有对应的so库。导致安装的时候没有copy对应的so, 运行出错
 productFlavors {  
     fjut {  
         ndk {  
             abiFilters "armeabi-v7a"  
-            abiFilters "x86"  
-            abiFilters "armeabi"  
+            abiFilters "x86"
         }  
     }  
 }  
 当一个应用安装在设备上，只有该设备支持的CPU架构对应的.so文件会被安装。在x86设备上，libs/x86目录中如果存在.so文件的话，会被安装，如果不存在，
 则会选择armeabi-v7a中的.so文件，如果也不存在，则选择armeabi目录中的.so文件（因为x86设备也支持armeabi-v7a和armeabi）。
 
+http://unity3d.com/cn/unity/system-requirements
+Unity5 does not support armeabi, just armeabi-v7。---- Android：OS 2.3.1 或更新版本；含有 NEON 支持的 ARMv7 (Cortex) CPU，或 Atom CPU；OpenGL ES2.0或更高版本。
+
+https://developer.android.com/ndk/guides/abis.html#am
+By default, the NDK generates machine code for the armeabi ABI. You can generate ARMv7-a-compatible machine code, instead, 
+by adding the following line to your Application.mk file.
+APP_ABI := armeabi-v7a
+To build machine code for two or more distinct ABIs, using spaces as delimiters. For example:
+APP_ABI := armeabi armeabi-v7a
+This setting tells the NDK to build two versions of your machine code: one for each ABI listed on this line. For more 
+information on the values you can specify for the APP_ABI variable, see Android.mk.
+When you build multiple machine-code versions, the build system copies the libraries to your application project path, 
+and ultimately packages them into your APK, so creating a fat binary. A fat binary is larger than one containing only 
+the machine code for a single system; the tradeoff is gaining wider compatibility, but at the expense of a larger APK.
+At installation time, the package manager unpacks only the most appropriate machine code for the target device. For details,
+ see Automatic extraction of native code at install time.
+
+Note: ARMv7-based Android devices running 4.0.3 or earlier install native libraries from the armeabi directory instead of the armeabi-v7a directory 
+if both directories exist. This is because /lib/armeabi/ comes after /lib/armeabi-v7a/ in the APK. This issue is fixed from 4.0.4.
+
+34. 
 
 
 
