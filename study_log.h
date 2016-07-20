@@ -713,9 +713,15 @@ if both directories exist. This is because /lib/armeabi/ comes after /lib/armeab
         <string>UIInterfaceOrientationLandscapeRight</string>  // The device is in landscape mode, with the device held upright and the home button on the right side.
         <string>UIInterfaceOrientationLandscapeLeft</string>  // The device is in landscape mode, with the device held upright and the home button on the left side.
     </array>
+    Note: 和unity提供的 LandscapeLeft LandscapeRight  定义方向相反。
 
+36. keytool -list -v -keystore keystore.jks
 
+37. adb push /Users/admin/Documents/123.zip sdcard/  (Copies a specified file from your development computer to an emulator/device instance)
+    adb pull sdcard/123.zip /Users/admin/Documents/  (Copies a specified file from an emulator/device instance to your development computer)
+    可以是目录。
 
+38. 
 
 
 
