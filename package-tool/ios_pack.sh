@@ -1,7 +1,7 @@
 #!/bin/bash
-security unlock-keychain -p " " ~/Library/Keychains/login.keychain
+#security unlock-keychain -p " " ~/Library/Keychains/login.keychain
 # 当前文件权限
-chmod 777 "$0"
+#chmod 777 "$0"
 
 ########### ReadMe ############
 # cocos2d-x ios项目打包
@@ -9,6 +9,7 @@ chmod 777 "$0"
 
 ########### 项目配置 ############
 targetName="shellIpaTest iOS"  #target name
+productName="shellIpaTest iOS"  #product name
 buildConfig="Release"  #编译配置 Debug Release
 projctDir="/Users/admin/Documents/shellIpaTest/proj.ios_mac"  #项目目录(可选)
 # codeSignIdentity="iPhone Distribution: Feiyu Co.,Ltd. (xxxx)"  #证书(可选)
@@ -25,7 +26,7 @@ buildDir=$projctDir/build  #build目录
 appDir=$buildDir/$buildConfig-iphoneos	#build对应配置目录
 ipaName=`echo $targetName | tr "[:upper:]" "[:lower:]"` #iap名称转小写
 formatFileName=_"${buildConfig}"_"${curTime}"
-appFileDir=$appDir/"${targetName}".app  #生成的.app文件
+appFileDir=$appDir/"${productName}".app  #生成的.app文件
 iapExportDir=$appDir/"${ipaName}"${formatFileName}.ipa  #生成的.iap文件
 
 ########### 删除build ############
