@@ -15,6 +15,13 @@ projctDir="/Users/admin/Documents/shellIpaTest/proj.ios_mac"  #项目目录(可�
 # codeSignIdentity="iPhone Distribution: Feiyu Co.,Ltd. (xxxx)"  #证书(可选)
 # provisionFile="/Users/admin/Documents/XC_Ad_Hoc_comxxxx.mobileprovision" #描述文件(可选)
 
+installFileScriptName="transporter_chief.rb"  #安装ipa到设备脚本
+
+######## 安装ipa到设备脚本 ###########
+fileRootPath=${0%/*}
+installFileScriptName="transporter_chief.rb"
+chmod 777 ${fileRootPath}/${installFileScriptName}
+
 ########### 目录名称初始化 ############
 if test ${#projctDir} -eq 0
 then
@@ -36,7 +43,7 @@ iapExportDir=$appDir/"${ipaName}"${formatFileName}.ipa  #生成的.iap文件
 ########### 执行结果检测 ############
 resultCheck()
 {
-	operateStr=("Clean" "编译" "生成ipa")
+	operateStr=("Clean" "编译" "生成ipa" "安装ipa")
     if test $2 -eq 0 
     then
     	echo "~~~~~~~~~~~~~~~~~~~${operateStr[$1]}成功~~~~~~~~~~~~~~~~~~~"
@@ -113,8 +120,16 @@ echo -e "\033[35m登陆地址: "${loginIp}" \033[0m"
 echo -e "\033[35m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo -e "\033[0m\033[0m"
 
+########### 安装ipa到设备上 ############
+installIpaScriptPath=${0%/*}/${installFileScriptName}
+chmod 777 installIpaScriptPath
 
-
+echo -e "\033[35m"~~~~~~~~~~~~~~~~~~~ 正在安装... /~~~~~~~~~~~~~~~" \033[0m"
+# install ipa to device
+${installIpaScriptPath} ${iapExportDir}
+resultCheck 3 $?
+#echo -e "\033[35m"~~~~~~~~~~~~~~~~~~~ 安装成功！~~~~~~~~~~~~~~~~~~~" \033[0m"
+echo -e "\033[0m\033[0m"
 
 
 
