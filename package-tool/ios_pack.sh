@@ -122,7 +122,7 @@ echo -e "\033[0m\033[0m"
 
 ########### 安装ipa到设备上 ############
 installIpaScriptPath=${0%/*}/${installFileScriptName}
-chmod 777 installIpaScriptPath
+chmod 777 ${installIpaScriptPath}
 
 echo -e "\033[35m"~~~~~~~~~~~~~~~~~~~ 正在安装... /~~~~~~~~~~~~~~~" \033[0m"
 # install ipa to device
