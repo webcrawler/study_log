@@ -721,11 +721,58 @@ if both directories exist. This is because /lib/armeabi/ comes after /lib/armeab
     adb pull sdcard/123.zip /Users/admin/Documents/  (Copies a specified file from an emulator/device instance to your development computer)
     可以是目录。
 
-38. 
+38. xcodebuild test -destination "platform=iOS,id=400d20d00baf8d4997b47be0416cf5c44dd2d3bc" -scheme Unity-iPhone  (id 是设备id)
 
+39. 
+auto t = std::thread(CC_CALLBACK_2(PlayerIconMgr::download, this);
+t.detach();
+// Create a file to save jpg
+bool PlayerIconMgr::download(std::string id, std::string path)
+{
+    // android
+    // pthread_create创建的新线程默认情况下是不能进行Jni接口调用的，
+    // 除非Attach到Vm，获得一个JniEnv对象，并且在线程exit前要Detach Vm。
+#if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
+    JavaVM *vm;
+    JNIEnv *env;
+    vm = JniHelper::getJavaVM();
 
+    JavaVMAttachArgs thread_args;
+    thread_args.name = "download path";
+    thread_args.version = JNI_VERSION_1_4;
+    thread_args.group = NULL;
 
+    vm->AttachCurrentThread(&env, &thread_args);
+    std::string dirPath = FileUtils::getInstance()->getWritablePath() + "icon/" + getSourceId();
+    vm->DetachCurrentThread();
+#else
+    std::string dirPath = FileUtils::getInstance()->getWritablePath() + "icon/" + getSourceId();
+#endif
+}
 
+40. IOS: 
+Armv6、armv7、armv7s、arm64都是arm处理器的指令集，所有指令集原则上都是向下兼容的，如iPhone4S的CPU默认指令集为armv7指令集，
+但它同时也兼容armv6指令集，只是使用armv6指令集时无法充分发挥其性能，即无法使用armv7指令集中的新特性，同理，iPhone5的处理器标配armv7s指令集，
+同时也支持armv7指令集，只是无法进行相关的性能优化，从而导致程序的执行效率没那么高。
+需要注意的是iOS模拟器没有运行arm指令集，编译运行的是x86指令集，所以，只有在iOS设备上，才会执行设备对应的arm指令集。
+Architectures：      
+指明选定Target要求被编译生成的二进制包所支持的指令集支持指令集是通过编译生成对应的二进制数据包实现的，如果支持的指令集数目有多个，
+就会编译出包含多个指令集代码的数据包，从而会造成最终编译生成的包很大。
+
+Valid Architectures：
+指明可能支持的指令集并非Architectures列表中指明的指令集都会被支持，Valid Architectures限制可能被支持的指令集的范围，
+即Valid Architectures和Architectures列表的交集，才是XCode最终生成二进制包所支持的指令集。
+比如，将Architectures支持arm指令集设置为：armv7,armv7s，对应的Valid Architectures的支持的指令集设置为：armv7s,arm64，那么此时，XCode生成二进制包所支持的指令集只有armv7s.
+
+Build Active Architecture Only:
+指明是否只编译当前连接设备所支持的指令集
+该选项起作用的条件有两个，必须同时满足才会起作用：
+1. 其值设置为YES
+2. XCode成功连接调试设备
+假定我们将Build Active Architecture Only值设置为YES，同时XCode连接上手机iPhone5S（匹配指令集arm64）
+http://www.cocoachina.com/ios/20140915/9620.html
+
+41. 
 
 
 
