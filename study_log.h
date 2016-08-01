@@ -772,8 +772,14 @@ Build Active Architecture Only:
 假定我们将Build Active Architecture Only值设置为YES，同时XCode连接上手机iPhone5S（匹配指令集arm64）
 http://www.cocoachina.com/ios/20140915/9620.html
 
-41. 
-
+41. ios奔溃日志查找:
+如果你想自己重新生成崩溃报告，请遵照以下指引：
+1.xcode连接上真机，target选择真机run
+2.编译运行成功，应用启动到默认页面（应用的全屏图片）时，立即在Xcode上点击停止按钮
+3.关闭 Xcode
+4.在设备上直接打开应用，测试奔溃位置，使之产生奔溃
+5.测试完成后，连接设备到电脑上，通过Xcode获取崩溃日志
+6.window -> devices -> view devices logs
 
 
 
