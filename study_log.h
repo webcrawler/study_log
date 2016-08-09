@@ -781,7 +781,8 @@ http://www.cocoachina.com/ios/20140915/9620.html
 4.在设备上直接打开应用，测试奔溃位置，使之产生奔溃
 5.测试完成后，连接设备到电脑上，通过Xcode获取崩溃日志
 6.window -> devices -> view devices logs
-7. mac上快速搜索工具 Alfred 2
+
+42. mac上快速搜索工具 Alfred 2
 
 
 
