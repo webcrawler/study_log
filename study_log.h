@@ -705,7 +705,7 @@ At installation time, the package manager unpacks only the most appropriate mach
 Note: ARMv7-based Android devices running 4.0.3 or earlier install native libraries from the armeabi directory instead of the armeabi-v7a directory 
 if both directories exist. This is because /lib/armeabi/ comes after /lib/armeabi-v7a/ in the APK. This issue is fixed from 4.0.4.
 
-34. mac下 打开git忽略的全局文件列表 open ~/.gitignore_global , 针对项目忽略的文件列表在项目目录下的 .gitignore sourcetree 可以在设置->高级... 打开编辑。
+34. mac下 打开git忽略的全局文件列表 open ~/.gitignore_global (目录git工具界面修改) , 针对项目忽略的文件列表在项目目录下的 .gitignore sourcetree 可以在设置->高级... 打开编辑。
 
 35. unity 设置屏幕在Landscape自动旋转，导出的ios工程默认是home键在右边UIInterfaceOrientationLandscapeRight(符合操作习惯)。在info.plist下保证UIInterfaceOrientationLandscapeRight在前面。：
     <key>UISupportedInterfaceOrientations</key>
