@@ -4,3 +4,5 @@
 lick the "+" at the right of "Burst" and set the burst time to "0.00".
 2. 粒子系统材质的texture POT textures，否则ios上有问题。
 3. 有些渐变颜色的图片在iOS上出现块状，设置图片Format为Truecolor
+4. 导出的ios 运行默认30帧，可以改为60， Application.targetFrameRate = 60;
+5. 
