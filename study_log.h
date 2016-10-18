@@ -783,9 +783,29 @@ http://www.cocoachina.com/ios/20140915/9620.html
 6.window -> devices -> view devices logs
 
 42. mac上快速搜索工具 Alfred 2
-
-
-
+43. void Scheduler::performFunctionInCocosThread(const std::function<void ()> &function)  
+/** calls a function on the cocos2d thread. Useful when you need to call a cocos2d function from another thread.  
+This function is thread safe.  
+@since v3.0  
+*/
+ eg:     
+auto t = std::thread(&AssetsManager::downloadAndUncompress, this);
+t.detach();
+void AssetsManager::downloadAndUncompress()
+{
+        // Uncompress zip file.
+        if (! uncompress())
+        {
+            Director::getInstance()->getScheduler()->performFunctionInCocosThread([&, this]{
+            	UserDefault::getInstance()->setStringForKey(this->keyOfDownloadedVersion().c_str(),"");
+                UserDefault::getInstance()->flush();
+                if (this->_delegate)
+                    this->_delegate->onError(ErrorCode::UNCOMPRESS);
+            });
+            break;
+        }
+	 // ........
+ }
 
 
 
