@@ -1,7 +1,7 @@
 #!/bin/bash
 security unlock-keychain -p " " ~/Library/Keychains/login.keychain
 # 当前文件权限
-chmod 777 "$0"
+# chmod 777 "$0"
 
 ########### ReadMe ############
 # cocos2d-x android项目打包
