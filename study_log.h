@@ -807,7 +807,10 @@ void AssetsManager::downloadAndUncompress()
 	 // ........
  }
 
-
+44. 打开eclipse报错：“a java runtime environment or java development kit must be available in order to run eclipse”。
+解决：打开eclipse.ini 在-vmargs前面添加：
+-vm
+E:\android\jdk1.8.0_101\jre\bin
 
 
 
