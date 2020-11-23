@@ -15,6 +15,9 @@ iPad:
 iphonex:
 13：6, 5.8寸, 2436 x 1125（2.166666666）
 
+iphone12
+13：6, 2532 x 1170（2.166666666）
+
 static const float c_iphone5_ratio = 16.0f/9.0f; // 1.777
 static const float c_iphone4_ratio = 3.0f/2.0f; // 1.5
 static const float c_ipad_ratio = 4.0f/3.0f; // 1.33
